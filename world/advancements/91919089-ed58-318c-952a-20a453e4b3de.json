@@ -3793,45 +3793,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2026-03-05 23:08:28 +0800"
-    },
-    "done": true
-  },
   "rusticdelight:recipes/misc/string_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2026-03-05 22:36:49 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2026-03-05 23:06:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2026-03-05 22:47:00 +0800"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2026-03-05 23:08:14 +0800"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/bread_bag": {
-    "criteria": {
-      "has_bread": "2026-03-05 22:49:10 +0800"
     },
     "done": true
   },
@@ -3841,37 +3805,13 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_feast": {
-    "criteria": {
-      "shepherds_pie": "2026-03-05 23:08:55 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2026-03-05 22:52:15 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/cooking/item/batter": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2026-03-05 22:48:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2026-03-05 22:52:15 +0800"
-    },
-    "done": true
-  },
   "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2026-03-05 22:36:49 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2026-03-05 22:36:49 +0800"
     },
@@ -3883,15 +3823,63 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
+      "has_sugar_cane": "2026-03-05 22:37:51 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
+      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/berry_crate": {
+    "criteria": {
+      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-03-05 22:47:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2026-03-05 22:48:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-03-05 22:48:49 +0800"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/bread_bag": {
+    "criteria": {
+      "has_bread": "2026-03-05 22:49:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2026-03-05 22:52:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-03-05 22:52:15 +0800"
     },
     "done": true
   },
@@ -3907,21 +3895,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
-      "has_sugar_cane": "2026-03-05 22:37:51 +0800"
+      "has_milk_bucket": "2026-03-05 23:06:20 +0800"
     },
     "done": true
   },
-  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+  "rusticdelight:recipes/cooking/item/batter": {
     "criteria": {
-      "has_cotton_boll": "2026-03-05 22:36:49 +0800"
+      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_bowl": "2026-03-05 23:08:28 +0800"
+      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-05 23:06:20 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2026-03-05 23:06:20 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-03-05 23:08:14 +0800"
     },
     "done": true
   },
@@ -3931,27 +3937,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
+      "has_bowl": "2026-03-05 23:08:28 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "has_hay_block": "2026-03-05 22:48:49 +0800"
+      "has_bowl": "2026-03-05 23:08:28 +0800"
     },
     "done": true
   },
-  "cratedelight:recipes/building_blocks/berry_crate": {
+  "farmersdelight:main/place_feast": {
     "criteria": {
-      "has_sweet_berries": "2026-03-05 22:45:49 +0800"
+      "shepherds_pie": "2026-03-05 23:08:55 +0800"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_milk_bucket": "2026-03-05 23:06:20 +0800"
+      "has_netherite_upgrade_smithing_template": "2026-03-06 23:48:04 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "shepherds_pie": "2026-03-06 23:45:42 +0800"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2026-03-06 23:45:42 +0800"
     },
     "done": true
   },
