@@ -5,5 +5,5 @@ git commit -m "%date% %time%"
 git pull origin main
 
 echo Starting Minecraft server...
-java -Xms6G -Xmx8G -jar fabric-server-launch.jar 
+java -Xms16G -Xmx16G -jar fabric-server-launch.jar 
 pause
