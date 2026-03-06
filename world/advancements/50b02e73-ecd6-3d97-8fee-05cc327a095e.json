@@ -3648,51 +3648,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "fried_egg": "2026-03-06 01:45:52 +0800"
+      "elytra": "2026-03-06 00:26:14 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_fried_egg": "2026-03-06 01:47:01 +0800"
+      "has_log": "2026-03-06 00:40:29 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_egg": "2026-03-06 01:45:52 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2026-03-06 01:56:01 +0800"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
-    "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/egg_crate": {
-    "criteria": {
-      "has_egg": "2026-03-06 01:45:52 +0800"
+      "has_logs": "2026-03-06 00:40:29 +0800"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2026-03-06 00:48:09 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/baked_potato_slices": {
-    "criteria": {
-      "has_potato_slices": "2026-03-06 01:59:16 +0800"
     },
     "done": true
   },
@@ -3708,45 +3684,9 @@
     },
     "done": true
   },
-  "rusticdelight:recipes/misc/cherry_blossom_pancake_from_cherry_blossom_pancakes": {
-    "criteria": {
-      "has_cherry_blossom_pancakes": "2026-03-06 02:01:59 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/baked_potato_slices_from_campfire_cooking": {
-    "criteria": {
-      "has_potato_slices": "2026-03-06 01:59:16 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2026-03-06 01:45:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2026-03-06 00:48:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2026-03-06 00:40:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-03-06 01:51:18 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2026-03-06 01:46:31 +0800"
     },
     "done": true
   },
@@ -3756,75 +3696,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/apple_pie_from_slices": {
-    "criteria": {
-      "has_apple_pie_slice": "2026-03-06 01:57:13 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/bell_pepper_roll_yellow": {
-    "criteria": {
-      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/baked_potato_slices_from_smoking": {
-    "criteria": {
-      "has_potato_slices": "2026-03-06 01:59:16 +0800"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/calamari_roll": {
-    "criteria": {
-      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/sleeping_bag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-03-06 01:40:27 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2026-03-06 00:48:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2026-03-06 01:56:01 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2026-03-06 01:32:40 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2026-03-06 02:02:19 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
     },
     "done": true
   },
@@ -3834,15 +3708,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_log": "2026-03-06 01:51:18 +0800"
+      "has_planks": "2026-03-06 00:48:09 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_shelf": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_stripped_dark_oak_log": "2026-03-06 01:51:18 +0800"
+      "has_planks": "2026-03-06 00:48:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-03-06 01:06:49 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2026-03-06 01:32:40 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-03-06 01:32:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-03-06 01:40:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-03-06 01:40:27 +0800"
     },
     "done": true
   },
@@ -3858,51 +3762,63 @@
     },
     "done": true
   },
-  "rusticdelight:recipes/food/cherry_blossom_roll": {
-    "criteria": {
-      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-03-06 01:40:27 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2026-03-06 00:40:29 +0800"
-    },
-    "done": true
-  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2026-03-06 01:42:15 +0800"
     },
     "done": true
   },
-  "comforts:recipes/decorations/hammock_cyan": {
+  "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+      "cooked_bacon": "2026-03-06 01:42:15 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_planks": "2026-03-06 00:48:09 +0800"
+      "fried_egg": "2026-03-06 01:45:52 +0800"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "elytra": "2026-03-06 00:26:14 +0800"
+      "has_egg": "2026-03-06 01:45:52 +0800"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/egg_crate": {
+    "criteria": {
+      "has_egg": "2026-03-06 01:45:52 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2026-03-06 01:45:52 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2026-03-06 01:45:52 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2026-03-06 01:45:52 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2026-03-06 01:46:31 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2026-03-06 01:46:31 +0800"
     },
     "done": true
   },
@@ -3912,39 +3828,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+  "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
-      "has_stripped_logs": "2026-03-06 01:51:18 +0800"
+      "has_fried_egg": "2026-03-06 01:47:01 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "rusticdelight:recipes/food/bell_pepper_roll_yellow": {
     "criteria": {
-      "has_rice": "2026-03-06 01:32:40 +0800"
+      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "rusticdelight:recipes/food/calamari_roll": {
     "criteria": {
-      "has_moss_block": "2026-03-06 02:02:19 +0800"
+      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
-      "has_stone_slab": "2026-03-06 01:06:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-03-06 00:48:09 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_and_eggs": {
-    "criteria": {
-      "has_bacon": "2026-03-06 01:46:31 +0800"
+      "has_cooked_rice": "2026-03-06 01:47:59 +0800"
     },
     "done": true
   },
@@ -3960,9 +3864,117 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
-      "has_egg": "2026-03-06 01:45:52 +0800"
+      "has_log": "2026-03-06 01:51:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-03-06 01:51:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2026-03-06 01:51:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-06 01:51:18 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2026-03-06 01:56:01 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2026-03-06 01:56:01 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
+    "criteria": {
+      "has_apple_pie_slice": "2026-03-06 01:57:13 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices": {
+    "criteria": {
+      "has_potato_slices": "2026-03-06 01:59:16 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices_from_campfire_cooking": {
+    "criteria": {
+      "has_potato_slices": "2026-03-06 01:59:16 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices_from_smoking": {
+    "criteria": {
+      "has_potato_slices": "2026-03-06 01:59:16 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cherry_blossom_pancake_from_cherry_blossom_pancakes": {
+    "criteria": {
+      "has_cherry_blossom_pancakes": "2026-03-06 02:01:59 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2026-03-06 02:02:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-03-06 02:02:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-03-06 02:02:19 +0800"
     },
     "done": true
   },
@@ -3972,15 +3984,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon": {
+  "minecraft:adventure/who_needs_rockets": {
     "criteria": {
-      "cooked_bacon": "2026-03-06 01:42:15 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2026-03-06 01:45:52 +0800"
+      "who_needs_rockets": "2026-03-06 18:22:40 +0800"
     },
     "done": true
   },
