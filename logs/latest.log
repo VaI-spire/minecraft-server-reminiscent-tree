@@ -1,5 +1,5 @@
-[12:38:46] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
-[12:38:47] [main/INFO]: Loading 123 mods:
+[12:41:24] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
+[12:41:24] [main/INFO]: Loading 123 mods:
 	- animal_pen 1.6.2
 	- appleskin 3.0.8+mc1.21.11
 	- architectury 19.0.1
@@ -141,156 +141,156 @@
 	   \-- xaerolib 1.1.0
 	- xaeroworldmap 1.40.11
 	   \-- xaerolib 1.1.0
-[12:38:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Tim/Desktop/minecraft-server-reminiscent-tree/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[12:38:48] [main/INFO]: Compatibility level set to JAVA_21
-[12:38:48] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
-[12:38:48] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:48] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:38:49] [main/WARN]: Error loading class: net/minecraft/class_757 (java.lang.ClassNotFoundException: net/minecraft/class_757)
-[12:38:49] [main/WARN]: @Mixin target net.minecraft.class_757 was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
-[12:38:50] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[12:38:50] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[12:38:50] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
-[12:38:50] [main/WARN]: Error loading class: net/minecraft/class_12225$class_12226 (java.lang.ClassNotFoundException: net/minecraft/class_12225$class_12226)
-[12:38:50] [main/WARN]: @Mixin target net.minecraft.class_12225$class_12226 was not found owo.mixins.json:braid.ClickableStyleFinderAccessor from mod owo
-[12:38:50] [main/WARN]: Error loading class: net/minecraft/class_1921 (java.lang.ClassNotFoundException: net/minecraft/class_1921)
-[12:38:50] [main/WARN]: @Mixin target net.minecraft.class_1921 was not found owo.mixins.json:braid.RenderTypeInvoker from mod owo
-[12:38:50] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
-[12:38:50] [main/WARN]: @Mixin target xyz.nucleoid.server.translations.impl.language.LanguageReader was not found owo.mixins.json:extension.json5.LanguageReaderMixin from mod owo
-[12:38:50] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[12:38:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[12:39:01] [main/INFO]: Registering C2S receiver with id animal_pen:update_display_animal
-[12:39:01] [main/INFO]: Registering C2S receiver with id animal_pen:remove_display_animal
-[12:39:01] [main/INFO]: Registering C2S receiver with id animal_pen:update_configuration
-[12:39:02] [main/INFO]: Loading Collective version 8.13.
-[12:39:02] [main/INFO]: Registering Item Groups for cratedelight
-[12:39:02] [main/INFO]: Registering mod blocks for cratedelight
-[12:39:02] [main/INFO]: Initialized Farmers Delight compatibility
-[12:39:02] [main/INFO]: Initialized Oceans Delight compatibility
-[12:39:02] [main/INFO]: Initialized Pineapple Delight compatibility
-[12:39:02] [main/INFO]: Initialized Corn Delight compatibility
-[12:39:02] [main/INFO]: Initialized End's Delight compatibility
-[12:39:02] [main/INFO]: Initialized My Nether's Delight compatibility
-[12:39:02] [main/INFO]: Initialized Expanded Delight compatibility
-[12:39:02] [main/INFO]: Initialized Delightful compatibility
-[12:39:02] [main/INFO]: Initialized Alex Delight compatibility
-[12:39:02] [main/INFO]: Initialized Cultural Delight compatibility
-[12:39:02] [main/INFO]: Initialized Large Meals compatibility
-[12:39:02] [main/INFO]: Initialized Festive Delight compatibility
-[12:39:02] [main/INFO]: Initialized Ender Delight compatibility
-[12:39:02] [main/INFO]: Initialized Aquaculture Delight compatibility
-[12:39:02] [main/INFO]: Initialized Brewin n Chewin compatibility
-[12:39:02] [main/INFO]: Initialized Crabber's Delight compatibility
-[12:39:02] [main/INFO]: Initialized Display Delight Blocks
-[12:39:02] [main/INFO]: Initialized Display Delight
-[12:39:03] [main/INFO]: Loaded config farmersdelight-common.json
-[12:39:03] [main/INFO]: Reflections took 263 ms to scan 1 urls, producing 8 keys and 73 values
-[12:39:04] [main/INFO]: Initializing JamLib on Fabric
-[12:39:04] [main/INFO]: Constructing components for leavesbegone:common
-[12:39:04] [main/INFO]: Definitely not up to no good
-[12:39:04] [main/INFO]: fuck i need to update tags again
-[12:39:04] [main/INFO]: Constructing components for puzzleslib:common
-[12:39:04] [main/INFO]: Updated config file at C:\Users\Tim\Desktop\minecraft-server-reminiscent-tree\config\rightclickharvest.json5
-[12:39:04] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[12:39:04] [main/INFO]: Registering items for rusticdelight
-[12:39:04] [main/INFO]: Registering blocks for rusticdelight
-[12:39:04] [main/INFO]: Registering potions for rusticdelight
-[12:39:04] [main/INFO]: Registering biome modifications for rusticdelight
-[12:39:04] [main/INFO]: Registering placement modifiers for rusticdelight
-[12:39:04] [main/INFO]: Registering item group for rusticdelight
-[12:39:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[12:39:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[12:39:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[12:39:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[12:39:07] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2b8a136e]
-[12:39:07] [main/INFO]: WorldEdit for Fabric (version 7.4.0+7381-3decaf0) is loaded
-[12:39:07] [main/INFO]: Registering common data for channel xaerolib:main!
-[12:39:07] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[12:39:07] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[12:39:07] [main/INFO]: Loading XaeroLib common 1/2!
-[12:39:07] [main/INFO]: Loading XaeroLib server 1/2!
-[12:39:07] [main/INFO]: Registering common data for channel xaerominimap:main!
-[12:39:07] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[12:39:07] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[12:39:07] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[12:39:07] [main/INFO]: Registering common data for channel xaeroworldmap:main!
-[12:39:07] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
-[12:39:07] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
-[12:39:07] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[12:39:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:39:10] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:enderite_knife' from 'farmersknives:recipe/enderite_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:enderite_knife; Second: Not a string: {"id":"farmersknives:enderite_knife"}; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:featherzeal_knife' from 'farmersknives:recipe/featherzeal_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:featherzeal_knife; Second: Not a string: {"id":"farmersknives:featherzeal_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_upgrade_smithing_template']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_diamond_knife' from 'farmersknives:recipe/netherite_diamond_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_diamond_knife; Second: Not a string: {"id":"farmersknives:netherite_diamond_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_diamond_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_diamond_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_diamond_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_emerald_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_emerald_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_emerald_knife' from 'farmersknives:recipe/netherite_emerald_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife; Second: Not a string: {"id":"farmersknives:netherite_emerald_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_emerald_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_emerald_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_emerald_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_gold_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_gold_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_gold_knife' from 'farmersknives:recipe/netherite_gold_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife; Second: Not a string: {"id":"farmersknives:netherite_gold_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_gold_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_gold_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_gold_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_iron_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_iron_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_iron_knife' from 'farmersknives:recipe/netherite_iron_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife; Second: Not a string: {"id":"farmersknives:netherite_iron_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_iron_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_iron_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_iron_ingot']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:remnant_knife' from 'farmersknives:recipe/remnant_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:remnant_knife; Second: Not a string: {"id":"farmersknives:remnant_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_upgrade_smithing_template']
-[12:39:11] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:rose_knife' from 'farmersknives:recipe/rose_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:rose_knife; Second: Not a string: {"id":"farmersknives:rose_knife"}; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_ingot; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_upgrade_smithing_template']
-[12:39:12] [main/INFO]: Loaded 2255 recipes
-[12:39:12] [main/INFO]: Loaded 2337 advancements
-[12:39:12] [main/INFO]: Loaded 38 animal food entries.
-[12:39:12] [main/INFO]: Applied 301 biome modifications to 140 of 160 new biomes in 17.66 ms
-[12:39:13] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[12:39:13] [Server thread/INFO]: Loading server configs...
-[12:39:14] [Server thread/INFO]: Starting background profiler...
-[12:39:14] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[12:39:14] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[12:39:14] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[12:39:14] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[12:39:14] [Server thread/INFO]: Loading properties
-[12:39:14] [Server thread/INFO]: Default game type: SURVIVAL
-[12:39:14] [Server thread/INFO]: Generating keypair
-[12:39:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:39:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:39:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:39:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:39:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:39:14] [Server thread/INFO]: Preparing level "world"
-[12:39:15] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
-[12:39:15] [Server thread/INFO]: Loaded 0 overlays
-[12:39:15] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
-[12:39:15] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
-[12:39:15] [Server thread/INFO]: No existing overlay save file found
-[12:39:15] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
-[12:39:15] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
-[12:39:15] [Server thread/INFO]: No existing overlay save file found
-[12:39:15] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
-[12:39:15] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:39:15] [Server thread/INFO]: Preparing spawn area: 100%
-[12:39:15] [Server thread/INFO]: Time elapsed: 23 ms
-[12:39:15] [Server thread/INFO]: Done (1.203s)! For help, type "help"
-[12:39:15] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
-[12:39:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[12:39:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[12:39:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[12:39:16] [Server thread/ERROR]: Failed to load plugin from Underlay: com.dooji.underlay.jade.UnderlayJadePlugin
+[12:41:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Tim/Desktop/minecraft-server-reminiscent-tree/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:41:24] [main/INFO]: Compatibility level set to JAVA_21
+[12:41:25] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
+[12:41:25] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:41:25] [main/WARN]: Error loading class: net/minecraft/class_757 (java.lang.ClassNotFoundException: net/minecraft/class_757)
+[12:41:25] [main/WARN]: @Mixin target net.minecraft.class_757 was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
+[12:41:25] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[12:41:25] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[12:41:25] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[12:41:25] [main/WARN]: Error loading class: net/minecraft/class_12225$class_12226 (java.lang.ClassNotFoundException: net/minecraft/class_12225$class_12226)
+[12:41:25] [main/WARN]: @Mixin target net.minecraft.class_12225$class_12226 was not found owo.mixins.json:braid.ClickableStyleFinderAccessor from mod owo
+[12:41:25] [main/WARN]: Error loading class: net/minecraft/class_1921 (java.lang.ClassNotFoundException: net/minecraft/class_1921)
+[12:41:25] [main/WARN]: @Mixin target net.minecraft.class_1921 was not found owo.mixins.json:braid.RenderTypeInvoker from mod owo
+[12:41:25] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
+[12:41:25] [main/WARN]: @Mixin target xyz.nucleoid.server.translations.impl.language.LanguageReader was not found owo.mixins.json:extension.json5.LanguageReaderMixin from mod owo
+[12:41:25] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[12:41:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:41:34] [main/INFO]: Registering C2S receiver with id animal_pen:update_display_animal
+[12:41:34] [main/INFO]: Registering C2S receiver with id animal_pen:remove_display_animal
+[12:41:34] [main/INFO]: Registering C2S receiver with id animal_pen:update_configuration
+[12:41:35] [main/INFO]: Loading Collective version 8.13.
+[12:41:35] [main/INFO]: Registering Item Groups for cratedelight
+[12:41:35] [main/INFO]: Registering mod blocks for cratedelight
+[12:41:35] [main/INFO]: Initialized Farmers Delight compatibility
+[12:41:35] [main/INFO]: Initialized Oceans Delight compatibility
+[12:41:35] [main/INFO]: Initialized Pineapple Delight compatibility
+[12:41:35] [main/INFO]: Initialized Corn Delight compatibility
+[12:41:35] [main/INFO]: Initialized End's Delight compatibility
+[12:41:35] [main/INFO]: Initialized My Nether's Delight compatibility
+[12:41:35] [main/INFO]: Initialized Expanded Delight compatibility
+[12:41:35] [main/INFO]: Initialized Delightful compatibility
+[12:41:35] [main/INFO]: Initialized Alex Delight compatibility
+[12:41:35] [main/INFO]: Initialized Cultural Delight compatibility
+[12:41:35] [main/INFO]: Initialized Large Meals compatibility
+[12:41:35] [main/INFO]: Initialized Festive Delight compatibility
+[12:41:35] [main/INFO]: Initialized Ender Delight compatibility
+[12:41:35] [main/INFO]: Initialized Aquaculture Delight compatibility
+[12:41:35] [main/INFO]: Initialized Brewin n Chewin compatibility
+[12:41:35] [main/INFO]: Initialized Crabber's Delight compatibility
+[12:41:35] [main/INFO]: Initialized Display Delight Blocks
+[12:41:35] [main/INFO]: Initialized Display Delight
+[12:41:35] [main/INFO]: Loaded config farmersdelight-common.json
+[12:41:35] [main/INFO]: Reflections took 88 ms to scan 1 urls, producing 8 keys and 73 values
+[12:41:36] [main/INFO]: Initializing JamLib on Fabric
+[12:41:36] [main/INFO]: Constructing components for leavesbegone:common
+[12:41:36] [main/INFO]: Definitely not up to no good
+[12:41:36] [main/INFO]: i ate moss and i died
+[12:41:36] [main/INFO]: Constructing components for puzzleslib:common
+[12:41:36] [main/INFO]: Updated config file at C:\Users\Tim\Desktop\minecraft-server-reminiscent-tree\config\rightclickharvest.json5
+[12:41:36] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[12:41:36] [main/INFO]: Registering items for rusticdelight
+[12:41:36] [main/INFO]: Registering blocks for rusticdelight
+[12:41:36] [main/INFO]: Registering potions for rusticdelight
+[12:41:36] [main/INFO]: Registering biome modifications for rusticdelight
+[12:41:36] [main/INFO]: Registering placement modifiers for rusticdelight
+[12:41:36] [main/INFO]: Registering item group for rusticdelight
+[12:41:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[12:41:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[12:41:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[12:41:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[12:41:37] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@71d83d47]
+[12:41:37] [main/INFO]: WorldEdit for Fabric (version 7.4.0+7381-3decaf0) is loaded
+[12:41:37] [main/INFO]: Registering common data for channel xaerolib:main!
+[12:41:37] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[12:41:37] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[12:41:37] [main/INFO]: Loading XaeroLib common 1/2!
+[12:41:37] [main/INFO]: Loading XaeroLib server 1/2!
+[12:41:37] [main/INFO]: Registering common data for channel xaerominimap:main!
+[12:41:37] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[12:41:37] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[12:41:37] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[12:41:37] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[12:41:37] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[12:41:37] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[12:41:37] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[12:41:38] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:41:40] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:41:40] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:enderite_knife' from 'farmersknives:recipe/enderite_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:enderite_knife; Second: Not a string: {"id":"farmersknives:enderite_knife"}; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template']
+[12:41:40] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:featherzeal_knife' from 'farmersknives:recipe/featherzeal_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:featherzeal_knife; Second: Not a string: {"id":"farmersknives:featherzeal_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_upgrade_smithing_template']
+[12:41:40] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_diamond_knife' from 'farmersknives:recipe/netherite_diamond_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_diamond_knife; Second: Not a string: {"id":"farmersknives:netherite_diamond_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_diamond_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_diamond_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_diamond_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_emerald_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_emerald_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife']
+[12:41:41] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_emerald_knife' from 'farmersknives:recipe/netherite_emerald_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife; Second: Not a string: {"id":"farmersknives:netherite_emerald_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_emerald_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_emerald_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_emerald_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_gold_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_gold_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife']
+[12:41:41] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_gold_knife' from 'farmersknives:recipe/netherite_gold_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife; Second: Not a string: {"id":"farmersknives:netherite_gold_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_gold_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_gold_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_gold_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_iron_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_iron_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife']
+[12:41:41] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_iron_knife' from 'farmersknives:recipe/netherite_iron_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife; Second: Not a string: {"id":"farmersknives:netherite_iron_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_iron_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_iron_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_iron_ingot']
+[12:41:41] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:remnant_knife' from 'farmersknives:recipe/remnant_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:remnant_knife; Second: Not a string: {"id":"farmersknives:remnant_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_upgrade_smithing_template']
+[12:41:41] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:rose_knife' from 'farmersknives:recipe/rose_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:rose_knife; Second: Not a string: {"id":"farmersknives:rose_knife"}; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_ingot; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_upgrade_smithing_template']
+[12:41:41] [main/INFO]: Loaded 2255 recipes
+[12:41:41] [main/INFO]: Loaded 2337 advancements
+[12:41:41] [main/INFO]: Loaded 38 animal food entries.
+[12:41:41] [main/INFO]: Applied 301 biome modifications to 140 of 160 new biomes in 16.05 ms
+[12:41:42] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[12:41:42] [Server thread/INFO]: Loading server configs...
+[12:41:42] [Server thread/INFO]: Starting background profiler...
+[12:41:42] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[12:41:42] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[12:41:42] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[12:41:42] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[12:41:42] [Server thread/INFO]: Loading properties
+[12:41:42] [Server thread/INFO]: Default game type: SURVIVAL
+[12:41:42] [Server thread/INFO]: Generating keypair
+[12:41:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:41:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:41:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:41:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:41:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:41:43] [Server thread/INFO]: Preparing level "world"
+[12:41:43] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
+[12:41:43] [Server thread/INFO]: Loaded 0 overlays
+[12:41:43] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
+[12:41:43] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
+[12:41:43] [Server thread/INFO]: No existing overlay save file found
+[12:41:43] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
+[12:41:43] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
+[12:41:43] [Server thread/INFO]: No existing overlay save file found
+[12:41:43] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
+[12:41:43] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:41:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:41:44] [Server thread/INFO]: Time elapsed: 34 ms
+[12:41:44] [Server thread/INFO]: Done (0.852s)! For help, type "help"
+[12:41:44] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[12:41:44] [Server thread/ERROR]: Failed to load plugin from Underlay: com.dooji.underlay.jade.UnderlayJadePlugin
 java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJadePlugin in environment type SERVER
 	at net.fabricmc.loader.impl.transformer.FabricTransformer.transform(FabricTransformer.java:61)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPreMixinClassByteArray(KnotClassDelegate.java:475)
@@ -312,12 +312,1343 @@ java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJa
 	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:743)
 	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:301)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[12:39:16] [Server thread/INFO]: Trying to load plugins again without erroneous plugins
-[12:39:16] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[12:39:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[12:39:16] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[12:39:16] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[12:41:44] [Server thread/INFO]: Trying to load plugins again without erroneous plugins
+[12:41:44] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[12:41:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[12:41:44] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[12:41:44] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[12:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[12:47:35] [Server thread/INFO]: VaIspire[/127.226.121.26:56134] logged in with entity id 82 at (343.53443586164155, 169.0, -1892.2750983288815)
+[12:47:36] [Server thread/INFO]: Loading config from file...
+[12:47:37] [Server thread/INFO]: VaIspire joined the game
+[12:47:56] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
+[12:47:56] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[12:47:56] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 51 providers for mod shulkerboxtooltip
+[12:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51002ms or 1020 ticks behind
+[12:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[12:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
+[12:49:49] [Server thread/WARN]: VaIspire moved too quickly! 0.1991933141057416,-3.580000013113022,9.627110006917519
+[12:50:43] [Server thread/WARN]: VaIspire moved too quickly! 0.48574956297488825,0.4747560942365112,-18.23050174206446
+[12:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[12:50:44] [Server thread/WARN]: VaIspire moved too quickly! 2.805866825190833,-1.5484375701896056,-18.363708805475653
+[12:50:46] [Server thread/WARN]: VaIspire moved too quickly! 3.4899468187909406,-1.984404007567207,-18.631605301340187
+[12:50:54] [Server thread/WARN]: VaIspire moved too quickly! 9.147153426385103,-7.995914680695023,-13.395738769720538
+[12:51:03] [Server thread/WARN]: VaIspire moved too quickly! 16.775908184569516,-3.1719910081656906,8.4328118323142
+[12:51:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10790ms or 215 ticks behind
+[12:51:27] [Worker-Main-6/WARN]: [net.minecraft.class_3499] Serialization errors:
+:
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=2263, y=63, z=-2110}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=2263, y=64, z=-2110}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+[12:53:01] [Server thread/WARN]: VaIspire moved too quickly! -13.56816511148304,8.469899880985253,8.865989806384732
+[12:53:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[12:53:03] [Server thread/WARN]: VaIspire moved too quickly! -14.089062189607148,8.185119584058327,9.22808251668539
+[12:53:05] [Server thread/WARN]: VaIspire moved too quickly! -13.390131021599018,8.41949035911648,8.77037040726782
+[12:53:08] [Server thread/WARN]: VaIspire moved too quickly! -13.66592599706405,8.320074936178258,8.839085982927827
+[12:53:09] [Server thread/WARN]: VaIspire moved too quickly! -14.431617573076437,7.274613592301932,8.20704327775502
+[12:53:41] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[12:53:59] [Server thread/WARN]: VaIspire moved too quickly! 3.8154508892885133,0.0,9.478635928166113
+[12:55:18] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
+[12:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3891ms or 77 ticks behind
+[12:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5150ms or 103 ticks behind
+[12:56:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[12:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[12:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[12:58:44] [Server thread/WARN]: VaIspire moved too quickly! -15.741785317895392,2.8328001618422434,8.522344026540395
+[12:58:45] [Server thread/WARN]: VaIspire moved too quickly! -15.267711681125093,3.417419565474333,9.282477997194292
+[12:58:47] [Server thread/WARN]: VaIspire moved too quickly! -15.265570631255969,3.3851046375541785,9.298217869028122
+[12:58:49] [Server thread/WARN]: VaIspire moved too quickly! -15.265570631255969,3.3851046375541785,9.298217869028122
+[12:58:53] [Server thread/WARN]: VaIspire moved too quickly! -5.963754587704898,-0.8711751669890333,8.767896462674344
+[12:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5972ms or 119 ticks behind
+[12:59:33] [Server thread/WARN]: VaIspire moved too quickly! -6.951644692520176,0.07544406518948676,7.3642834508918895
+[12:59:36] [Server thread/WARN]: VaIspire moved too quickly! -7.242613330439212,1.3353082456433611,7.486162159009837
+[12:59:44] [Server thread/WARN]: VaIspire moved too quickly! -9.222085902579806,1.1800762411267556,5.514250197636102
+[12:59:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13:00:00] [Server thread/WARN]: VaIspire moved too quickly! -7.507189516164203,12.646773396878132,9.453234065113293
+[13:00:01] [Server thread/WARN]: VaIspire moved too quickly! -6.700738512267435,-0.5178763067108889,8.98624917246434
+[13:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[13:00:05] [Server thread/WARN]: VaIspire moved too quickly! -7.138694926075914,6.1358178160558765,5.560483623517257
+[13:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[13:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10919ms or 218 ticks behind
+[13:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[13:02:01] [Server thread/WARN]: VaIspire moved too quickly! -12.596112323796348,-12.344539746167712,-0.5994446888516904
+[13:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[13:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4416ms or 88 ticks behind
+[13:02:42] [Server thread/WARN]: VaIspire moved too quickly! 16.21369547060567,-2.4308542606457877,6.901254699861511
+[13:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11042ms or 220 ticks behind
+[13:03:01] [Server thread/WARN]: VaIspire moved too quickly! 1.7719860751097372,-8.196782243148675,-6.110964999953239
+[13:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[13:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
+[13:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[13:04:23] [Server thread/WARN]: VaIspire moved too quickly! 7.3421762232844685,-6.958556006956172,-0.5620955088197661
+[13:04:29] [Server thread/WARN]: VaIspire moved too quickly! 7.156158992253722,7.0,0.6898051660627971
+[13:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[13:04:57] [Server thread/WARN]: VaIspire moved too quickly! -16.63865053195832,-1.800116076479469,-8.69191409913401
+[13:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[13:05:05] [Server thread/WARN]: VaIspire moved too quickly! -7.046575345012343,-15.90454084881128,0.5120826640586529
+[13:05:09] [Server thread/WARN]: VaIspire moved too quickly! -16.096689172386277,-10.028995739479114,-0.35899134393457643
+[13:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
+[13:05:39] [Server thread/WARN]: VaIspire moved too quickly! 13.856266662976623,11.356839299455785,4.47007585939582
+[13:05:41] [Server thread/WARN]: VaIspire moved too quickly! 14.1870105079131,11.523686268911334,2.580134655688198
+[13:05:52] [Server thread/WARN]: VaIspire moved too quickly! 9.075356934021102,4.712601061553187,-0.4430811380088926
+[13:06:07] [Server thread/WARN]: VaIspire moved too quickly! -1.1320483165043242,14.601584352178804,1.0352901939550065
+[13:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[13:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[13:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[13:09:26] [Server thread/WARN]: VaIspire moved too quickly! -12.726430151312968,0.44146912529885185,12.845217329481557
+[13:09:31] [Server thread/WARN]: VaIspire moved too quickly! -5.8399185439336065,-0.668608488088438,17.477012073507694
+[13:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12379ms or 247 ticks behind
+[13:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4922ms or 98 ticks behind
+[13:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[13:11:01] [Server thread/WARN]: VaIspire moved too quickly! -3.3627030830411258,12.218798926135051,-11.987115744158245
+[13:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[13:11:04] [Server thread/WARN]: VaIspire moved too quickly! -3.1735208344274355,11.278575070337581,-14.093304800718897
+[13:11:16] [Server thread/WARN]: VaIspire moved too quickly! 7.5658334735057196,-2.367978450632961,-15.584605201589966
+[13:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[13:11:55] [Server thread/WARN]: VaIspire moved too quickly! 17.423446869453812,-3.3451934779492944,-1.9551378158025727
+[13:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[13:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[13:23:35] [Server thread/WARN]: VaIspire moved too quickly! -5.071430859941984,8.332368716856308,-2.4020993143142277
+[13:24:59] [Server thread/WARN]: VaIspire moved too quickly! 18.187326263688362,2.685663637438722,0.9479174267896724
+[13:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[13:25:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[13:25:43] [Server thread/WARN]: VaIspire moved too quickly! -1.5753472862775197,1.0754440651894868,-9.852737180123313
+[13:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12268ms or 245 ticks behind
+[13:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[13:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[13:29:12] [Server thread/INFO]: Unknown item 'minecraft:iron_trap_door'
+[13:29:12] [Server thread/INFO]: ... VaIspire minecraft:iron_trap_door 2<--[HERE]
+[13:29:22] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[13:29:36] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
+[13:34:12] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[13:52:06] [Server thread/WARN]: VaIspire moved too quickly! -10.181018313650242,1.9503921069899093,-0.4577062027108241
+[13:52:09] [Server thread/WARN]: VaIspire moved too quickly! -10.262671744102136,0.664103874047484,-1.1200883738392236
+[13:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[13:52:11] [Server thread/WARN]: VaIspire moved too quickly! -1.8189250964350379,-11.433643280623436,-0.22589102475791378
+[13:52:12] [Server thread/WARN]: VaIspire moved too quickly! -2.8799723479791055,-9.667067244575911,-0.3585749516972214
+[13:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[13:52:45] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
+[13:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[13:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4271ms or 85 ticks behind
+[13:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:53:44] [Server thread/WARN]: VaIspire moved too quickly! -15.720155185655926,-8.751108078434598,-1.3693317056158776
+[13:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4846ms or 96 ticks behind
+[13:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2769ms or 55 ticks behind
+[13:54:28] [Server thread/WARN]: VaIspire moved too quickly! 9.217021963521518,-1.0,4.201965688850578
+[13:54:33] [Server thread/WARN]: VaIspire moved too quickly! -11.062583778304656,3.0477778254373504,14.07136945189859
+[13:54:34] [Server thread/WARN]: VaIspire moved too quickly! -11.028238959974544,0.940946703985702,15.187201247431176
+[13:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8768ms or 175 ticks behind
+[13:54:55] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[13:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[13:55:22] [Server thread/WARN]: VaIspire moved too quickly! 4.722633491939291,4.4940537814897255,-8.081256865781143
+[13:55:31] [Server thread/WARN]: VaIspire moved too quickly! 9.201094060590435,0.0,-5.565229582422717
+[13:55:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[13:55:35] [Server thread/WARN]: VaIspire moved too quickly! 9.070073467795112,0.0,-5.925513624662926
+[13:55:39] [Server thread/WARN]: VaIspire moved too quickly! 9.108981100850372,0.0,-5.9509321298812665
+[13:55:43] [Server thread/WARN]: VaIspire moved too quickly! 10.187824549256106,0.0,-0.8865108518450597
+[13:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6393ms or 127 ticks behind
+[13:56:10] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
+[13:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[13:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9124ms or 182 ticks behind
+[13:57:21] [Server thread/INFO]: Gave 2 [Nether Brick] to VaIspire
+[13:57:44] [Server thread/INFO]: Gave 2 [Nether Bricks] to VaIspire
+[14:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[14:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[14:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[14:06:33] [Server thread/INFO]: VaIspire lost connection: Disconnected
+[14:06:33] [Server thread/INFO]: VaIspire left the game
+[14:06:44] [Server thread/INFO]: VaIspire[/127.226.121.26:57355] logged in with entity id 29667 at (343.4173675437794, 169.0, -1892.5997386294862)
+[14:06:44] [Server thread/INFO]: Loading config from file...
+[14:06:45] [Server thread/INFO]: VaIspire joined the game
+[14:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4587ms or 91 ticks behind
+[14:06:49] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
+[14:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind
+[14:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[14:07:40] [Server thread/WARN]: VaIspire moved too quickly! -8.159010226581131,-4.107163139956867,4.147477200794128
+[14:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[14:08:27] [Server thread/WARN]: VaIspire moved too quickly! -12.017458808379104,-13.425055671225905,-2.070144037320347
+[14:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
+[14:09:03] [Server thread/WARN]: VaIspire moved too quickly! 3.0781627985356863,7.001335979112156,6.788109961912141
+[14:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8860ms or 177 ticks behind
+[14:09:09] [Server thread/INFO]: VaIspire lost connection: Disconnected
+[14:09:09] [Server thread/INFO]: VaIspire left the game
+[14:37:24] [Server thread/INFO]: LightFusional[/127.7.171.93:54832] logged in with entity id 31165 at (288.5147136257487, 173.0, -1946.5716457808169)
+[14:37:25] [Server thread/INFO]: Loading config from file...
+[14:37:25] [Server thread/INFO]: LightFusional joined the game
+[14:37:27] [Server thread/INFO]: [ShulkerBoxTooltip] LightFusional: protocol version: 2.0
+[14:47:39] [Server thread/INFO]: LightFusional fell from a high place
+[14:49:35] [Server thread/INFO]: LightFusional fell from a high place
+[15:01:34] [Server thread/INFO]: LightFusional fell from a high place
+[15:03:53] [Server thread/INFO]: LightFusional has made the advancement [Not Today, Thank You]
+[15:08:30] [Server thread/INFO]: LightFusional was slain by Enderman
+[15:11:20] [Server thread/INFO]: LightFusional has made the advancement [Expand functionality]
+[15:50:53] [Server thread/INFO]: LightFusional fell from a high place
+[16:00:26] [Server thread/INFO]: LightFusional lost connection: Disconnected
+[16:00:26] [Server thread/INFO]: LightFusional left the game
+[16:21:35] [Server thread/INFO]: LightFusional[/127.7.171.93:51204] logged in with entity id 54053 at (428.9549608756788, 56.0, -1869.284817305771)
+[16:21:35] [Server thread/INFO]: Loading config from file...
+[16:21:35] [Server thread/INFO]: LightFusional joined the game
+[16:21:36] [Server thread/INFO]: [ShulkerBoxTooltip] LightFusional: protocol version: 2.0
+[16:25:44] [Server thread/INFO]: LightFusional was blown up by Creeper
+[16:49:00] [Server thread/INFO]: ssh0nen[/127.226.54.184:60351] logged in with entity id 60955 at (338.6585267674527, 163.0, -1895.0057266664041)
+[16:49:00] [Server thread/INFO]: Loading config from file...
+[16:49:00] [Server thread/INFO]: ssh0nen joined the game
+[16:49:02] [Server thread/INFO]: [ShulkerBoxTooltip] ssh0nen: protocol version: 2.0
+[16:49:11] [Server thread/INFO]: [Not Secure] <ssh0nen> Malaysian
+[16:49:17] [Server thread/INFO]: [Not Secure] <LightFusional> filipino
+[16:49:24] [Server thread/WARN]: LightFusional moved too quickly! -1.525189074976197,-13.942417239629208,-0.5190621060060039
+[16:49:27] [Server thread/INFO]: LightFusional fell from a high place
+[16:50:29] [Server thread/INFO]: [Not Secure] <LightFusional> i see the jew flyin
+[16:50:39] [Server thread/INFO]: [Not Secure] <ssh0nen> who is the jew
+[16:50:42] [Server thread/INFO]: [Not Secure] <LightFusional> You
+[16:50:44] [Server thread/INFO]: [Not Secure] <LightFusional> Ofc
+[16:50:49] [Server thread/INFO]: [Not Secure] <ssh0nen> badjao
+[16:50:58] [Server thread/INFO]: [Not Secure] <LightFusional> jew jew jew jew jew
+[16:51:44] [Server thread/INFO]: [Not Secure] <ssh0nen> i have no iron no more
+[16:51:51] [Server thread/INFO]: [Not Secure] <LightFusional> time to go minin boy
+[16:52:07] [Server thread/INFO]: [Not Secure] <ssh0nen> Its a good thing im not using xray
+[16:52:11] [Server thread/INFO]: [Not Secure] <LightFusional> Weh
+[16:52:27] [Server thread/INFO]: [Not Secure] <LightFusional> Do you have smithing template
+[16:52:32] [Server thread/INFO]: [Not Secure] <ssh0nen> yes
+[16:52:43] [Server thread/INFO]: [Not Secure] <LightFusional> can i have some? or are you willing to trd for smthg you need
+[16:52:47] [Server thread/INFO]: [Not Secure] <LightFusional> ACTUALLY
+[16:52:50] [Server thread/INFO]: [Not Secure] <LightFusional> ill go mine iron for you
+[16:52:52] [Server thread/INFO]: [Not Secure] <LightFusional> for it
+[16:53:12] [Server thread/INFO]: [Not Secure] <ssh0nen> lowkey you can just dupe it bro
+[16:53:23] [Server thread/INFO]: [Not Secure] <LightFusional> True
+[16:53:30] [Server thread/INFO]: [Not Secure] <ssh0nen> get diamonds n dupe it bro get mine in the chest
+[16:53:37] [Server thread/INFO]: [Not Secure] <LightFusional> ok
+[16:53:39] [Server thread/INFO]: ssh0nen has made the advancement [Intruder Alert]
+[16:55:37] [Server thread/INFO]: [Not Secure] <LightFusional> ok thx behta
+[16:55:46] [Server thread/INFO]: [Not Secure] <ssh0nen> dirty indian
+[16:55:55] [Server thread/INFO]: [Not Secure] <LightFusional> You dirty nazi
+[16:57:55] [Server thread/INFO]: sysyleen[/127.232.215.78:57060] logged in with entity id 72537 at (-48.5, 65.5625, -459.5)
+[16:57:55] [Server thread/INFO]: Loading config from file...
+[16:57:56] [Server thread/INFO]: sysyleen joined the game
+[16:57:58] [Server thread/INFO]: [ShulkerBoxTooltip] sysyleen: protocol version: 2.0
+[16:58:01] [Server thread/INFO]: [Not Secure] <LightFusional> wdap leen
+[16:58:06] [Server thread/INFO]: [Not Secure] <sysyleen> elo
+[16:58:10] [Server thread/INFO]: [Not Secure] <ssh0nen> hello yung leen
+[16:58:49] [Server thread/INFO]: ssh0nen drowned
+[16:59:04] [Server thread/INFO]: [Not Secure] <LightFusional> Leen you should def get discounted repo
+[16:59:25] [Server thread/INFO]: [Not Secure] <sysyleen> eeeerrrr
+[16:59:28] [Server thread/INFO]: [Not Secure] <sysyleen> maybe
+[16:59:50] [Server thread/INFO]: [Not Secure] <LightFusional> I lowkey bought it without discount sob
+[16:59:52] [Server thread/INFO]: [Not Secure] <LightFusional> long time ago
+[17:00:08] [Server thread/INFO]: [Not Secure] <LightFusional> shouldve waited
+[17:01:18] [Server thread/INFO]: [Not Secure] <LightFusional> Jesh
+[17:01:21] [Server thread/INFO]: [Not Secure] <ssh0nen> what
+[17:01:45] [Server thread/INFO]: [Not Secure] <LightFusional> Idek how many times ive asked but , if i really do buy prime , how long do you think the run will go
+[17:01:54] [Server thread/INFO]: [Not Secure] <LightFusional> Cuz im so tempted to buy now even thou leen got it
+[17:02:08] [Server thread/INFO]: [Not Secure] <LightFusional> im highkey deadass^
+[17:02:23] [Server thread/INFO]: [Not Secure] <ssh0nen> Then we'd be playing every now and then
+[17:02:30] [Server thread/INFO]: [Not Secure] <ssh0nen> not as before since im like busy
+[17:02:43] [Server thread/INFO]: [Not Secure] <LightFusional> okok busy is fine
+[17:02:44] [Server thread/INFO]: [Not Secure] <ssh0nen> but since leen has it yall can like play play
+[17:02:49] [Server thread/INFO]: [Not Secure] <LightFusional> i mean like when we hop on
+[17:02:51] [Server thread/INFO]: [Not Secure] <ssh0nen> 5 stack already
+[17:02:53] [Server thread/INFO]: [Not Secure] <ssh0nen> yeah
+[17:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4124ms or 82 ticks behind
+[17:11:41] [Server thread/WARN]: ssh0nen moved too quickly! 7.534074801125598,-1.7688841477081922,16.950792705167032
+[17:13:16] [Server thread/INFO]: ssh0nen has made the advancement [The End?]
+[17:14:40] [Server thread/INFO]: ssh0nen fell out of the world
+[17:20:04] [Server thread/INFO]: [Not Secure] <LightFusional> Holy fk , Sharp V book in a cave chamber is wild
+[17:20:20] [Server thread/INFO]: LightFusional has made the advancement [Crops of the Wild]
+[17:20:52] [Server thread/INFO]: LightFusional has made the advancement [Under Lock and Key]
+[17:23:05] [Server thread/INFO]: LightFusional tried to swim in lava
+[17:23:05] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_07.03.2026-17.23.05.dat
+[17:23:15] [Server thread/INFO]: [Not Secure] <LightFusional> Yo jesh
+[17:23:18] [Server thread/INFO]: [Not Secure] <LightFusional> wanna go trial chamber tgt?
+[17:26:35] [Server thread/INFO]: LightFusional has made the advancement [Minecraft: Trial(s) Edition]
+[17:36:15] [Server thread/INFO]: LightFusional has made the advancement [A Major Trial Of Strength]
+[17:39:04] [Server thread/INFO]: LightFusional has made the advancement [Ol' Betsy]
+[17:40:37] [Server thread/INFO]: [Not Secure] <sysyleen> some kid in valo 1v1ed me after a match lol
+[17:40:54] [Server thread/INFO]: [Not Secure] <LightFusional> :skull:
+[17:40:59] [Server thread/INFO]: [Not Secure] <LightFusional> who won the 1v1
+[17:41:02] [Server thread/INFO]: [Not Secure] <sysyleen> me ofc tf
+[17:41:07] [Server thread/INFO]: [Not Secure] <LightFusional> peak
+[17:41:20] [Server thread/INFO]: [Not Secure] <sysyleen> he spammed offensive abilities and i js used smokes and dash
+[17:41:37] [Server thread/INFO]: [Not Secure] <sysyleen> out of 30 this kid kept switching agents too
+[17:41:40] [Server thread/INFO]: [Not Secure] <sysyleen> it was so sad
+[17:42:49] [Server thread/INFO]: [Not Secure] <LightFusional> peak gaming moment
+[17:42:55] [Server thread/INFO]: [Not Secure] <sysyleen> im gna get on later uli when ren gets home
+[17:43:02] [Server thread/INFO]: [Not Secure] <sysyleen> also buy prime
+[17:43:02] [Server thread/INFO]: [Not Secure] <LightFusional> ok
+[17:43:06] [Server thread/INFO]: [Not Secure] <sysyleen> its good
+[17:43:14] [Server thread/INFO]: [Not Secure] <LightFusional> its worth it for you?
+[17:43:25] [Server thread/INFO]: [Not Secure] <sysyleen> lol i havent even gotten into a prime match
+[17:43:34] [Server thread/INFO]: [Not Secure] <sysyleen> i think itll be good in the long run
+[17:43:38] [Server thread/INFO]: [Not Secure] <sysyleen> thas what i think
+[17:43:46] [Server thread/INFO]: [Not Secure] <sysyleen> its why i bought it so i can play more w u guys lowk
+[17:44:07] [Server thread/INFO]: [Not Secure] <LightFusional> i prob will yea
+[17:44:14] [Server thread/INFO]: [Not Secure] <sysyleen> i wouldnt have bought it if i couldnt play w anyone so
+[17:44:23] [Server thread/INFO]: [Not Secure] <sysyleen> okey i go now
+[17:44:25] [Server thread/INFO]: [Not Secure] <sysyleen> byebye
+[17:44:29] [Server thread/INFO]: [Not Secure] <LightFusional> adios
+[17:44:31] [Server thread/INFO]: sysyleen lost connection: Disconnected
+[17:44:31] [Server thread/INFO]: sysyleen left the game
+[17:59:13] [Server thread/INFO]: LightFusional drowned
+[17:59:13] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_07.03.2026-17.59.13.dat
+[18:05:29] [Server thread/INFO]: LightFusional has made the advancement [Diamond Tier Upgrade]
+[18:12:38] [Server thread/INFO]: LightFusional has made the advancement [Base for upgrades]
+[18:12:53] [Server thread/INFO]: LightFusional has made the advancement [Iron Tier Upgrade]
+[18:14:59] [Server thread/INFO]: LightFusional has made the advancement [Gold Tier Upgrade]
+[18:16:16] [Server thread/INFO]: LightFusional lost connection: Disconnected
+[18:16:16] [Server thread/INFO]: LightFusional left the game
+[18:46:00] [Server thread/INFO]: VaIspire[/127.226.121.26:60572] logged in with entity id 110315 at (343.3691513080206, 169.0, -1892.7443820374572)
+[18:46:00] [Server thread/INFO]: Loading config from file...
+[18:46:00] [Server thread/INFO]: VaIspire joined the game
+[18:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[18:46:05] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
+[18:46:19] [Server thread/INFO]: [Not Secure] <VaIspire> sup bro
+[18:46:55] [Server thread/WARN]: VaIspire moved too quickly! -9.646907433375247,-3.7841056544612712,0.7849342030888806
+[18:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44278ms or 885 ticks behind
+[18:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43910ms or 878 ticks behind
+[18:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25957ms or 519 ticks behind
+[18:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17305ms or 346 ticks behind
+[18:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12559ms or 251 ticks behind
+[18:49:46] [Server thread/WARN]: VaIspire moved too quickly! 18.555302406269902,-3.3441592741693853,1.3502038774306584
+[18:49:50] [Server thread/WARN]: VaIspire moved too quickly! 18.489229962087165,-3.379972573119744,2.0424145426338782
+[18:49:52] [Server thread/WARN]: VaIspire moved too quickly! 18.493811409186662,-2.18081132108955,2.1371205886239295
+[18:49:54] [Server thread/WARN]: VaIspire moved too quickly! 17.385131196751672,-2.065051209825782,1.971333200520803
+[18:49:58] [Server thread/WARN]: VaIspire moved too quickly! 16.384293002902382,-6.742414592797843,1.8551570870024534
+[18:50:01] [Server thread/WARN]: VaIspire moved too quickly! 16.373111477934458,-5.941336655169906,1.8538910277784453
+[18:50:05] [Server thread/WARN]: VaIspire moved too quickly! 2.1083957042382053,-10.790220834420325,0.15648403539239553
+[18:50:23] [Server thread/WARN]: VaIspire moved too quickly! 0.6192133864328753,0.42355929454303975,-10.45519780932932
+[18:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33992ms or 679 ticks behind
+[18:50:36] [Server thread/WARN]: VaIspire moved too quickly! 9.365670682685618,1.0950908986278023,4.322986375429309
+[18:51:28] [Server thread/WARN]: VaIspire moved too quickly! 16.858645188977107,5.536562627628982,3.4405604084213337
+[18:51:29] [Server thread/WARN]: VaIspire moved too quickly! 17.81008233840771,5.820280292175212,3.257387111357957
+[18:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[18:51:38] [Server thread/WARN]: VaIspire moved too quickly! 17.447402477667993,-0.4674853860636716,5.914710841351507
+[18:51:40] [Server thread/WARN]: VaIspire moved too quickly! 17.353599947183284,-0.4666765342630441,5.882714176822674
+[18:51:42] [Server thread/WARN]: VaIspire moved too quickly! 17.453770553415097,0.07415766672447432,5.641533495749854
+[18:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18:51:51] [Server thread/WARN]: VaIspire moved too quickly! 8.601687054012928,15.071919954446969,-0.13725625321808366
+[18:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[18:53:56] [Server thread/WARN]: VaIspire moved too quickly! 9.551879360389421,-3.8235291238557068,-0.9810356552784469
+[18:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17537ms or 350 ticks behind
+[18:54:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9712ms or 194 ticks behind
+[18:55:53] [Server thread/WARN]: VaIspire moved too quickly! -9.761777146417842,-2.4203014563238696,-1.2479969679321812
+[18:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
+[18:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[18:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10918ms or 218 ticks behind
+[18:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19:12:28] [Server thread/WARN]: VaIspire moved too quickly! 3.8441662423783782,-4.970888442848093,9.032854420378953
+[19:13:19] [Server thread/WARN]: VaIspire moved too quickly! 2.1252143367985923,10.608512957852483,1.498152500338847
+[19:13:21] [Server thread/WARN]: VaIspire moved too quickly! 1.2234266675965273,-1.066663418736539,10.226336295812644
+[19:16:41] [Server thread/WARN]: VaIspire moved too quickly! 2.3028645228972664,4.387507849236798,9.622651210986078
+[19:16:47] [Server thread/WARN]: VaIspire moved too quickly! -14.650525449787096,4.477750289904094,10.337780795253138
+[19:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[19:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7667ms or 153 ticks behind
+[19:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[19:17:43] [Server thread/WARN]: VaIspire moved too quickly! 8.266002030127765,0.3800236743955452,-6.116141438473733
+[19:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17066ms or 341 ticks behind
+[19:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[19:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8447ms or 168 ticks behind
+[19:20:42] [Server thread/INFO]: coastwised[/127.200.41.93:58866] logged in with entity id 122623 at (-155.19765297442692, 68.1681225713737, -1532.5534975408696)
+[19:20:42] [Server thread/INFO]: Loading config from file...
+[19:20:42] [Server thread/INFO]: coastwised joined the game
+[19:20:45] [Server thread/INFO]: [ShulkerBoxTooltip] coastwised: protocol version: 2.0
+[19:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[19:21:35] [Server thread/INFO]: Hyomae[/127.209.113.107:51325] logged in with entity id 124314 at (323.9883121709748, 87.5, -1895.1325303003962)
+[19:21:35] [Server thread/INFO]: Loading config from file...
+[19:21:35] [Server thread/INFO]: Hyomae joined the game
+[19:21:35] [Server thread/INFO]: Gave 1 [Pink Dye] to VaIspire
+[19:21:41] [Server thread/INFO]: [ShulkerBoxTooltip] Hyomae: protocol version: 2.0
+[19:22:45] [Server thread/INFO]: [Not Secure] <Hyomae> where is tim
+[19:22:51] [Server thread/INFO]: [Not Secure] <VaIspire> here
+[19:22:56] [Server thread/INFO]: [Not Secure] <Hyomae> vbase
+[19:22:57] [Server thread/INFO]: [Not Secure] <Hyomae> show
+[19:22:59] [Server thread/INFO]: [Not Secure] <VaIspire> ok
+[19:23:25] [Server thread/INFO]: [Not Secure] <VaIspire> go to rei's farm
+[19:23:49] [Server thread/INFO]: [Not Secure] <coastwised> yo timm
+[19:23:52] [Server thread/WARN]: Hyomae moved too quickly! 8.67035770779529,-4.5464202659183925,2.821721067222825
+[19:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3286ms or 65 ticks behind
+[19:23:53] [Server thread/INFO]: [Not Secure] <VaIspire> ?
+[19:23:56] [Server thread/INFO]: [Not Secure] <coastwised> 20 more days and i'm clapping your cheeks broo
+[19:23:58] [Server thread/INFO]: [Not Secure] <coastwised> i'm so excited
+[19:24:00] [Server thread/WARN]: coastwised moved too quickly! 9.353783929011513,0.0,3.806962574679119
+[19:24:01] [Server thread/INFO]: [Not Secure] <Hyomae> ??
+[19:24:03] [Server thread/INFO]: [Not Secure] <coastwised> can't wait to meet y'all
+[19:24:03] [Server thread/INFO]: [Not Secure] <VaIspire> ulol
+[19:24:05] [Server thread/WARN]: coastwised moved too quickly! 9.260520315375516,-3.7487831126200604,4.2957879029397645
+[19:24:06] [Server thread/WARN]: coastwised moved too quickly! 8.52463750742055,-3.7239148354073848,4.751580252512213
+[19:24:15] [Server thread/INFO]: [Not Secure] <coastwised> yo tim me albert jesh and hanes gonna gym bro
+[19:24:17] [Server thread/INFO]: [Not Secure] <coastwised> tara
+[19:24:19] [Server thread/WARN]: coastwised moved too quickly! 8.345383086949482,-4.1155866000240735,4.638780120160163
+[19:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14623ms or 292 ticks behind
+[19:24:25] [Server thread/INFO]: [Not Secure] <Hyomae> im here
+[19:24:37] [Server thread/INFO]: [Not Secure] <VaIspire> didn't u said to me na why would u spend a day gyming when you're here for vacation
+[19:24:39] [Server thread/WARN]: coastwised moved too quickly! 0.5319816623607494,0.0,-10.457705782479707
+[19:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[19:24:46] [Server thread/WARN]: coastwised moved too quickly! -0.9948235661357785,0.0,9.996507559002339
+[19:24:50] [Server thread/INFO]: [Not Secure] <coastwised> It was a joke
+[19:24:50] [Server thread/WARN]: VaIspire moved too quickly! -0.2708453139277367,10.26372550433868,2.1175011942616493
+[19:24:53] [Server thread/INFO]: [Not Secure] <coastwised> But i lowkey would go to the gym w them
+[19:24:54] [Server thread/WARN]: coastwised moved too quickly! -0.24548877337610975,0.0,10.335524329256486
+[19:25:02] [Server thread/INFO]: [Not Secure] <coastwised> like first time gyming w the boys ykwim
+[19:25:05] [Server thread/INFO]: [Not Secure] <VaIspire> that wasn't even a joke when you said that
+[19:25:05] [Server thread/WARN]: coastwised moved too quickly! -0.2326201346732546,-1.045532879751363,10.118724072269515
+[19:25:15] [Server thread/INFO]: [Not Secure] <coastwised> not a joke but a bluff
+[19:25:17] [Server thread/INFO]: [Not Secure] <coastwised> ^_^
+[19:25:20] [Server thread/WARN]: coastwised moved too quickly! 9.224538398996344,4.802195403281473,1.8129839985831495
+[19:25:23] [Server thread/INFO]: [Not Secure] <VaIspire> i won't believe your words
+[19:25:26] [Server thread/INFO]: [Not Secure] <coastwised> LOL
+[19:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37695ms or 753 ticks behind
+[19:25:36] [Server thread/INFO]: [Not Secure] <coastwised> I gonna work on the colosseum
+[19:25:41] [Server thread/INFO]: [Not Secure] <VaIspire> make it big and good
+[19:25:51] [Server thread/INFO]: [Not Secure] <coastwised> I'll keep it big just for you honey
+[19:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3548ms or 70 ticks behind
+[19:25:57] [Server thread/INFO]: [Not Secure] <coastwised> big and long
+[19:26:11] [Server thread/WARN]: VaIspire moved too quickly! 9.300389724132856,-2.4970791456378976,-3.1420523293695624
+[19:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[19:27:14] [Server thread/WARN]: VaIspire moved too quickly! 5.543320356664367,-2.1072497926186458,-8.137095081330244
+[19:27:15] [Server thread/WARN]: VaIspire moved too quickly! 4.738088344014955,-3.2733590535568595,-8.24597783382842
+[19:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[19:27:22] [Server thread/WARN]: Hyomae moved too quickly! 2.7416326501183903,-0.8378585789730053,-9.79280472106484
+[19:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
+[19:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[19:28:50] [Server thread/WARN]: VaIspire moved too quickly! 6.675845504576728,0.33986419917117416,-8.032276653923418
+[19:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[19:29:22] [Server thread/INFO]: [Not Secure] <VaIspire> you're familiar with the place
+[19:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
+[19:30:55] [Server thread/INFO]: [Not Secure] <VaIspire> what's your render distance
+[19:30:58] [Server thread/INFO]: [Not Secure] <coastwised> \
+[19:31:11] [Server thread/INFO]: [Not Secure] <Hyomae> uhm
+[19:31:21] [Server thread/INFO]: [Not Secure] <Hyomae> 32
+[19:31:32] [Server thread/INFO]: [Not Secure] <VaIspire> fr?
+[19:31:34] [Server thread/INFO]: [Not Secure] <VaIspire> thought u can't handle that
+[19:31:34] [Server thread/INFO]: [Not Secure] <Hyomae> yah
+[19:31:38] [Server thread/INFO]: [Not Secure] <Hyomae> ????????????????????
+[19:31:42] [Server thread/INFO]: [Not Secure] <VaIspire> do u have shaders?
+[19:31:46] [Server thread/INFO]: [Not Secure] <VaIspire> like mellow
+[19:31:47] [Server thread/INFO]: [Not Secure] <Hyomae> yah
+[19:31:50] [Server thread/INFO]: [Not Secure] <VaIspire> ???
+[19:31:58] [Server thread/INFO]: [Not Secure] <VaIspire> crazy
+[19:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[19:32:21] [Server thread/INFO]: [Not Secure] <Hyomae> i fell
+[19:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4224ms or 84 ticks behind
+[19:32:28] [Server thread/INFO]: [Not Secure] <Hyomae> water plz
+[19:32:35] [Server thread/INFO]: Teleported Hyomae to VaIspire
+[19:32:46] [Server thread/INFO]: [Not Secure] <VaIspire> this ain't the base yet
+[19:32:50] [Server thread/INFO]: [Not Secure] <VaIspire> but consider this place as a landmark
+[19:32:58] [Server thread/INFO]: Hyomae has reached the goal [Sky's the Limit]
+[19:33:00] [Server thread/INFO]: [Not Secure] <Hyomae> is this barrel yours
+[19:33:02] [Server thread/INFO]: [Not Secure] <VaIspire> nope
+[19:33:04] [Server thread/INFO]: [Not Secure] <VaIspire> give me my meat back
+[19:33:10] [Server thread/INFO]: [Not Secure] <VaIspire> w
+[19:33:14] [Server thread/INFO]: [Not Secure] <VaIspire> ok so
+[19:33:16] [Server thread/INFO]: [Not Secure] <VaIspire> i want you to elytra
+[19:33:21] [Server thread/INFO]: [Not Secure] <VaIspire> that way
+[19:33:31] [Server thread/INFO]: [Not Secure] <VaIspire> you'll see an island
+[19:33:36] [Server thread/INFO]: [Not Secure] <Hyomae> i see it
+[19:33:41] [Server thread/INFO]: [Not Secure] <VaIspire> i'll see you there
+[19:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[19:33:52] [Server thread/WARN]: VaIspire moved too quickly! 10.169573182514796,-2.284105654461257,-0.6908307508374492
+[19:33:52] [Server thread/WARN]: VaIspire moved too quickly! 9.87271438897369,-1.5694954887628114,-0.6875299630423797
+[19:33:53] [Server thread/WARN]: VaIspire moved too quickly! 9.87271438897369,-1.5694954887628114,-0.6875299630423797
+[19:33:55] [Server thread/WARN]: VaIspire moved too quickly! 8.532395237858054,6.0336548637182545,0.4309600658889394
+[19:33:57] [Server thread/WARN]: VaIspire moved too quickly! 7.2798754810587525,7.0,0.3511148608927215
+[19:34:05] [Server thread/WARN]: Hyomae moved too quickly! 14.46173650915307,2.8072442890885725,10.631277848437094
+[19:34:05] [Server thread/WARN]: coastwised moved too quickly! -8.95811682510714,0.7439534119621101,4.6212096208405455
+[19:34:08] [Server thread/WARN]: Hyomae moved too quickly! 13.220457021694983,3.136560592601313,12.049445716360424
+[19:34:11] [Server thread/WARN]: Hyomae moved too quickly! 14.061341086097855,4.222643546650659,11.054057717293745
+[19:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19249ms or 384 ticks behind
+[19:34:34] [Server thread/INFO]: [Not Secure] <Hyomae> CHERRY
+[19:34:36] [Server thread/INFO]: [Not Secure] <Hyomae> W
+[19:34:40] [Server thread/INFO]: [Not Secure] <VaIspire> welcome
+[19:34:40] [Server thread/INFO]: [Not Secure] <Hyomae> this is nice
+[19:35:00] [Server thread/INFO]: [Not Secure] <VaIspire> u see these lumps around here?
+[19:35:14] [Server thread/INFO]: [Not Secure] <VaIspire> they're what i call boosters
+[19:35:17] [Server thread/INFO]: [Not Secure] <VaIspire> step on it and you'll see
+[19:35:21] [Server thread/INFO]: Hyomae has made the advancement [Who Needs Rockets?]
+[19:35:26] [Server thread/INFO]: [Not Secure] <Hyomae> OH
+[19:35:28] [Server thread/INFO]: [Not Secure] <Hyomae> W
+[19:35:33] [Server thread/INFO]: [Not Secure] <VaIspire> come
+[19:35:34] [Server thread/INFO]: [Not Secure] <coastwised> wat are y'all doing
+[19:35:42] [Server thread/INFO]: [Not Secure] <VaIspire> touring her my base
+[19:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:35:45] [Server thread/INFO]: [Not Secure] <Hyomae> DAMN
+[19:35:47] [Server thread/INFO]: [Not Secure] <coastwised> can i have one too bro
+[19:35:54] [Server thread/INFO]: [Not Secure] <VaIspire> it's pretty easy to make
+[19:36:06] [Server thread/INFO]: [Not Secure] <VaIspire> yeah, so that's much about it
+[19:36:08] [Server thread/INFO]: [Not Secure] <VaIspire> hanes is living with me
+[19:36:09] [Server thread/INFO]: [Not Secure] <Hyomae> i havent even finish my base
+[19:36:13] [Server thread/INFO]: [Not Secure] <coastwised> gimme a tour twion
+[19:36:14] [Server thread/INFO]: [Not Secure] <Hyomae> wowz
+[19:36:14] [Server thread/INFO]: [Not Secure] <coastwised> twin
+[19:36:17] [Server thread/INFO]: [Not Secure] <VaIspire> hell nah
+[19:36:20] [Server thread/INFO]: [Not Secure] <coastwised> wtf why
+[19:36:21] [Server thread/INFO]: [Not Secure] <VaIspire> you'll find it when u see it
+[19:36:27] [Server thread/INFO]: [Not Secure] <coastwised> brah
+[19:36:29] [Server thread/INFO]: [Not Secure] <coastwised> give coords
+[19:36:37] [Server thread/INFO]: [Not Secure] <Hyomae> this is so cool
+[19:36:37] [Server thread/INFO]: [Not Secure] <VaIspire> it's near the ice tower
+[19:36:49] [Server thread/INFO]: [Not Secure] <coastwised> wtf is the ice tower
+[19:36:49] [Server thread/INFO]: [Not Secure] <VaIspire> i also made a stasis chamber
+[19:36:50] [Server thread/INFO]: [Not Secure] <Hyomae> i wanna continue my base but its like
+[19:37:03] [Server thread/INFO]: [Not Secure] <Hyomae> gathwering the quartz im dying like929372932 times LOL
+[19:37:34] [Server thread/INFO]: [Not Secure] <coastwised> ok im qat the ice tower
+[19:37:35] [Server thread/INFO]: [Not Secure] <coastwised> where
+[19:37:40] [Server thread/INFO]: [Not Secure] <VaIspire> you'll see it
+[19:37:45] [Server thread/INFO]: [Not Secure] <VaIspire> explore around the tower
+[19:37:55] [Server thread/WARN]: coastwised moved too quickly! 3.624593122345459,0.0,-10.324772107288481
+[19:38:00] [Server thread/WARN]: coastwised moved too quickly! -2.0318011649480923,0.0,-10.200091193343269
+[19:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[19:38:02] [Server thread/WARN]: coastwised moved too quickly! 5.680335214672823,0.0,-8.40718424296665
+[19:38:04] [Server thread/WARN]: coastwised moved too quickly! 9.66454261290437,0.0,2.957191407316259
+[19:38:04] [Server thread/WARN]: VaIspire moved too quickly! -9.76429936204886,0.0,-3.025603023036183
+[19:38:26] [Server thread/INFO]: [Not Secure] <coastwised> i see a floating island
+[19:38:28] [Server thread/INFO]: [Not Secure] <coastwised> but that's not yours
+[19:38:37] [Server thread/INFO]: [Not Secure] <coastwised> nvm it is
+[19:38:44] [Server thread/WARN]: coastwised moved too quickly! 2.902587221195745,3.3749995641989585,9.357035568815263
+[19:38:49] [Server thread/INFO]: [Not Secure] <coastwised> i thought it was those generated ones
+[19:38:53] [Server thread/INFO]: [Not Secure] <VaIspire> nope
+[19:38:58] [Server thread/INFO]: [Not Secure] <coastwised> star of david base
+[19:39:06] [Server thread/INFO]: [Not Secure] <Hyomae> i afk a bit
+[19:39:14] [Server thread/INFO]: [Not Secure] <coastwised> it's nice
+[19:39:24] [Server thread/INFO]: [Not Secure] <coastwised> what is this
+[19:39:28] [Server thread/INFO]: [Not Secure] <VaIspire> this is the booster i'm talking about
+[19:39:28] [Server thread/INFO]: coastwised has made the advancement [Who Needs Rockets?]
+[19:39:33] [Server thread/INFO]: [Not Secure] <coastwised> ohh
+[19:39:36] [Server thread/INFO]: [Not Secure] <coastwised> neat idea ngl
+[19:39:41] [Server thread/INFO]: [Not Secure] <VaIspire> come
+[19:39:59] [Server thread/INFO]: [Not Secure] <VaIspire> i can know when someone is near my base
+[19:40:04] [Server thread/INFO]: [Not Secure] <coastwised> why does this look like the rogue lineage arena
+[19:40:09] [Server thread/INFO]: [Not Secure] <coastwised> :skull:\
+[19:40:10] [Server thread/INFO]: [Not Secure] <VaIspire> idk
+[19:40:23] [Server thread/INFO]: [Not Secure] <VaIspire> but yeah
+[19:40:25] [Server thread/INFO]: [Not Secure] <VaIspire> this all it
+[19:40:31] [Server thread/INFO]: [Not Secure] <VaIspire> i might make platforms just for farms
+[19:40:34] [Server thread/INFO]: [Not Secure] <coastwised> nice
+[19:40:40] [Server thread/INFO]: [Not Secure] <VaIspire> also
+[19:40:42] [Server thread/INFO]: [Not Secure] <VaIspire> go to your base rq
+[19:40:44] [Server thread/INFO]: [Not Secure] <coastwised> why
+[19:40:45] [Server thread/INFO]: [Not Secure] <coastwised> Ok
+[19:40:51] [Server thread/INFO]: [Not Secure] <VaIspire> i wanna show you a cool thing i can do
+[19:40:58] [Server thread/INFO]: [Not Secure] <coastwised> i am in my base
+[19:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:41:08] [Server thread/INFO]: [Not Secure] <VaIspire> give me a few seconds rq
+[19:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[19:41:32] [Server thread/INFO]: [Not Secure] <VaIspire> hold on
+[19:41:39] [Server thread/INFO]: [Not Secure] <VaIspire> sei can u go back to your base using my waystone
+[19:41:39] [Server thread/INFO]: [Not Secure] <coastwised> ok
+[19:41:43] [Server thread/INFO]: [Not Secure] <Hyomae> okie
+[19:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23508ms or 470 ticks behind
+[19:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[19:42:29] [Server thread/WARN]: VaIspire moved too quickly! -8.175775038897228,-6.249187078744683,0.25394217481567694
+[19:42:48] [Server thread/INFO]: [Not Secure] <coastwised> why did you tell me to go back to my base
+[19:42:50] [Server thread/WARN]: coastwised moved too quickly! 4.706368953678634,0.3687014546509033,9.017686488504978
+[19:42:56] [Server thread/INFO]: [Not Secure] <VaIspire> i wanna show you somoething
+[19:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16865ms or 337 ticks behind
+[19:43:00] [Server thread/INFO]: [Not Secure] <coastwised> where
+[19:43:02] [Server thread/INFO]: [Not Secure] <VaIspire> you see this rod that i'm holding
+[19:43:06] [Server thread/INFO]: [Not Secure] <coastwised> yes
+[19:43:10] [Server thread/INFO]: [Not Secure] <Hyomae> ohno
+[19:43:10] [Server thread/INFO]: [Not Secure] <coastwised> i am lagging hard af btw
+[19:43:12] [Server thread/INFO]: [Not Secure] <VaIspire> hold on lag
+[19:43:13] [Server thread/INFO]: [Not Secure] <VaIspire> yeah
+[19:43:13] [Server thread/INFO]: [Not Secure] <VaIspire> mb
+[19:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[19:43:20] [Server thread/INFO]: [Not Secure] <VaIspire> ok so this rod
+[19:43:22] [Server thread/INFO]: [Not Secure] <Hyomae> hes gonna explode ur house
+[19:43:25] [Server thread/INFO]: [Not Secure] <coastwised> wtf
+[19:43:27] [Server thread/INFO]: [Not Secure] <VaIspire> can teleport me back whenever i want
+[19:43:30] [Server thread/INFO]: [Not Secure] <Hyomae> oh
+[19:43:31] [Server thread/INFO]: [Not Secure] <coastwised> how
+[19:43:32] [Server thread/INFO]: [Not Secure] <Hyomae> LOL
+[19:43:39] [Server thread/INFO]: [Not Secure] <VaIspire> it also activates wherever someone is near my base
+[19:43:42] [Server thread/INFO]: [Not Secure] <VaIspire> whenever*
+[19:43:45] [Server thread/INFO]: [Not Secure] <coastwised> wdym
+[19:43:46] [Server thread/INFO]: [Not Secure] <coastwised> wtf
+[19:43:50] [Server thread/INFO]: [Not Secure] <VaIspire> it gets me alerted
+[19:43:53] [Server thread/INFO]: [Not Secure] <VaIspire> watch
+[19:43:54] [Server thread/INFO]: [Not Secure] <coastwised> ok but how
+[19:43:55] [Server thread/INFO]: [Not Secure] <VaIspire> i'll disappear
+[19:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19:44:03] [Server thread/INFO]: [Not Secure] <coastwised> how that even work
+[19:44:09] [Server thread/INFO]: [Not Secure] <VaIspire> chunk generation
+[19:44:10] [Server thread/WARN]: coastwised moved too quickly! -10.458100370483749,-1.6899024885601648,1.0881596423548672
+[19:44:26] [Server thread/INFO]: [Not Secure] <coastwised> idek what that means but um
+[19:44:27] [Server thread/INFO]: [Not Secure] <coastwised> cool
+[19:44:32] [Server thread/INFO]: [Not Secure] <VaIspire> ok
+[19:44:36] [Server thread/INFO]: [Not Secure] <VaIspire> i'ma go to your base
+[19:44:41] [Server thread/INFO]: [Not Secure] <VaIspire> again
+[19:44:42] [Server thread/INFO]: [Not Secure] <coastwised> omk
+[19:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30235ms or 604 ticks behind
+[19:45:06] [Server thread/INFO]: [Not Secure] <VaIspire> ok
+[19:45:08] [Server thread/INFO]: [Not Secure] <coastwised> bro this lag sucks
+[19:45:08] [Server thread/INFO]: [Not Secure] <VaIspire> now i'm at your base
+[19:45:12] [Server thread/INFO]: [Not Secure] <coastwised> Fuck
+[19:45:16] [Server thread/INFO]: [Not Secure] <coastwised> Yes
+[19:45:16] [Server thread/INFO]: [Not Secure] <VaIspire> i want you to go abck to my base
+[19:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15824ms or 316 ticks behind
+[19:45:21] [Server thread/INFO]: [Not Secure] <coastwised> Ok
+[19:45:29] [Server thread/INFO]: [Not Secure] <coastwised> i there
+[19:45:30] [Server thread/WARN]: coastwised moved too quickly! -8.200470595702427,3.1396790597412974,-5.345417159681347
+[19:45:33] [Server thread/WARN]: coastwised moved too quickly! 9.760937849360289,0.0,-2.551613106833429
+[19:45:35] [Server thread/INFO]: [Not Secure] <VaIspire> go down
+[19:45:39] [Server thread/WARN]: coastwised moved too quickly! 6.6709763135522735,-0.6840000271797066,-7.98523034304435
+[19:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9036ms or 180 ticks behind
+[19:45:48] [Server thread/INFO]: [Not Secure] <coastwised> hack
+[19:45:48] [Server thread/INFO]: [Not Secure] <VaIspire> chunk generation
+[19:45:52] [Server thread/INFO]: [Not Secure] <coastwised> hacked client or some shi
+[19:45:55] [Server thread/WARN]: coastwised moved too quickly! -7.152078420592943,0.0,8.121169351583376
+[19:45:55] [Server thread/INFO]: [Not Secure] <VaIspire> nope
+[19:45:56] [Server thread/WARN]: coastwised moved too quickly! 9.59253457590512,0.0,-3.0070008019156376
+[19:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7259ms or 145 ticks behind
+[19:46:04] [Server thread/INFO]: [Not Secure] <coastwised> wtf is chunk generation
+[19:46:07] [Server thread/INFO]: [Not Secure] <coastwised> i mean i know what it is but like
+[19:46:11] [Server thread/INFO]: [Not Secure] <coastwised> how does a fishing rod have anything to do with this
+[19:46:15] [Server thread/INFO]: [Not Secure] <VaIspire> nah it's kind of like a hack to it
+[19:46:29] [Server thread/INFO]: [Not Secure] <VaIspire> what i di was make a stasis chamber
+[19:46:41] [Server thread/INFO]: [Not Secure] <VaIspire> i bugt the game out using 2 separate chunks
+[19:46:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[19:46:51] [Server thread/INFO]: [Not Secure] <VaIspire> press f3 and G
+[19:46:52] [Server thread/INFO]: [Not Secure] <coastwised> i'm watching a video about it
+[19:47:00] [Server thread/INFO]: [Not Secure] <VaIspire> alright
+[19:47:03] [Server thread/INFO]: [Not Secure] <VaIspire> that'll be more easier
+[19:47:11] [Server thread/INFO]: [Not Secure] <coastwised> ok yeah that makesense
+[19:47:23] [Server thread/INFO]: [Not Secure] <coastwised> how the fuck do people find this shit out bro
+[19:47:30] [Server thread/INFO]: [Not Secure] <VaIspire> idk but doing it is fun
+[19:47:36] [Server thread/INFO]: [Not Secure] <VaIspire> and convenient in some way
+[19:47:39] [Server thread/INFO]: [Not Secure] <coastwised> i feel like anyone who finds glitches like this have some form of autism bro wtf T_T
+[19:47:43] [Server thread/INFO]: [Not Secure] <coastwised> that's cool
+[19:47:55] [Server thread/INFO]: [Not Secure] <coastwised> but don't you need to have the fishing rod like
+[19:47:58] [Server thread/INFO]: [Not Secure] <coastwised> on your hand the whole time
+[19:48:00] [Server thread/INFO]: [Not Secure] <VaIspire> nope
+[19:48:02] [Server thread/INFO]: [Not Secure] <VaIspire> that's the thing
+[19:48:05] [Server thread/INFO]: [Not Secure] <VaIspire> you use the nether portal
+[19:48:16] [Server thread/INFO]: [Not Secure] <coastwised> jeez that's pretty good
+[19:48:20] [Server thread/INFO]: [Not Secure] <VaIspire> you know how when you travel to the nether starting from the portal you've made
+[19:48:25] [Server thread/INFO]: [Not Secure] <coastwised> yea
+[19:48:37] [Server thread/INFO]: [Not Secure] <VaIspire> when you travel farther, it gets multiplied
+[19:48:47] [Server thread/INFO]: [Not Secure] <VaIspire> or added, idk how their multiplication works in here
+[19:48:54] [Server thread/INFO]: [Not Secure] <coastwised> ya
+[19:48:59] [Server thread/INFO]: [Not Secure] <VaIspire> but the farther u are in the nether, the farther you'll actually be in the overworld
+[19:49:12] [Server thread/INFO]: [Not Secure] <VaIspire> like let's say you're started from 0 0 0 and traveled 6k blocks
+[19:49:19] [Server thread/INFO]: [Not Secure] <VaIspire> possible you'll end up somewhere 40k more or less blocks
+[19:49:25] [Server thread/INFO]: [Not Secure] <coastwised> ya
+[19:49:34] [Server thread/INFO]: [Not Secure] <VaIspire> you'll get an achievement in minecraft with that
+[19:49:39] [Server thread/INFO]: [Not Secure] <VaIspire> space dimension i think
+[19:49:41] [Server thread/INFO]: [Not Secure] <coastwised> yeah like
+[19:50:02] [Server thread/INFO]: [Not Secure] <coastwised> uyh was it like
+[19:50:08] [Server thread/INFO]: [Not Secure] <coastwised> timespace bubble traveller
+[19:50:09] [Server thread/INFO]: [Not Secure] <coastwised> some shi like that
+[19:50:11] [Server thread/INFO]: [Not Secure] <VaIspire> yeah
+[19:50:16] [Server thread/INFO]: [Not Secure] <VaIspire> some shit like that
+[19:50:28] [Server thread/INFO]: [Not Secure] <coastwised> ye subspace bubble
+[19:50:31] [Server thread/INFO]: [Not Secure] <coastwised> subspace bubble butt
+[19:50:34] [Server thread/INFO]: [Not Secure] <coastwised> bbl
+[19:50:39] [Server thread/INFO]: [Not Secure] <VaIspire> should use it
+[19:50:44] [Server thread/INFO]: [Not Secure] <VaIspire> it works in different dimensions
+[19:50:49] [Server thread/INFO]: [Not Secure] <VaIspire> either it'd be the nether and the en
+[19:50:56] [Server thread/INFO]: [Not Secure] <coastwised> it's easy to make too no?
+[19:50:59] [Server thread/INFO]: [Not Secure] <VaIspire> yup
+[19:51:01] [Server thread/INFO]: [Not Secure] <VaIspire> stationary too
+[19:51:06] [Server thread/INFO]: [Not Secure] <coastwised> ts so retarded </333
+[19:51:06] [Server thread/INFO]: [Not Secure] <VaIspire> but the thing is
+[19:51:18] [Server thread/INFO]: [Not Secure] <coastwised> ima try making one
+[19:51:19] [Server thread/INFO]: [Not Secure] <VaIspire> you can't make a live stasis with everyone around
+[19:51:27] [Server thread/INFO]: [Not Secure] <coastwised> wat why
+[19:51:32] [Server thread/INFO]: [Not Secure] <VaIspire> you have to be atleast in an environment where there are no people with you
+[19:51:37] [Server thread/INFO]: [Not Secure] <coastwised> well fuck me
+[19:51:43] [Server thread/INFO]: [Not Secure] <coastwised> someone decided to move in INTO MY AREA LOL
+[19:51:44] [Server thread/INFO]: [Not Secure] <coastwised> BRO
+[19:51:48] [Server thread/INFO]: [Not Secure] <coastwised> IT WAS ME AND REI FIRST
+[19:51:50] [Server thread/INFO]: [Not Secure] <coastwised> THEN JESH
+[19:51:52] [Server thread/INFO]: [Not Secure] <VaIspire> then make one a bit far from your base
+[19:51:54] [Server thread/INFO]: [Not Secure] <coastwised> THEN SEI RANDOMLY APPEARED :SOB:
+[19:52:06] [Server thread/INFO]: [Not Secure] <coastwised> i told rei "yo ima make a hidden base"
+[19:52:11] [Server thread/INFO]: [Not Secure] <coastwised> wtf happened twin :sob:
+[19:52:13] [Server thread/INFO]: [Not Secure] <Hyomae> WHAT
+[19:52:19] [Server thread/INFO]: [Not Secure] <Hyomae> I DIDNT KNOW UR BASE WAS THERE
+[19:52:21] [Server thread/INFO]: [Not Secure] <Hyomae> DAWG
+[19:52:26] [Server thread/INFO]: [Not Secure] <coastwised> Sei
+[19:52:40] [Server thread/INFO]: [Not Secure] <coastwised> you will now be forced to join the Auschvenian Confederation if you want to continue to live there
+[19:52:43] [Server thread/INFO]: [Not Secure] <coastwised> You are on Auschvenian grounds
+[19:52:45] [Server thread/INFO]: [Not Secure] <Hyomae> BROOOOOO
+[19:52:51] [Server thread/INFO]: [Not Secure] <VaIspire> thank god i have free will
+[19:52:54] [Server thread/INFO]: [Not Secure] <coastwised> You will get evicted
+[19:52:58] [Server thread/INFO]: [Not Secure] <coastwised> In three days
+[19:53:00] [Server thread/INFO]: [Not Secure] <coastwised> LOL good call tim
+[19:53:03] [Server thread/INFO]: [Not Secure] <coastwised> type shgit
+[19:53:13] [Server thread/INFO]: [Not Secure] <Hyomae> yk what
+[19:53:23] [Server thread/INFO]: [Not Secure] <Hyomae> sure if i get redstone whenever i want
+[19:53:26] [Server thread/INFO]: [Not Secure] <Hyomae> LOL
+[19:53:28] [Server thread/INFO]: [Not Secure] <coastwised> Ok
+[19:53:34] [Server thread/INFO]: [Not Secure] <coastwised> I can deal with that
+[19:53:35] [Server thread/INFO]: [Not Secure] <coastwised> LOL
+[19:53:36] [Server thread/INFO]: [Not Secure] <Hyomae> HAHAHa
+[19:53:39] [Server thread/INFO]: [Not Secure] <coastwised> WHY DO YOU NEED SO MUCH REDSTONE
+[19:53:55] [Server thread/INFO]: [Not Secure] <VaIspire> she's tryna make a nuke or an orbital strike i bet
+[19:54:04] [Server thread/INFO]: [Not Secure] <VaIspire> no wonder why you needed so many quartz
+[19:54:04] [Server thread/INFO]: [Not Secure] <Hyomae> NO?
+[19:54:05] [Server thread/INFO]: [Not Secure] <coastwised> on a non-grief server is grazy
+[19:54:16] [Server thread/INFO]: [Not Secure] <Hyomae> if i did ill let u try it tho tim
+[19:54:17] [Server thread/INFO]: [Not Secure] <coastwised> sei pulling a netanyahu lowkey
+[19:54:22] [Server thread/WARN]: coastwised moved too quickly! -9.623665105775956,-0.5568196707891389,3.7107521395294043
+[19:54:24] [Server thread/INFO]: [Not Secure] <VaIspire> you will be trying it
+[19:55:08] [Server thread/INFO]: [Not Secure] <coastwised> Sei Netanyahu
+[19:55:12] [Server thread/INFO]: [Not Secure] <Hyomae> where quartz
+[19:55:16] [Server thread/INFO]: [Not Secure] <coastwised> Over there
+[19:55:16] [Server thread/INFO]: [Not Secure] <Hyomae> !!!!!!!!!!!!!!!!!!!!!!!!!
+[19:55:20] [Server thread/INFO]: [Not Secure] <VaIspire> get a shulker first
+[19:55:27] [Server thread/INFO]: [Not Secure] <VaIspire> or just ready a chest near you
+[19:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:55:42] [Server thread/WARN]: VaIspire moved too quickly! -15.838806894582689,-8.724589968909484,-1.1685653633685433
+[19:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14537ms or 290 ticks behind
+[19:56:08] [Server thread/INFO]: [Not Secure] <Hyomae> inmuy base
+[19:56:22] [Server thread/WARN]: VaIspire moved too quickly! -7.921886085865765,3.676759275064228,-4.899282099235506
+[19:56:24] [Server thread/WARN]: VaIspire moved too quickly! -6.484186880488096,-9.204575876198618,-1.1239216644823955
+[19:56:27] [Server thread/WARN]: VaIspire moved too quickly! -0.20685199379539654,-10.722248667987515,1.6639623785306412
+[19:56:42] [Server thread/WARN]: VaIspire moved too quickly! 8.331098131224337,-16.04969121700806,2.0581461407191455
+[19:56:48] [Server thread/WARN]: VaIspire moved too quickly! 0.37250448916233836,-10.835474967914479,1.0896564220622622
+[19:56:53] [Server thread/WARN]: VaIspire moved too quickly! 10.041671116850523,1.5013359791121417,-1.122878541216778
+[19:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48325ms or 966 ticks behind
+[19:57:14] [Server thread/INFO]: [Not Secure] <Hyomae> hi
+[19:57:40] [Server thread/INFO]: Unknown item 'minecraft:quart_block'
+[19:57:40] [Server thread/INFO]: ...ve Hyomae minecraft:quart_block 5000<--[HERE]
+[19:57:45] [Server thread/INFO]: [Not Secure] <Hyomae> timmy lagging
+[19:57:55] [Server thread/INFO]: Gave 5000 [Block of Quartz] to Hyomae
+[19:58:20] [Server thread/INFO]: [Not Secure] <Hyomae> yay
+[19:58:22] [Server thread/INFO]: [Not Secure] <VaIspire> anything else?
+[19:58:23] [Server thread/INFO]: [Not Secure] <Hyomae> ty timmy
+[19:58:27] [Server thread/INFO]: [Not Secure] <Hyomae> pale log
+[19:58:29] [Server thread/INFO]: [Not Secure] <Hyomae> mayhaps
+[19:58:32] [Server thread/INFO]: [Not Secure] <Hyomae> just 2 stack
+[19:58:35] [Server thread/INFO]: [Not Secure] <VaIspire> ready a chest
+[19:58:47] [Server thread/INFO]: Unknown item 'minecraft:pale_log'
+[19:58:47] [Server thread/INFO]: ...ve Hyomae minecraft:pale_log 5000<--[HERE]
+[19:58:50] [Server thread/INFO]: [Not Secure] <Hyomae> JSUT 2
+[19:59:02] [Server thread/INFO]: [Not Secure] <VaIspire> honestly if it's just 2 stacks then you can get it on your own
+[19:59:12] [Server thread/WARN]: VaIspire moved too quickly! 16.565208347218174,6.711628493148481,3.209124131328963
+[19:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[19:59:13] [Server thread/WARN]: VaIspire moved too quickly! 10.721347968637133,1.2469671935383388,2.9813873560417505
+[19:59:15] [Server thread/WARN]: VaIspire moved too quickly! 8.059945280566694,-0.6183267675567663,8.264047841427555
+[19:59:16] [Server thread/WARN]: VaIspire moved too quickly! 1.9391315514626513,-2.8133853184234567,9.557480261628598
+[19:59:17] [Server thread/INFO]: [Not Secure] <Hyomae> >:(
+[19:59:19] [Server thread/INFO]: [Not Secure] <Hyomae> ok
+[19:59:20] [Server thread/WARN]: VaIspire moved too quickly! 6.599490035737972,-3.464906603747764,7.689427826035853
+[19:59:29] [Server thread/INFO]: [Not Secure] <VaIspire> i already gave you that much leeway
+[20:00:18] [Server thread/INFO]: [Not Secure] <VaIspire> did u give me gold?
+[20:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[20:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[20:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35607ms or 712 ticks behind
+[20:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[20:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[20:04:09] [Server thread/INFO]: [Not Secure] <coastwised> guys did the lag stop
+[20:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
+[20:04:14] [Server thread/WARN]: VaIspire moved too quickly! -0.37543581787048197,0.0,-10.388063455779502
+[20:04:17] [Server thread/INFO]: [Not Secure] <Hyomae> yeh
+[20:04:18] [Server thread/INFO]: [Not Secure] <Hyomae> idk
+[20:04:19] [Server thread/INFO]: [Not Secure] <coastwised> nvm it still fucking sucks
+[20:04:22] [Server thread/INFO]: [Not Secure] <Hyomae> i was just afk
+[20:04:23] [Server thread/INFO]: [Not Secure] <coastwised> kinda
+[20:04:29] [Server thread/INFO]: [Not Secure] <Hyomae> im gonna afgk again
+[20:04:32] [Server thread/INFO]: [Not Secure] <VaIspire> yeah mb i keep teleporting around
+[20:04:32] [Server thread/INFO]: [Not Secure] <Hyomae> holdan
+[20:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17735ms or 354 ticks behind
+[20:05:28] [Server thread/INFO]: LightFusional[/127.7.171.93:62031] logged in with entity id 145694 at (429.03928803478425, 65.0, -1855.0195216985862)
+[20:05:28] [Server thread/INFO]: Loading config from file...
+[20:05:28] [Server thread/INFO]: LightFusional joined the game
+[20:05:29] [Server thread/INFO]: [ShulkerBoxTooltip] LightFusional: protocol version: 2.0
+[20:06:05] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[20:07:58] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
+[20:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:09:19] [Server thread/INFO]: spiritblossomss_[/127.109.215.236:62054] logged in with entity id 147349 at (441.28125880640334, 64.0, -1853.4688844775972)
+[20:09:19] [Server thread/INFO]: Loading config from file...
+[20:09:19] [Server thread/INFO]: spiritblossomss_ joined the game
+[20:09:23] [Server thread/INFO]: [ShulkerBoxTooltip] spiritblossomss_: protocol version: 2.0
+[20:09:40] [Server thread/INFO]: [Not Secure] <spiritblossomss_> hi guys
+[20:09:47] [Server thread/INFO]: [Not Secure] <LightFusional> Wsp
+[20:10:28] [Server thread/WARN]: LightFusional moved too quickly! -2.107114281164854,0.2712241076924897,9.825319866295331
+[20:10:29] [Server thread/INFO]: [Not Secure] <VaIspire> hi
+[20:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[20:10:33] [Server thread/WARN]: LightFusional moved too quickly! -1.139962782489306,0.07242780368044066,10.140773356849877
+[20:10:33] [Server thread/WARN]: VaIspire moved too quickly! 3.812846110301905,-2.0,9.162825868016853
+[20:10:35] [Server thread/INFO]: [Not Secure] <VaIspire> have u seen my base rei?
+[20:10:37] [Server thread/INFO]: [Not Secure] <spiritblossomss_> nawh
+[20:10:46] [Server thread/INFO]: [Not Secure] <VaIspire> but u know the coordinates?
+[20:10:52] [Server thread/INFO]: [Not Secure] <spiritblossomss_> nawh bro
+[20:10:55] [Server thread/INFO]: [Not Secure] <spiritblossomss_> share to me
+[20:11:02] [Server thread/INFO]: [Not Secure] <VaIspire> xaero-waypoint:Home of the Floating Sakura:H:1585:257:-2450:13:false:0:Internal-overworld
+[20:11:11] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ok will be there in 10 ins
+[20:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[20:11:44] [Server thread/WARN]: VaIspire moved too quickly! -1.0588987310670746,-1.403394345538743,10.12646551210446
+[20:11:44] [Server thread/WARN]: VaIspire moved too quickly! -0.9624221165702238,-1.2820975049995411,9.982484975305397
+[20:11:55] [Server thread/WARN]: VaIspire moved too quickly! -0.15579528252624186,-8.200000047683716,-6.037297947316347
+[20:12:21] [Server thread/INFO]: LightFusional drowned
+[20:12:22] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_07.03.2026-20.12.21.dat
+[20:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33342ms or 666 ticks behind
+[20:12:38] [Server thread/INFO]: [Not Secure] <coastwised> hi
+[20:12:40] [Server thread/INFO]: [Not Secure] <LightFusional> sup
+[20:12:42] [Server thread/INFO]: [Not Secure] <VaIspire> alright i'ma leave for now, to let you guys not lag that much
+[20:12:51] [Server thread/INFO]: [Not Secure] <spiritblossomss_> tim hates us
+[20:12:52] [Server thread/INFO]: [Not Secure] <spiritblossomss_> :(
+[20:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11251ms or 225 ticks behind
+[20:12:58] [Server thread/INFO]: [Not Secure] <VaIspire> don't blame me
+[20:13:01] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LOL
+[20:13:03] [Server thread/INFO]: [Not Secure] <coastwised> wdym
+[20:13:06] [Server thread/INFO]: [Not Secure] <VaIspire> raph is annoyed about the lag
+[20:13:08] [Server thread/INFO]: [Not Secure] <coastwised> you lag when you're with us?
+[20:13:12] [Server thread/INFO]: [Not Secure] <coastwised> how
+[20:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6092ms or 121 ticks behind
+[20:13:18] [Server thread/INFO]: [Not Secure] <coastwised> i thought that was a problem of the past
+[20:13:19] [Server thread/INFO]: [Not Secure] <VaIspire> scroll up brah
+[20:13:31] [Server thread/INFO]: [Not Secure] <spiritblossomss_> up where
+[20:13:32] [Server thread/INFO]: [Not Secure] <coastwised> Where
+[20:13:33] [Server thread/INFO]: [Not Secure] <VaIspire> yeah but i'm hosting the server
+[20:13:37] [Server thread/INFO]: [Not Secure] <VaIspire> underwear
+[20:13:41] [Server thread/INFO]: [Not Secure] <spiritblossomss_> :(
+[20:13:44] [Server thread/INFO]: [Not Secure] <coastwised> ohh
+[20:13:44] [Server thread/INFO]: [Not Secure] <VaIspire> ok i'ma go since i needa do my pt anyway
+[20:13:46] [Server thread/INFO]: [Not Secure] <coastwised> okok
+[20:13:48] [Server thread/INFO]: [Not Secure] <coastwised> take care
+[20:13:50] [Server thread/INFO]: VaIspire lost connection: Disconnected
+[20:13:50] [Server thread/INFO]: VaIspire left the game
+[20:14:22] [Server thread/INFO]: [Not Secure] <LightFusional> rei are all the traders you got cured or theyre just normal villagers
+[20:14:37] [Server thread/INFO]: [Not Secure] <spiritblossomss_> the cured villagers are only one sided
+[20:14:42] [Server thread/INFO]: [Not Secure] <spiritblossomss_> and only the ones im giving for free
+[20:15:05] [Server thread/INFO]: [Not Secure] <Hyomae> im gonna eat rei
+[20:15:06] [Server thread/INFO]: [Not Secure] <LightFusional> take this , if you got more zombie villagers
+[20:15:14] [Server thread/INFO]: [Not Secure] <spiritblossomss_> what sei
+[20:15:15] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LOL
+[20:15:20] [Server thread/INFO]: [Not Secure] <spiritblossomss_> OH THANK U
+[20:15:25] [Server thread/INFO]: [Not Secure] <LightFusional> i got 3 from trials
+[20:15:28] [Server thread/INFO]: [Not Secure] <Hyomae> u gave cheesecake vibes
+[20:15:34] [Server thread/INFO]: [Not Secure] <spiritblossomss_> HELP?
+[20:15:34] [Server thread/INFO]: [Not Secure] <Hyomae> im hungry
+[20:15:48] [Server thread/INFO]: [Not Secure] <LightFusional> :skull:
+[20:16:36] [Server thread/INFO]: [Not Secure] <LightFusional> OH SH
+[20:16:45] [Server thread/INFO]: [Not Secure] <LightFusional> FK- I ACCIDENTALY TPED TO THE VILLAGERS BED
+[20:16:46] [Server thread/INFO]: [Not Secure] <LightFusional> SOB
+[20:16:56] [Server thread/INFO]: [Not Secure] <spiritblossomss_> bru
+[20:17:11] [Server thread/INFO]: [Not Secure] <LightFusional> this mtf woke up out of no where
+[20:17:29] [Server thread/INFO]: [Not Secure] <LightFusional> how much does loot III cost for you
+[20:17:35] [Server thread/INFO]: [Not Secure] <LightFusional> and fire II
+[20:17:42] [Server thread/INFO]: [Not Secure] <spiritblossomss_> same price
+[20:17:44] [Server thread/INFO]: [Not Secure] <LightFusional> oh
+[20:17:53] [Server thread/INFO]: [Not Secure] <LightFusional> you dm if i trd it right?
+[20:18:13] [Server thread/INFO]: [Not Secure] <spiritblossomss_> nawh the trading hall is everyone
+[20:19:36] [Server thread/INFO]: [Not Secure] <LightFusional> here
+[20:19:42] [Server thread/INFO]: [Not Secure] <spiritblossomss_> oh thanks!
+[20:19:43] [Server thread/INFO]: [Not Secure] <LightFusional> took one unbreak III book
+[20:19:54] [Server thread/INFO]: [Not Secure] <spiritblossomss_> those are free but ya thanks bro
+[20:19:54] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LOL
+[20:20:08] [Server thread/INFO]: [Not Secure] <LightFusional> ehh i kinda took alot more when i was alone.
+[20:20:15] [Server thread/INFO]: [Not Secure] <LightFusional> so im just gonna give more payment later
+[20:20:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> sei can i have some sugarcanes?
+[20:21:10] [Server thread/INFO]: [Not Secure] <LightFusional> am also gonna replace a new anvil cuz i used it a lot
+[20:21:31] [Server thread/INFO]: [Not Secure] <coastwised> Astaghfirullah
+[20:21:38] [Server thread/INFO]: [Not Secure] <Hyomae> Masyallah
+[20:21:51] [Server thread/INFO]: [Not Secure] <LightFusional> Oh fk.
+[20:21:52] [Server thread/INFO]: ssh0nen was doomed to fall by LightFusional
+[20:21:54] [Server thread/INFO]: [Not Secure] <spiritblossomss_> seeeiii
+[20:21:58] [Server thread/INFO]: [Not Secure] <spiritblossomss_> can i have sugarcanee
+[20:22:02] [Server thread/INFO]: [Not Secure] <Hyomae> sureee
+[20:22:06] [Server thread/INFO]: [Not Secure] <spiritblossomss_> yay
+[20:22:08] [Server thread/INFO]: [Not Secure] <Hyomae> take all u need
+[20:22:09] [Server thread/INFO]: [Not Secure] <LightFusional> WHY WAS HE THERE SOB
+[20:22:13] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LMAO
+[20:22:14] [Server thread/INFO]: [Not Secure] <LightFusional> I didnt even realize :sob:
+[20:22:37] [Server thread/INFO]: [Not Secure] <coastwised> Yo wtf
+[20:22:43] [Server thread/INFO]: [Not Secure] <spiritblossomss_> thank u sei
+[20:22:45] [Server thread/INFO]: [Not Secure] <LightFusional> do you mind if i use the uhh creeper farm
+[20:22:48] [Server thread/INFO]: [Not Secure] <LightFusional> since im up here
+[20:24:17] [Server thread/INFO]: [Not Secure] <LightFusional> SEIII Do you have one book
+[20:26:32] [Server thread/WARN]: spiritblossomss_ moved too quickly! -0.17878743948324427,-1.098714740646514,-17.79661491997649
+[20:28:21] [Server thread/INFO]: spiritblossomss_ experienced kinetic energy
+[20:28:21] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_07.03.2026-20.28.21.dat
+[20:28:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> uh
+[20:28:26] [Server thread/INFO]: [Not Secure] <spiritblossomss_> hm
+[20:28:26] [Server thread/INFO]: [Not Secure] <LightFusional> WOah
+[20:31:44] [Server thread/INFO]: [Not Secure] <coastwised> Jesh
+[20:31:45] [Server thread/INFO]: [Not Secure] <coastwised> No
+[20:31:47] [Server thread/INFO]: [Not Secure] <coastwised> do not enter
+[20:31:47] [Server thread/INFO]: [Not Secure] <ssh0nen> yo
+[20:31:49] [Server thread/INFO]: [Not Secure] <coastwised> i will execute you
+[20:32:02] [Server thread/INFO]: [Not Secure] <spiritblossomss_> DAMN
+[20:32:05] [Server thread/INFO]: [Not Secure] <spiritblossomss_> IM JUST SAYING HI
+[20:32:08] [Server thread/INFO]: [Not Secure] <ssh0nen> MB BRO
+[20:32:08] [Server thread/INFO]: [Not Secure] <spiritblossomss_> MY BAD
+[20:32:17] [Server thread/INFO]: [Not Secure] <ssh0nen> i THOUGHT you were gonna slime
+[20:32:19] [Server thread/INFO]: [Not Secure] <ssh0nen> me
+[20:32:22] [Server thread/INFO]: [Not Secure] <spiritblossomss_> with my fist?
+[20:32:23] [Server thread/INFO]: [Not Secure] <spiritblossomss_> DAMN
+[20:32:30] [Server thread/INFO]: [Not Secure] <ssh0nen> some jew spawned loads of vindicators yesterday
+[20:32:33] [Server thread/INFO]: [Not Secure] <ssh0nen> so im like paranoid
+[20:32:35] [Server thread/INFO]: [Not Secure] <coastwised> damn really
+[20:32:35] [Server thread/INFO]: [Not Secure] <LightFusional> :skull:
+[20:32:36] [Server thread/INFO]: [Not Secure] <coastwised> who bruh
+[20:32:36] [Server thread/INFO]: [Not Secure] <spiritblossomss_> i wonder who
+[20:32:40] [Server thread/INFO]: [Not Secure] <ssh0nen> yeah bro i wonder who
+[20:32:42] [Server thread/INFO]: [Not Secure] <coastwised> that's fucked bruh
+[20:32:44] [Server thread/INFO]: [Not Secure] <coastwised> ngl
+[20:32:48] [Server thread/INFO]: [Not Secure] <ssh0nen> yeah only a jew could do that
+[20:32:51] [Server thread/INFO]: [Not Secure] <spiritblossomss_> yo jesh i have something to give
+[20:32:54] [Server thread/INFO]: [Not Secure] <ssh0nen> what
+[20:32:59] [Server thread/INFO]: [Not Secure] <spiritblossomss_> wya
+[20:33:18] [Server thread/INFO]: [Not Secure] <ssh0nen> THANK YOU
+[20:33:20] [Server thread/INFO]: [Not Secure] <ssh0nen> I LOVE BACON
+[20:33:21] [Server thread/INFO]: [Not Secure] <spiritblossomss_> yuh
+[20:34:12] [Server thread/INFO]: spiritblossomss_ was blown up by Creeper
+[20:34:12] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_07.03.2026-20.34.12.dat
+[20:34:18] [Server thread/INFO]: [Not Secure] <spiritblossomss_> dont ask why\
+[20:34:19] [Server thread/INFO]: [Not Secure] <spiritblossomss_> how
+[20:34:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> or what happened
+[20:34:39] [Server thread/INFO]: [Not Secure] <ssh0nen> I have my mouth zipped bro
+[20:34:45] [Server thread/INFO]: [Not Secure] <Hyomae> ^
+[20:34:49] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ty guys
+[20:35:32] [Server thread/INFO]: [Not Secure] <LightFusional> you aint slick diddy blud
+[20:35:39] [Server thread/INFO]: [Not Secure] <coastwised> noob
+[20:36:37] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[20:36:37] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker succeeded with 393 radius, 1 samples
+[20:38:03] [Server thread/INFO]: [Not Secure] <spiritblossomss_> nice mullet
+[20:38:13] [Server thread/INFO]: [Not Secure] <ssh0nen> ,,,
+[20:38:23] [Server thread/INFO]: [Not Secure] <spiritblossomss_> what
+[20:38:57] [Server thread/INFO]: [Not Secure] <spiritblossomss_> i lowkey dont even know how to enter my own base
+[20:39:01] [Server thread/INFO]: [Not Secure] <LightFusional> oh yea i think there was an ancient city nearby the trials that i did hrs ago
+[20:39:08] [Server thread/INFO]: [Not Secure] <spiritblossomss_> no ty..
+[20:39:12] [Server thread/INFO]: [Not Secure] <LightFusional> LOL
+[20:39:22] [Server thread/INFO]: [Not Secure] <spiritblossomss_> its how we lost our last server
+[20:39:25] [Server thread/INFO]: [Not Secure] <Hyomae> yall no vc?
+[20:39:31] [Server thread/INFO]: [Not Secure] <spiritblossomss_> most of us died to a warden
+[20:39:36] [Server thread/INFO]: [Not Secure] <LightFusional> im the only one here
+[20:39:38] [Server thread/INFO]: [Not Secure] <LightFusional> in the v
+[20:39:40] [Server thread/INFO]: [Not Secure] <LightFusional> vc
+[20:42:01] [Server thread/INFO]: [Not Secure] <Hyomae> stalker
+[20:42:42] [Server thread/INFO]: [Not Secure] <LightFusional> WTF
+[20:42:51] [Server thread/INFO]: [Not Secure] <LightFusional> A CAT FELL INTO THE SPAWNER :SOB:
+[20:42:56] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ono
+[20:42:57] [Server thread/INFO]: [Not Secure] <LightFusional> HOW TF
+[20:42:58] [Server thread/INFO]: [Not Secure] <Hyomae> why are you stalking me jesh
+[20:43:07] [Server thread/INFO]: [Not Secure] <ssh0nen> im literally with rei bro
+[20:43:17] [Server thread/INFO]: [Not Secure] <spiritblossomss_> no hes not
+[20:43:22] [Server thread/INFO]: [Not Secure] <Hyomae> are u calling me a liar
+[20:43:27] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LOL
+[20:43:28] [Server thread/INFO]: [Not Secure] <Hyomae> are u calling me stupid
+[20:43:30] [Server thread/INFO]: [Not Secure] <Hyomae> jeshua
+[20:43:32] [Server thread/INFO]: [Not Secure] <ssh0nen> :|
+[20:43:42] [Server thread/INFO]: [Not Secure] <spiritblossomss_> yo jesh
+[20:43:46] [Server thread/INFO]: [Not Secure] <Hyomae> thats not nice
+[20:43:46] [Server thread/INFO]: [Not Secure] <LightFusional> Jesh-
+[20:43:49] [Server thread/INFO]: [Not Secure] <LightFusional> Why did you
+[20:43:51] [Server thread/INFO]: [Not Secure] <ssh0nen> Yo
+[20:43:52] [Server thread/INFO]: [Not Secure] <spiritblossomss_> is that ur cat in the spawner bro
+[20:43:54] [Server thread/INFO]: [Not Secure] <LightFusional> trigger all the creeper.
+[20:44:15] [Server thread/INFO]: [Not Secure] <spiritblossomss_> raph we have a problem
+[20:44:16] [Server thread/INFO]: [Not Secure] <LightFusional> Nahhh
+[20:44:18] [Server thread/INFO]: [Not Secure] <spiritblossomss_> theres a cat in the spawner
+[20:44:22] [Server thread/INFO]: [Not Secure] <LightFusional> Jesh brutally murdered the cat
+[20:44:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> WAHT
+[20:44:25] [Server thread/INFO]: [Not Secure] <LightFusional> in the spawner
+[20:44:28] [Server thread/INFO]: [Not Secure] <ssh0nen> YO LOWKEY
+[20:44:28] [Server thread/INFO]: [Not Secure] <spiritblossomss_> WHAT
+[20:44:32] [Server thread/INFO]: [Not Secure] <spiritblossomss_> WE NEED THAT BRO
+[20:44:34] [Server thread/INFO]: [Not Secure] <ssh0nen> I DIDN'T EVEN KNOW THERE WAS A CAT
+[20:44:38] [Server thread/INFO]: [Not Secure] <Hyomae> lets kill jesh bro
+[20:44:39] [Server thread/INFO]: [Not Secure] <spiritblossomss_> FOR THE FARM TO WORK
+[20:44:41] [Server thread/INFO]: [Not Secure] <spiritblossomss_> NAAHHH
+[20:44:41] [Server thread/INFO]: [Not Secure] <Hyomae> all of us
+[20:44:42] [Server thread/INFO]: [Not Secure] <LightFusional> WHY DID YOU EVEN TRIGGER THE CREEPERS
+[20:44:43] [Server thread/INFO]: [Not Secure] <LightFusional> :sob:
+[20:44:44] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ITS ON SIGHT BRO
+[20:44:51] [Server thread/INFO]: [Not Secure] <LightFusional> Jesh check set up chat
+[20:44:53] [Server thread/INFO]: [Not Secure] [Server] the cat was a faulty
+[20:45:00] [Server thread/INFO]: [Not Secure] [Server] raph will fix it
+[20:45:05] [Server thread/INFO]: [Not Secure] <LightFusional> LOL
+[20:45:09] [Server thread/INFO]: [Not Secure] <LightFusional> RAPH WILL FIX IT IS WILD
+[20:45:15] [Server thread/INFO]: [Not Secure] <spiritblossomss_> damn what is he bob the builder
+[20:45:41] [Server thread/INFO]: [Not Secure] [Server] he did say that was not suppose to happen
+[20:46:09] [Server thread/INFO]: [Not Secure] <spiritblossomss_> im making everone in the server rn somethign
+[20:46:11] [Server thread/INFO]: [Not Secure] [Server] happened to me as well, it most likey got shoved by a running creeper
+[20:46:11] [Server thread/INFO]: [Not Secure] <spiritblossomss_> :D
+[20:46:21] [Server thread/INFO]: [Not Secure] <spiritblossomss_> i think yall might or might not like this
+[20:46:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ahh okay makes sense
+[20:46:40] [Server thread/INFO]: [Not Secure] [Server] is he not back yet?
+[20:46:45] [Server thread/INFO]: [Not Secure] [Server] cuz raph made that farm
+[20:46:45] [Server thread/INFO]: [Not Secure] <LightFusional> Who
+[20:46:49] [Server thread/INFO]: [Not Secure] <spiritblossomss_> hes kinda locked in rn
+[20:46:50] [Server thread/INFO]: [Not Secure] [Server] raph
+[20:47:37] [Server thread/INFO]: [Not Secure] <LightFusional> wait its running creepers? not water drop?
+[20:49:13] [Server thread/INFO]: [Not Secure] <LightFusional> i forgot i got one bad omen bottle and 2 bad omen II
+[20:49:17] [Server thread/INFO]: [Not Secure] <LightFusional> from trials
+[20:49:18] [Server thread/INFO]: [Not Secure] <spiritblossomss_> aye
+[20:49:33] [Server thread/INFO]: [Not Secure] <LightFusional> dude one of the crate gave me 2 bottles
+[20:49:35] [Server thread/INFO]: [Not Secure] <LightFusional> in a row
+[20:49:39] [Server thread/INFO]: [Not Secure] <LightFusional> absolute luck
+[20:49:47] [Server thread/INFO]: [Not Secure] <spiritblossomss_> w
+[20:50:03] [Server thread/INFO]: [Not Secure] <LightFusional> Imagine i trigger raid in your base
+[20:50:05] [Server thread/INFO]: [Not Secure] <LightFusional> jk
+[20:50:07] [Server thread/INFO]: [Not Secure] <spiritblossomss_> PLEASE
+[20:50:09] [Server thread/INFO]: [Not Secure] <spiritblossomss_> DO NOT
+[20:50:11] [Server thread/INFO]: [Not Secure] <LightFusional> LOL I WONT I WONT
+[20:52:12] [Server thread/INFO]: [Not Secure] <spiritblossomss_> okay anyone free
+[20:52:16] [Server thread/INFO]: [Not Secure] <ssh0nen> yes
+[20:52:16] [Server thread/INFO]: [Not Secure] <spiritblossomss_> i have osmething tos hare
+[20:52:26] [Server thread/INFO]: [Not Secure] <spiritblossomss_> meet me in my farm guys
+[20:52:29] [Server thread/INFO]: [Not Secure] <LightFusional> hol on let me get to lvl 21 rq , im at 20 rn
+[20:53:25] [Server thread/INFO]: [Not Secure] <ssh0nen> YOOOOO
+[20:53:27] [Server thread/INFO]: [Not Secure] <ssh0nen> TS LIT
+[20:53:34] [Server thread/INFO]: [Not Secure] <ssh0nen> I LOVE BURGERS
+[20:53:36] [Server thread/INFO]: [Not Secure] <spiritblossomss_> hell ya
+[20:53:39] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ok omw to sei
+[20:53:49] [Server thread/INFO]: [Not Secure] <ssh0nen> Godbless American hamburgers
+[20:53:49] [Server thread/INFO]: [Not Secure] <LightFusional> alr let me see
+[20:53:51] [Server thread/INFO]: [Not Secure] <LightFusional> am here
+[20:54:04] [Server thread/INFO]: [Not Secure] <spiritblossomss_> sei
+[20:54:11] [Server thread/INFO]: [Not Secure] <LightFusional> Holy burger
+[20:54:14] [Server thread/INFO]: [Not Secure] <Hyomae> helloo reii
+[20:54:18] [Server thread/INFO]: [Not Secure] <ssh0nen> It's a whopper
+[20:54:19] [Server thread/INFO]: [Not Secure] <Hyomae> OH
+[20:54:21] [Server thread/INFO]: [Not Secure] <Hyomae> THANK U REEEI
+[20:54:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> NWW
+[20:54:44] [Server thread/INFO]: [Not Secure] <LightFusional> HOLY
+[20:54:46] [Server thread/INFO]: [Not Secure] <LightFusional> PEAK
+[20:54:50] [Server thread/INFO]: [Not Secure] <LightFusional> THX GANG
+[20:54:55] [Server thread/INFO]: [Not Secure] <ssh0nen> I love burger bro
+[20:54:59] [Server thread/INFO]: [Not Secure] <ssh0nen> thx gangie
+[20:55:06] [Server thread/INFO]: [Not Secure] <spiritblossomss_> nw guys
+[20:55:41] [Server thread/INFO]: [Not Secure] <LightFusional> going to go back to trials with bad omen
+[20:55:43] [Server thread/INFO]: [Not Secure] <LightFusional> hope i dont get clapped
+[20:55:50] [Server thread/INFO]: [Not Secure] <spiritblossomss_> oh im about to grind those too lol
+[20:55:50] [Server thread/INFO]: [Not Secure] <Hyomae> WAITAWIT
+[20:55:53] [Server thread/INFO]: [Not Secure] <Hyomae> IW ANNA GO TOO
+[20:55:55] [Server thread/INFO]: [Not Secure] <Hyomae> plz
+[20:56:05] [Server thread/INFO]: [Not Secure] <LightFusional> Okok
+[20:56:11] [Server thread/INFO]: [Not Secure] <LightFusional> meet me at rei's base
+[20:56:44] [Server thread/INFO]: [Not Secure] <spiritblossomss_> u guys got food?
+[20:56:52] [Server thread/INFO]: [Not Secure] <coastwised> ja
+[20:56:54] [Server thread/INFO]: [Not Secure] <LightFusional> yep
+[20:57:01] [Server thread/INFO]: [Not Secure] <Hyomae> no..
+[20:57:05] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ill get uy
+[20:57:15] [Server thread/INFO]: [Not Secure] <LightFusional> LOL
+[20:57:28] [Server thread/INFO]: ssh0nen lost connection: Disconnected
+[20:57:28] [Server thread/INFO]: ssh0nen left the game
+[20:57:41] [Server thread/INFO]: [Not Secure] <Hyomae> how isu already netherite
+[20:57:47] [Server thread/INFO]: [Not Secure] <LightFusional> Cuz i grind
+[20:57:51] [Server thread/INFO]: [Not Secure] <Hyomae> insane
+[20:57:58] [Server thread/INFO]: [Not Secure] <spiritblossomss_> do we vc
+[20:58:01] [Server thread/INFO]: [Not Secure] <LightFusional> im still homeless jst so you know
+[20:58:06] [Server thread/INFO]: [Not Secure] <Hyomae> TYYY
+[20:58:06] [Server thread/INFO]: [Not Secure] <LightFusional> im alr IN the vc sob
+[20:58:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> sei join up
+[20:58:58] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[20:58:58] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker succeeded with 252 radius, 1 samples
+[21:06:48] [Server thread/INFO]: Hyomae was slain by Cave Spider
+[21:09:01] [Server thread/INFO]: coastwised has made the advancement [Getting Started]
+[21:09:08] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LMAO
+[21:09:11] [Server thread/INFO]: [Not Secure] <coastwised> yes
+[21:09:19] [Server thread/INFO]: [Not Secure] <LightFusional> Peak achievement
+[21:09:20] [Server thread/INFO]: [Not Secure] <LightFusional> so rare
+[21:10:06] [Server thread/INFO]: LightFusional was slain by Husk
+[21:10:06] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_07.03.2026-21.10.06.dat
+[21:10:53] [Server thread/INFO]: Hyomae was slain by Husk
+[21:11:16] [Server thread/INFO]: spiritblossomss_ has made the advancement [Take Aim]
+[21:15:44] [Server thread/INFO]: LightFusional has reached the goal [Revaulting]
+[21:16:12] [Server thread/INFO]: Hyomae has reached the goal [Revaulting]
+[21:20:32] [Server thread/INFO]: spiritblossomss_ has completed the challenge [Blowback]
+[21:26:29] [Server thread/INFO]: Hyomae was slain by Husk
+[21:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[21:29:01] [Server thread/WARN]: Hyomae moved too quickly! 5.626205560206728,3.0,7.851156580179122
+[21:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21:37:09] [Server thread/INFO]: [Not Secure] <coastwised> sorry if you guys lag
+[21:37:13] [Server thread/INFO]: [Not Secure] <spiritblossomss_> t ok
+[21:37:13] [Server thread/INFO]: [Not Secure] <coastwised> using tnt to excavate rn
+[21:42:48] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[21:42:48] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker succeeded with 64 radius, 1 samples
+[21:42:54] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[21:42:54] [Server thread/INFO]: SearchWorkerManager 2807b5cd: RandomSpreadSearchWorker succeeded with 64 radius, 1 samples
+[21:43:22] [Server thread/INFO]: LightFusional has made the advancement [Who Needs Rockets?]
+[21:43:49] [Server thread/INFO]: [Not Secure] <coastwised> ok get ready for big lag spike
+[21:43:51] [Server thread/INFO]: [Not Secure] <coastwised> i made a nuke
+[21:43:54] [Server thread/INFO]: [Not Secure] <LightFusional> What-
+[21:43:54] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ono
+[21:43:59] [Server thread/INFO]: [Not Secure] <Hyomae> nukeyoass
+[21:44:10] [Server thread/INFO]: [Not Secure] <coastwised> sit tight
+[21:44:12] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ??
+[21:44:14] [Server thread/INFO]: [Not Secure] <coastwised> maybe go grab a cup of water
+[21:44:16] [Server thread/INFO]: [Not Secure] <coastwised> orsomething
+[21:44:16] [Server thread/INFO]: [Not Secure] <spiritblossomss_> damn
+[21:44:31] [Server thread/INFO]: ssh0nen[/127.226.54.184:57077] logged in with entity id 200180 at (345.66939509948304, 154.0, -1924.2873113012122)
+[21:44:31] [Server thread/INFO]: Loading config from file...
+[21:44:31] [Server thread/INFO]: ssh0nen joined the game
+[21:44:32] [Server thread/INFO]: [ShulkerBoxTooltip] ssh0nen: protocol version: 2.0
+[21:44:33] [Server thread/INFO]: [Not Secure] <spiritblossomss_> sup
+[21:44:34] [Server thread/INFO]: [Not Secure] <coastwised> LOL
+[21:44:39] [Server thread/INFO]: [Not Secure] <coastwised> jesh joins when i'm about to commit an atrocity
+[21:44:45] [Server thread/INFO]: [Not Secure] <LightFusional> Peak timing
+[21:44:49] [Server thread/INFO]: [Not Secure] <coastwised> sorry guys
+[21:44:52] [Server thread/INFO]: [Not Secure] <Hyomae> goonnected
+[21:44:52] [Server thread/INFO]: [Not Secure] <ssh0nen> because I am a criminal like you bro
+[21:44:57] [Server thread/INFO]: [Not Secure] <coastwised> the deadline on this colosseum is soon
+[21:44:59] [Server thread/INFO]: [Not Secure] <coastwised> gotta hit deadlines
+[21:45:02] [Server thread/INFO]: [Not Secure] <coastwised> so i gotta use nukes real quick
+[21:45:13] [Server thread/INFO]: [Not Secure] <coastwised> ok here we go
+[21:45:28] [Server thread/INFO]: [Not Secure] <coastwised> ok that wasn't so bad
+[21:45:33] [Server thread/INFO]: ssh0nen fell from a high place
+[21:45:44] [Server thread/INFO]: [Not Secure] <spiritblossomss_> um
+[21:45:45] [Server thread/INFO]: [Not Secure] <spiritblossomss_> what
+[21:45:52] [Server thread/INFO]: [Not Secure] <coastwised> wat
+[21:45:55] [Server thread/INFO]: [Not Secure] <coastwised> yo jesh
+[21:45:55] [Server thread/INFO]: [Not Secure] <LightFusional> LOL
+[21:45:58] [Server thread/INFO]: [Not Secure] <coastwised> where are yopu
+[21:45:58] [Server thread/INFO]: [Not Secure] <spiritblossomss_> we ust saw jseh die
+[21:46:07] [Server thread/INFO]: [Not Secure] <coastwised> i want you to meet my dog jesh
+[21:46:07] [Server thread/INFO]: [Not Secure] <Hyomae> ARG entity
+[21:46:25] [Server thread/INFO]: [Not Secure] <spiritblossomss_> u coming?
+[21:46:27] [Server thread/INFO]: [Not Secure] <spiritblossomss_> join us vc
+[21:46:36] [Server thread/INFO]: [Not Secure] <coastwised> jesh your leader is calling you
+[21:46:36] [Server thread/INFO]: [Not Secure] <coastwised> gook
+[21:46:36] [Server thread/INFO]: [Not Secure] <ssh0nen> hold up nasa ibang call ako
+[21:46:39] [Server thread/INFO]: [Not Secure] <spiritblossomss_> wow
+[21:46:41] [Server thread/INFO]: [Not Secure] <spiritblossomss_> JK
+[21:46:53] [Server thread/INFO]: [Not Secure] <coastwised> Guys can i say the n word
+[21:46:58] [Server thread/INFO]: [Not Secure] <spiritblossomss_> >?????????????
+[21:46:58] [Server thread/INFO]: [Not Secure] <LightFusional> LOL JESH
+[21:47:14] [Server thread/INFO]: [Not Secure] <spiritblossomss_> were gonig trial chambers btw
+[21:48:21] [Server thread/INFO]: Aimoto[/127.11.80.57:49345] logged in with entity id 206323 at (1098.6442208443825, 71.0, 60.625146325602906)
+[21:48:21] [Server thread/INFO]: Loading config from file...
+[21:48:21] [Server thread/INFO]: Aimoto joined the game
+[21:48:23] [Server thread/INFO]: [ShulkerBoxTooltip] Aimoto: protocol version: 2.0
+[21:48:24] [Server thread/INFO]: [Not Secure] <spiritblossomss_> suo
+[21:48:28] [Server thread/INFO]: [Not Secure] <Hyomae> ash
+[21:48:34] [Server thread/INFO]: [Not Secure] <Aimoto> yes
+[21:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21:49:30] [Server thread/INFO]: [Not Secure] <spiritblossomss_> we gotta wait for the ones on foot bro
+[21:49:42] [Server thread/INFO]: [Not Secure] <ssh0nen> third world
+[21:49:45] [Server thread/INFO]: [Not Secure] <spiritblossomss_> wow
+[21:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[21:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4616ms or 92 ticks behind
+[21:50:11] [Server thread/INFO]: [Not Secure] <spiritblossomss_> guys
+[21:50:12] [Server thread/INFO]: [Not Secure] <spiritblossomss_> here
+[21:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21:52:10] [Server thread/INFO]: ssh0nen has made the advancement [Minecraft: Trial(s) Edition]
+[21:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21:53:14] [Server thread/INFO]: [Not Secure] <spiritblossomss_> I GOT IT
+[21:53:25] [Server thread/INFO]: [Not Secure] <coastwised> yay
+[21:53:26] [Server thread/INFO]: [Not Secure] <coastwised> coingrat
+[21:55:31] [Server thread/INFO]: spiritblossomss_ was shot by Stray
+[21:55:31] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_07.03.2026-21.55.31.dat
+[21:55:36] [Server thread/INFO]: [Not Secure] <coastwised> ash
+[21:55:47] [Server thread/INFO]: [Not Secure] <Aimoto> yes
+[21:55:48] [Server thread/INFO]: [Not Secure] <coastwised> Ash
+[21:55:52] [Server thread/INFO]: [Not Secure] <coastwised> i working on colosseum
+[21:56:00] [Server thread/INFO]: [Not Secure] <coastwised> Do you wanna work on it or like
+[21:56:03] [Server thread/INFO]: [Not Secure] <coastwised> I just do it
+[21:56:16] [Server thread/INFO]: [Not Secure] <Aimoto> Im doing my village rn
+[21:56:17] [Server thread/INFO]: spiritblossomss_ lost connection: Disconnected
+[21:56:17] [Server thread/INFO]: spiritblossomss_ left the game
+[21:56:21] [Server thread/INFO]: [Not Secure] <coastwised> Ok
+[21:58:52] [Server thread/INFO]: [Not Secure] <ssh0nen> This is a warzon
+[21:58:56] [Server thread/INFO]: [Not Secure] <LightFusional> Real
+[21:58:57] [Server thread/INFO]: [Not Secure] <coastwised> JESH
+[21:59:02] [Server thread/INFO]: [Not Secure] <coastwised> Where are you
+[21:59:04] [Server thread/INFO]: [Not Secure] <LightFusional> gotta find the remaining mobs
+[21:59:07] [Server thread/INFO]: [Not Secure] <ssh0nen> were fighting a war bro
+[21:59:07] [Server thread/INFO]: [Not Secure] <LightFusional> he is with us
+[21:59:15] [Server thread/INFO]: [Not Secure] <coastwised> i need my fucking civilian bro
+[21:59:21] [Server thread/INFO]: [Not Secure] <coastwised> yknow what jesh you're promoted to officer
+[21:59:24] [Server thread/INFO]: [Not Secure] <coastwised> get yo ass here boy
+[21:59:32] [Server thread/INFO]: [Not Secure] <ssh0nen> alright sir
+[21:59:36] [Server thread/INFO]: [Not Secure] <coastwised> no
+[21:59:38] [Server thread/INFO]: [Not Secure] <coastwised> still say master
+[21:59:49] [Server thread/INFO]: [Not Secure] <coastwised> massa
+[21:59:53] [Server thread/INFO]: [Not Secure] <ssh0nen> alright massa
+[22:00:06] [Server thread/INFO]: [Not Secure] <coastwised> i'm making the great colosseum of auschvenia
+[22:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[22:00:16] [Server thread/INFO]: [Not Secure] <ssh0nen> what do you need me to do massa
+[22:00:19] [Server thread/INFO]: [Not Secure] <ssh0nen> toby be great server
+[22:00:28] [Server thread/INFO]: [Not Secure] <LightFusional> gotta find the spiders
+[22:00:33] [Server thread/INFO]: [Not Secure] <coastwised> Toby be good Snicker
+[22:00:44] [Server thread/INFO]: [Not Secure] <coastwised> ykw just come back when you're free
+[22:00:54] [Server thread/INFO]: [Not Secure] <ssh0nen> okay massa
+[22:01:02] [Server thread/INFO]: [Not Secure] <coastwised> what a good goy
+[22:01:14] [Server thread/INFO]: ssh0nen has made the advancement [Ol' Betsy]
+[22:01:14] [Server thread/INFO]: ssh0nen has made the advancement [Take Aim]
+[22:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22:04:07] [Server thread/INFO]: Kumoribread[/127.51.170.175:57581] logged in with entity id 221769 at (649.9555034799317, 73.5, -1934.862746894469)
+[22:04:07] [Server thread/INFO]: Loading config from file...
+[22:04:07] [Server thread/INFO]: Kumoribread joined the game
+[22:04:12] [Server thread/INFO]: [ShulkerBoxTooltip] Kumoribread: protocol version: 2.0
+[22:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[22:04:19] [Server thread/INFO]: [Not Secure] <LightFusional> down there
+[22:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[22:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:05:48] [Server thread/INFO]: Aimoto has made the advancement [Voluntary Exile]
+[22:06:41] [Server thread/INFO]: Aimoto fell from a high place
+[22:06:41] [Server thread/INFO]: Created new backpack backup file for Aimoto with unique ID travelersbackpack.standard_07.03.2026-22.06.41.dat
+[22:07:02] [Server thread/INFO]: [Not Secure] <coastwised> jesh i'm making an icbm
+[22:07:13] [Server thread/INFO]: [Not Secure] <ssh0nen> damn bro
+[22:07:15] [Server thread/INFO]: [Not Secure] <LightFusional> jesh
+[22:07:15] [Server thread/INFO]: [Not Secure] <ssh0nen> for what country
+[22:07:18] [Server thread/INFO]: [Not Secure] <LightFusional> wanna try gamble
+[22:07:22] [Server thread/INFO]: [Not Secure] <coastwised> israel
+[22:07:23] [Server thread/INFO]: [Not Secure] <ssh0nen> what gamble
+[22:07:25] [Server thread/INFO]: [Not Secure] <ssh0nen> fuck israel
+[22:07:26] [Server thread/INFO]: [Not Secure] <LightFusional> Here
+[22:07:28] [Server thread/INFO]: [Not Secure] <Hyomae> jeshu
+[22:07:30] [Server thread/INFO]: [Not Secure] <LightFusional> come up
+[22:07:30] [Server thread/INFO]: [Not Secure] <Hyomae> v c
+[22:07:39] [Server thread/INFO]: [Not Secure] <ssh0nen> okay
+[22:07:40] [Server thread/INFO]: [Not Secure] <LightFusional> use this key and right click the vault
+[22:07:42] [Server thread/INFO]: [Not Secure] <Hyomae> fuck isreal hell yeah
+[22:07:42] [Server thread/INFO]: [Not Secure] <ssh0nen> wait
+[22:07:53] [Server thread/INFO]: ssh0nen has reached the goal [Revaulting]
+[22:08:03] [Server thread/INFO]: [Not Secure] <LightFusional> Oof no
+[22:08:07] [Server thread/INFO]: [Not Secure] <ssh0nen> lowkey shit loot
+[22:08:08] [Server thread/INFO]: [Not Secure] <LightFusional> didnt get it
+[22:08:09] [Server thread/INFO]: [Not Secure] <LightFusional> sob
+[22:08:12] [Server thread/INFO]: [Not Secure] <coastwised> ok guys remember how i said earlier
+[22:08:14] [Server thread/INFO]: [Not Secure] <coastwised> i was making a nuke
+[22:08:16] [Server thread/INFO]: [Not Secure] <coastwised> and nothing happened
+[22:08:18] [Server thread/INFO]: [Not Secure] <coastwised> now this one might
+[22:08:19] [Server thread/INFO]: [Not Secure] <LightFusional> yea?
+[22:08:21] [Server thread/INFO]: [Not Secure] <LightFusional> oh no,.
+[22:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22:08:31] [Server thread/INFO]: [Not Secure] <coastwised> sorry in advance
+[22:08:38] [Server thread/INFO]: [Not Secure] <coastwised> but i need to excavate
+[22:08:52] [Server thread/INFO]: [Not Secure] <coastwised> i think i've placed down 5000 tnt
+[22:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22:08:56] [Server thread/INFO]: [Not Secure] <LightFusional> ????
+[22:08:57] [Server thread/INFO]: [Not Secure] <LightFusional> 5k??:
+[22:09:00] [Server thread/INFO]: [Not Secure] <coastwised> ya
+[22:09:00] [Server thread/INFO]: [Not Secure] <ssh0nen> Godbless amerika
+[22:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[22:09:19] [Server thread/INFO]: [Not Secure] <ssh0nen> what else are we doing in this hellhole
+[22:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[22:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[22:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:10:32] [Server thread/INFO]: [Not Secure] <coastwised> yo jesh
+[22:10:38] [Server thread/INFO]: [Not Secure] <ssh0nen> vat
+[22:10:41] [Server thread/INFO]: [Not Secure] <coastwised> if betcover!! comes to the philippines would you go to that gig with me bro
+[22:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[22:11:07] [Server thread/INFO]: [Not Secure] <LightFusional> gamble?
+[22:11:27] [Server thread/INFO]: [Not Secure] <ssh0nen> wow bro
+[22:11:27] [Server thread/INFO]: [Not Secure] <LightFusional> Wow god apple
+[22:11:41] [Server thread/INFO]: [Not Secure] <ssh0nen> kaplog naman binibigay saamin sa trial chamber
+[22:11:48] [Server thread/INFO]: [Not Secure] <coastwised> reply jew
+[22:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:12:38] [Server thread/INFO]: [Not Secure] <ssh0nen> where is my massa
+[22:12:42] [Server thread/INFO]: [Not Secure] <coastwised> bro
+[22:12:46] [Server thread/INFO]: [Not Secure] <coastwised> scroll up retard
+[22:12:50] [Server thread/INFO]: [Not Secure] <coastwised> and i'm at my base
+[22:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[22:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:14:35] [Server thread/INFO]: Kumoribread has made the advancement [Hunt and Gather]
+[22:14:45] [Server thread/WARN]: coastwised moved too quickly! 0.03061926068323828,-10.529193645291315,-0.01618758889549099
+[22:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[22:17:32] [Server thread/INFO]: [Not Secure] <coastwised> ok hopefully this doesn't crash the server
+[22:17:34] [Server thread/INFO]: LightFusional was slain by ssh0nen
+[22:17:34] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_07.03.2026-22.17.34.dat
+[22:17:35] [Server thread/INFO]: [Not Secure] <coastwised> sorry in advance for everyone
+[22:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6763ms or 135 ticks behind
+[22:17:45] [Server thread/INFO]: [Not Secure] <LightFusional> oh no
+[22:18:00] [Server thread/INFO]: [Not Secure] <coastwised> lag
+[22:18:03] [Server thread/INFO]: [Not Secure] <LightFusional> Oh nah
+[22:18:05] [Server thread/INFO]: [Not Secure] <coastwised> ok nah i think we're good
+[22:18:11] [Server thread/INFO]: [Not Secure] <coastwised> UH
+[22:18:16] [Server thread/INFO]: [Not Secure] <coastwised> i almost hit jeshua's house.
+[22:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19247ms or 384 ticks behind
+[22:18:19] [Server thread/INFO]: [Not Secure] <coastwised> Uh
+[22:18:30] [Server thread/INFO]: [Not Secure] <LightFusional> LOL
+[22:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5378ms or 107 ticks behind
+[22:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[22:19:03] [Server thread/INFO]: ssh0nen was slain by Hyomae using [Melody]
+[22:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5931ms or 118 ticks behind
+[22:19:32] [Server thread/INFO]: Hyomae fell from a high place
+[22:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5699ms or 113 ticks behind
+[22:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[22:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[22:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22:21:14] [Server thread/INFO]: ssh0nen fell from a high place
+[22:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[22:24:23] [Server thread/WARN]: coastwised moved too quickly! -2.9696562486777793,4.500000178813934,-9.60316804568697
+[22:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10038ms or 200 ticks behind
+[22:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
+[22:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8152ms or 163 ticks behind
+[22:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5982ms or 119 ticks behind
+[22:26:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[22:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[22:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7662ms or 153 ticks behind
+[22:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6899ms or 137 ticks behind
+[22:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[22:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
+[22:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3672ms or 73 ticks behind
+[22:28:37] [Server thread/WARN]: coastwised moved too quickly! 2.749370149889671,-10.411953070699752,-1.3121627997632004
+[22:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6443ms or 128 ticks behind
+[22:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:29:32] [Server thread/INFO]: Villager class_1646['Farmer'/251828, l='ServerLevel[world]', x=943.94, y=68.00, z=604.23] died, message: 'Farmer was slain by Aimoto'
+[22:29:43] [Server thread/INFO]: Villager class_1646['Nitwit'/252581, l='ServerLevel[world]', x=920.80, y=72.00, z=620.57] died, message: 'Nitwit was slain by Aimoto'
+[22:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[22:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[22:30:13] [Server thread/INFO]: Villager class_1646['Unemployed'/252582, l='ServerLevel[world]', x=913.30, y=74.00, z=599.30] died, message: 'Unemployed was slain by Aimoto'
+[22:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22:30:55] [Server thread/INFO]: [Not Secure] <ssh0nen> Kumori where is ur house
+[22:31:08] [Server thread/INFO]: [Not Secure] <Kumoribread> near rei's
+[22:31:11] [Server thread/INFO]: Villager class_1646['Mason'/252580, l='ServerLevel[world]', x=890.53, y=76.00, z=602.69] died, message: 'Mason went up in flames'
+[22:31:31] [Server thread/INFO]: [Not Secure] <Kumoribread> its like an island
+[22:32:24] [Server thread/INFO]: Villager class_1646['Unemployed'/252585, l='ServerLevel[world]', x=931.74, y=73.00, z=591.50] died, message: 'Unemployed burned to death'
+[22:32:29] [Server thread/INFO]: Villager class_1646['Unemployed'/252579, l='ServerLevel[world]', x=933.56, y=72.56, z=589.98] died, message: 'Unemployed went up in flames'
+[22:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[22:32:30] [Server thread/WARN]: ssh0nen moved too quickly! 11.677567637069558,0.15722554181934356,13.989553648480523
+[22:32:42] [Server thread/INFO]: Villager class_1646['Mason'/251781, l='ServerLevel[world]', x=920.57, y=81.00, z=552.00] died, message: 'Mason was slain by Aimoto'
+[22:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[22:33:22] [Server thread/INFO]: Villager class_1646['Mason'/251816, l='ServerLevel[world]', x=901.45, y=79.54, z=563.53] died, message: 'Mason was slain by Aimoto'
+[22:33:24] [Server thread/WARN]: coastwised moved too quickly! -9.279441470057634,0.15000000596046448,4.016495607946126
+[22:33:24] [Server thread/WARN]: ssh0nen moved too quickly! 3.4846277441472466,6.0615218555259105,16.78320831164524
+[22:33:25] [Server thread/WARN]: ssh0nen moved too quickly! 3.4125356661437536,5.320184255822539,17.05341496704773
+[22:33:26] [Server thread/WARN]: coastwised moved too quickly! -8.108288404599705,4.687940984705065,-4.38115597936644
+[22:33:26] [Server thread/WARN]: ssh0nen moved too quickly! 3.3581855921024726,3.500396596985752,17.495182461145305
+[22:33:28] [Server thread/WARN]: ssh0nen moved too quickly! 3.284379796873509,2.6895313139702637,17.705238456589996
+[22:33:28] [Server thread/WARN]: coastwised moved too quickly! -9.709634564166379,2.8009013336978086,-3.398988136419348
+[22:33:29] [Server thread/WARN]: ssh0nen moved too quickly! 3.1075982793654475,1.8971169863048942,17.42320790233657
+[22:33:29] [Server thread/WARN]: coastwised moved too quickly! -8.87837806550533,2.6194900875214557,-4.7571478615873275
+[22:33:30] [Server thread/WARN]: coastwised moved too quickly! -8.014546416754115,3.3443489453518396,-4.965001614216362
+[22:33:32] [Server thread/WARN]: coastwised moved too quickly! -9.965777818474464,0.0,-4.319921124633765
+[22:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14351ms or 287 ticks behind
+[22:33:52] [Server thread/INFO]: ssh0nen fell from a high place
+[22:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
+[22:34:32] [Server thread/INFO]: Villager class_1646['Unemployed'/211953, l='ServerLevel[world]', x=926.41, y=97.00, z=539.61] died, message: 'Unemployed was slain by Aimoto'
+[22:34:55] [Server thread/INFO]: Villager class_1646['Unemployed'/252577, l='ServerLevel[world]', x=898.65, y=75.00, z=600.52] died, message: 'Unemployed was slain by Zombie'
+[22:35:14] [Server thread/INFO]: [Not Secure] <LightFusional> sei do you have papers
+[22:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[22:35:34] [Server thread/INFO]: LightFusional lost connection: Disconnected
+[22:35:34] [Server thread/INFO]: LightFusional left the game
+[22:35:36] [Server thread/INFO]: ssh0nen lost connection: Disconnected
+[22:35:36] [Server thread/INFO]: ssh0nen left the game
+[22:35:36] [Server thread/INFO]: Villager class_1646['Unemployed'/251789, l='ServerLevel[world]', x=944.64, y=80.00, z=567.68] died, message: 'Unemployed was slain by Zombie Villager'
+[22:35:38] [Server thread/INFO]: Hyomae lost connection: Disconnected
+[22:35:38] [Server thread/INFO]: Hyomae left the game
+[22:35:41] [Server thread/INFO]: coastwised lost connection: Disconnected
+[22:35:41] [Server thread/INFO]: coastwised left the game
+[22:35:43] [Server thread/INFO]: [Not Secure] [Server] everyone leave for now
+[22:35:43] [Server thread/INFO]: Kumoribread lost connection: Disconnected
+[22:35:43] [Server thread/INFO]: Kumoribread left the game
+[22:35:46] [Server thread/INFO]: Aimoto lost connection: Disconnected
+[22:35:46] [Server thread/INFO]: Aimoto left the game
+[22:35:57] [Server thread/INFO]: Stopping server
+[22:35:57] [Server thread/INFO]: Saving players
+[22:35:57] [Server thread/INFO]: Saving worlds
+[22:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:35:58] [Server thread/INFO]: Unloading server configs...
+[22:35:58] [Server thread/INFO]: Finished unloading server configs
+[22:35:58] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml

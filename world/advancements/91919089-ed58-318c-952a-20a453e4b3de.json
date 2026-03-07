@@ -3955,12 +3955,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2026-03-06 23:48:04 +0800"
-    },
-    "done": true
-  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2026-03-06 23:45:42 +0800"
@@ -3970,6 +3964,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2026-03-06 23:45:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-03-06 23:48:04 +0800"
     },
     "done": true
   },

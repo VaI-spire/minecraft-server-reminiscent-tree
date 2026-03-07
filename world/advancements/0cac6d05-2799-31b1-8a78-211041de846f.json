@@ -441,6 +441,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-03-05 00:43:52 +0800",
+      "minecraft:pillager": "2026-03-07 22:05:28 +0800",
       "minecraft:skeleton": "2026-03-04 02:03:43 +0800",
       "minecraft:piglin": "2026-03-05 00:24:00 +0800",
       "minecraft:silverfish": "2026-03-04 23:26:37 +0800",
@@ -3337,6 +3338,66 @@
   "cratedelight:recipes/building_blocks/poisonous_potato_crate": {
     "criteria": {
       "has_poisonous_potato": "2026-03-07 01:35:55 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2026-03-07 22:19:03 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2026-03-07 22:31:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-03-07 22:05:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-03-07 22:28:53 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2026-03-07 22:19:03 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2026-03-07 22:31:03 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2026-03-07 22:19:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-03-07 22:28:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-03-07 22:31:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-03-07 22:31:06 +0800"
     },
     "done": true
   },
