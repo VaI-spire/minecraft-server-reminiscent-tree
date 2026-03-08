@@ -873,18 +873,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-03-08 22:17:12 +0800",
       "minecraft:skeleton": "2026-03-06 19:53:57 +0800",
       "minecraft:phantom": "2026-03-07 22:57:13 +0800",
+      "minecraft:zombified_piglin": "2026-03-08 22:31:34 +0800",
+      "minecraft:ravager": "2026-03-08 22:18:22 +0800",
       "minecraft:husk": "2026-03-07 17:31:40 +0800",
       "minecraft:bogged": "2026-03-07 17:42:03 +0800",
       "minecraft:shulker": "2026-03-07 23:02:29 +0800",
       "minecraft:cave_spider": "2026-03-07 17:22:19 +0800",
       "minecraft:breeze": "2026-03-07 17:26:56 +0800",
+      "minecraft:vindicator": "2026-03-08 22:18:20 +0800",
       "minecraft:enderman": "2026-03-07 14:48:34 +0800",
       "minecraft:stray": "2026-03-07 21:53:55 +0800",
       "minecraft:silverfish": "2026-03-07 23:45:43 +0800",
       "minecraft:endermite": "2026-03-07 23:02:01 +0800",
       "minecraft:spider": "2026-03-06 20:59:34 +0800",
+      "minecraft:vex": "2026-03-08 22:18:51 +0800",
       "minecraft:zombie": "2026-03-06 19:58:19 +0800",
       "minecraft:creeper": "2026-03-07 00:18:16 +0800",
       "minecraft:drowned": "2026-03-07 21:12:47 +0800",
@@ -3515,12 +3520,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2026-03-08 12:39:28 +0800"
@@ -3563,21 +3562,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2026-03-08 12:39:28 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
     },
     "done": true
   },
@@ -3626,6 +3613,180 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2026-03-08 12:39:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-03-08 12:52:27 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2026-03-08 21:54:43 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2026-03-08 21:54:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-03-08 21:58:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-03-08 21:59:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-03-08 22:01:23 +0800"
+    },
+    "done": true
+  },
+  "lifesteal:recipes/misc/revive_crystal": {
+    "criteria": {
+      "has_totem": "2026-03-08 22:18:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2026-03-08 22:19:18 +0800"
+    },
+    "done": true
+  },
+  "lifesteal:get_10_max_hearts_with_netherite_armor": {
+    "criteria": {
+      "has_full_netherite_armor": "2026-03-08 22:53:48 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-03-08 22:53:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-09 00:00:50 +0800"
     },
     "done": true
   },

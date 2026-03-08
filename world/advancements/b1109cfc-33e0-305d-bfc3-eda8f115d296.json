@@ -62,6 +62,7 @@
       "minecraft:blaze": "2026-03-06 23:35:51 +0800",
       "minecraft:skeleton": "2026-03-02 22:10:00 +0800",
       "minecraft:zombified_piglin": "2026-03-04 22:56:59 +0800",
+      "minecraft:witch": "2026-03-08 22:19:04 +0800",
       "minecraft:wither_skeleton": "2026-03-06 23:35:00 +0800",
       "minecraft:husk": "2026-03-05 23:07:48 +0800",
       "minecraft:bogged": "2026-03-05 23:17:23 +0800",
@@ -70,10 +71,12 @@
       "minecraft:cave_spider": "2026-03-02 22:27:56 +0800",
       "minecraft:piglin": "2026-03-04 23:14:29 +0800",
       "minecraft:breeze": "2026-03-05 23:19:46 +0800",
+      "minecraft:vindicator": "2026-03-08 22:19:16 +0800",
       "minecraft:enderman": "2026-03-05 00:23:05 +0800",
       "minecraft:stray": "2026-03-07 21:54:53 +0800",
       "minecraft:magma_cube": "2026-03-03 23:48:38 +0800",
       "minecraft:spider": "2026-03-02 23:06:36 +0800",
+      "minecraft:vex": "2026-03-08 22:18:24 +0800",
       "minecraft:zombie": "2026-03-02 20:53:38 +0800",
       "minecraft:creeper": "2026-03-02 22:58:14 +0800",
       "minecraft:zombie_villager": "2026-03-02 20:52:42 +0800",
@@ -469,7 +472,8 @@
       "cooked_mutton": "2026-03-02 23:22:55 +0800",
       "cooked_beef": "2026-03-02 22:10:16 +0800",
       "baked_potato": "2026-03-02 20:58:53 +0800",
-      "golden_carrot": "2026-03-05 23:22:37 +0800"
+      "golden_carrot": "2026-03-05 23:22:37 +0800",
+      "carrot": "2026-03-08 22:37:18 +0800"
     },
     "done": false
   },
@@ -4367,27 +4371,57 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/black_sharestone": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_warp_stone": "2026-03-08 05:21:04 +0800"
+      "has_white_terracotta": "2026-03-08 04:08:08 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "travelersbackpack:iron_upgrade": {
     "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+      "iron_upgrade": "2026-03-08 04:36:41 +0800"
     },
     "done": true
   },
-  "waystones:recipes/decorations/magenta_sharestone": {
+  "minecraft:adventure/lighten_up": {
     "criteria": {
-      "has_warp_stone": "2026-03-08 05:21:04 +0800"
+      "lighten_up": "2026-03-08 05:07:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2026-03-08 05:07:48 +0800"
     },
     "done": true
   },
   "waystones:recipes/decorations/warp_scroll": {
     "criteria": {
       "has_ender_pearl": "2026-03-08 05:20:49 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2026-03-08 05:20:49 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2026-03-08 05:20:49 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2026-03-08 05:21:04 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2026-03-08 05:21:04 +0800"
     },
     "done": true
   },
@@ -4403,27 +4437,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/light_gray_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2026-03-08 04:08:08 +0800"
     },
     "done": true
   },
@@ -4433,27 +4449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_vines": {
-    "criteria": {
-      "has_waystone": "2026-03-08 05:22:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2026-03-08 05:21:54 +0800"
     },
     "done": true
   },
@@ -4472,18 +4470,6 @@
   "waystones:recipes/decorations/yellow_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2026-03-08 05:07:48 +0800"
-    },
-    "done": true
-  },
-  "travelersbackpack:iron_upgrade": {
-    "criteria": {
-      "iron_upgrade": "2026-03-08 04:36:41 +0800"
     },
     "done": true
   },
@@ -4508,24 +4494,6 @@
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_stone": {
-    "criteria": {
-      "has_ender_pearl": "2026-03-08 05:20:49 +0800"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
-    "criteria": {
-      "has_waystone": "2026-03-08 05:22:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
     },
     "done": true
   },
@@ -4601,33 +4569,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2026-03-08 05:20:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
     },
     "done": true
   },
@@ -4652,12 +4596,6 @@
   "waystones:recipes/decorations/orange_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lighten_up": {
-    "criteria": {
-      "lighten_up": "2026-03-08 05:07:41 +0800"
     },
     "done": true
   },
@@ -4694,6 +4632,138 @@
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 05:21:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-03-08 05:21:54 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2026-03-08 05:22:06 +0800"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2026-03-08 05:22:06 +0800"
+    },
+    "done": true
+  },
+  "lifesteal:get_10_max_hearts_with_netherite_armor": {
+    "criteria": {
+      "has_full_netherite_armor": "2026-03-08 22:12:40 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2026-03-08 22:19:18 +0800"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/sugar_bag": {
+    "criteria": {
+      "has_sugar": "2026-03-08 22:19:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-08 23:30:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-08 23:30:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2026-03-08 23:12:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-08 23:30:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-08 23:30:57 +0800"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/blue_egg_crate": {
+    "criteria": {
+      "has_blue_egg": "2026-03-08 23:42:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_the_recipe": "2026-03-08 23:33:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2026-03-08 23:30:57 +0800"
     },
     "done": true
   },
