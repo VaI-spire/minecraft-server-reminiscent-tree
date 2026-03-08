@@ -6213,5 +6213,11 @@
     },
     "done": true
   },
+  "lifesteal:get_10_max_hearts_with_netherite_armor": {
+    "criteria": {
+      "has_full_netherite_armor": "2026-03-08 17:24:30 +0800"
+    },
+    "done": false
+  },
   "DataVersion": 4671
 }
