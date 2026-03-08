@@ -1,289 +1,444 @@
-[00:00:00] [Server thread/WARN]: AstralTime moved too quickly! 2.9709129838304307,-0.9251737863259706,11.078808525759086
-[00:00:44] [Server thread/INFO]: ssh0nen discovered the floor was lava
-[00:01:12] [Server thread/INFO]: AstralTime lost connection: Disconnected
-[00:01:12] [Server thread/INFO]: AstralTime left the game
-[00:02:05] [Server thread/INFO]: [Not Secure] <LightFusional> Lets quickly find a new one
-[00:02:10] [Server thread/INFO]: [Not Secure] <LightFusional> 32 mins left
-[00:03:07] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[00:03:07] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker succeeded with 59 radius, 1 samples
-[00:03:19] [Server thread/INFO]: [Not Secure] <spiritblossomss_> xaero-waypoint:trial:T:5076:64:-4197:3:false:0:Internal-overworld
-[00:03:37] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[00:03:37] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker succeeded with 39 radius, 1 samples
-[00:04:26] [Server thread/INFO]: [Not Secure] <LightFusional> its gonna take a while to fly there
-[00:04:30] [Server thread/WARN]: LightFusional moved too quickly! 16.21079492754427,3.24327639528029,-7.95677586306374
-[00:04:30] [Server thread/INFO]: [Not Secure] <spiritblossomss_> its ok
-[00:05:05] [Server thread/WARN]: VaIspire moved too quickly! 10.122668427873592,13.984526902096334,-5.688260952455721
-[00:05:53] [Server thread/WARN]: VaIspire moved too quickly! 16.287419093437165,-1.8891327304368133,-8.657682362999822
-[00:06:13] [Server thread/WARN]: LightFusional moved too quickly! 15.063455972747306,-1.3125266767860921,-9.740538724797716
-[00:06:13] [Server thread/WARN]: VaIspire moved too quickly! 16.18992522908593,-1.8891327304368133,-8.603867998426267
-[00:06:37] [Server thread/WARN]: LightFusional moved too quickly! 15.89044214573596,-2.0825421725389504,-9.692889980847212
-[00:07:40] [Server thread/WARN]: VaIspire moved too quickly! 15.720503664795615,-1.8400835871924528,-7.348744474033083
-[00:07:40] [Server thread/WARN]: LightFusional moved too quickly! 15.849086388636351,-1.304177940776583,-9.648615325672836
-[00:07:43] [Server thread/INFO]: [Not Secure] <LightFusional> 1.3k blocks away
-[00:07:58] [Server thread/WARN]: LightFusional moved too quickly! 17.151406573251734,-0.0971137753083724,-6.49175993532117
-[00:07:58] [Server thread/WARN]: VaIspire moved too quickly! 16.12058640447458,-1.8400835871924528,-7.535768114309576
-[00:08:19] [Server thread/WARN]: LightFusional moved too quickly! 16.381808299027398,-3.009586686682212,-8.851396470645795
-[00:08:44] [Server thread/INFO]: [Not Secure] <coastwised> Katoria
-[00:08:54] [Server thread/WARN]: VaIspire moved too quickly! 7.8605761485396215,14.354661986153786,-7.1687410237859694
-[00:08:54] [Server thread/INFO]: [Not Secure] <spiritblossomss_> what
-[00:08:56] [Server thread/INFO]: [Not Secure] <LightFusional> 26 mins left
-[00:08:57] [Server thread/INFO]: [Not Secure] <spiritblossomss_> what does that mean
-[00:09:15] [Server thread/WARN]: VaIspire moved too quickly! 15.098124101635221,5.376102771230649,-8.441084110799238
-[00:09:15] [Server thread/WARN]: ssh0nen moved too quickly! 15.753062125492875,0.6346178244020564,-7.413715438911595
-[00:09:32] [Server thread/WARN]: VaIspire moved too quickly! 16.24102548798419,-2.383570436565151,-7.2719312118088055
-[00:09:32] [Server thread/WARN]: ssh0nen moved too quickly! 15.473275093916072,-0.12174578731958263,-8.037496888572605
-[00:09:48] [Server thread/WARN]: ssh0nen moved too quickly! 15.908581070680384,-1.6892745880029167,-7.488491274867101
-[00:10:05] [Server thread/WARN]: coastwised moved too quickly! 15.54757196473804,4.946193989958189,-7.963156792754717
-[00:10:20] [Server thread/WARN]: coastwised moved too quickly! 15.95401049139241,-0.4496612033448457,-8.151722662166321
-[00:10:20] [Server thread/WARN]: ssh0nen moved too quickly! 16.85551786341057,1.794434372237106,-6.624398261329134
-[00:10:39] [Server thread/WARN]: ssh0nen moved too quickly! 16.343178940788675,-2.6766619621244274,-7.705606366370375
-[00:10:39] [Server thread/WARN]: coastwised moved too quickly! 14.241601970337115,-1.461774065589438,-10.26609116396503
-[00:10:53] [Server thread/WARN]: coastwised moved too quickly! 15.515756599138285,0.00983637278694971,-8.73839358216992
-[00:10:53] [Server thread/WARN]: ssh0nen moved too quickly! 13.684946538569875,10.088557679220713,4.9262611281310456
-[00:11:06] [Server thread/WARN]: coastwised moved too quickly! 7.607934791366915,-24.79842527159373,3.4530328351143
-[00:11:08] [Server thread/WARN]: coastwised moved too quickly! 11.934869049018971,11.548536676628117,-8.138422711235762
-[00:11:08] [Server thread/WARN]: ssh0nen moved too quickly! 16.297002996917854,-1.6413985621256728,-8.720370961066237
-[00:11:21] [Server thread/WARN]: ssh0nen moved too quickly! 15.661348761863337,0.8603177681857517,-9.320707568729631
-[00:11:46] [Server thread/WARN]: coastwised moved too quickly! 15.52572797068433,2.822921407272986,-9.0008691750445
-[00:11:46] [Server thread/WARN]: ssh0nen moved too quickly! 15.705114006812892,-1.829381432409349,-9.107115951826017
-[00:12:01] [Server thread/WARN]: ssh0nen moved too quickly! 15.47335435759669,-1.629600860438984,-9.040013859125338
-[00:12:01] [Server thread/WARN]: coastwised moved too quickly! 16.35763536317063,0.9213748430612441,-8.00501017913848
-[00:12:09] [Server thread/INFO]: LightFusional was smashed by VaIspire with [Equilibrium]
-[00:12:09] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_08.03.2026-00.12.09.dat
-[00:12:15] [Server thread/INFO]: [Not Secure] <spiritblossomss_> uhhhhhhhhh
-[00:12:21] [Server thread/WARN]: ssh0nen moved too quickly! 16.33964004963309,-1.4338702260251779,-8.814449675475316
-[00:12:21] [Server thread/WARN]: coastwised moved too quickly! 16.383344065910933,1.2487495318087838,-7.8837221674712055
-[00:12:31] [Server thread/INFO]: ssh0nen has made the advancement [A Major Trial Of Strength]
-[00:13:04] [Server thread/INFO]: [Not Secure] <ssh0nen> The kator murderer
-[00:13:11] [Server thread/WARN]: coastwised moved too quickly! 15.51382637214465,0.5012470555850825,-9.110270693883649
-[00:13:41] [Server thread/WARN]: coastwised moved too quickly! -1.6375633101924905,-126.99199532604112,-6.527661218711728
-[00:14:13] [Server thread/INFO]: coastwised has made the advancement [A Major Trial Of Strength]
-[00:14:55] [Server thread/INFO]: Hyomae tried to swim in lava
-[00:16:51] [Server thread/WARN]: coastwised moved too quickly! -2.479255078422284,-12.823089617720633,4.317048851698928
-[00:17:16] [Server thread/WARN]: coastwised moved too quickly! 7.338282787582102,-11.398367788779844,7.376304521810198
-[00:17:26] [Server thread/WARN]: coastwised moved too quickly! 7.934790819960654,-6.320352644461316,-7.984732622539923
-[00:25:16] [Server thread/INFO]: Hyomae tried to swim in lava
-[00:36:15] [Server thread/INFO]: spiritblossomss_ tried to swim in lava
-[00:36:15] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_08.03.2026-00.36.15.dat
-[00:36:17] [Server thread/INFO]: LightFusional tried to swim in lava
-[00:36:17] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_08.03.2026-00.36.17.dat
-[00:37:42] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[00:37:42] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker succeeded with 279 radius, 1 samples
-[00:39:01] [Server thread/WARN]: coastwised moved too quickly! -11.595063345026574,2.222347860596713,13.826315162475112
-[00:39:32] [Server thread/INFO]: ssh0nen drowned
-[00:40:23] [Server thread/WARN]: coastwised moved too quickly! -17.23080971998297,0.7027338434182866,-6.2033999316618065
-[00:40:52] [Server thread/INFO]: [Not Secure] <LightFusional> only reason i fail math is cuz of like a+b=c ah type of questions
-[00:40:57] [Server thread/INFO]: [Not Secure] <spiritblossomss_> ahh
-[00:40:59] [Server thread/INFO]: [Not Secure] <spiritblossomss_> those r easy
-[00:41:01] [Server thread/INFO]: [Not Secure] <spiritblossomss_> I LOVE THSOE
-[00:41:02] [Server thread/INFO]: [Not Secure] <spiritblossomss_> LOL
-[00:41:04] [Server thread/WARN]: coastwised moved too quickly! -17.549551524423805,4.1699399419113945,2.0295927776778626
-[00:41:16] [Server thread/INFO]: [Not Secure] <spiritblossomss_> jesh
-[00:41:19] [Server thread/INFO]: [Not Secure] <spiritblossomss_> come to our base
-[00:41:25] [Server thread/WARN]: coastwised moved too quickly! -17.492063064827107,4.531684052492977,1.7414627706421015
-[00:41:42] [Server thread/INFO]: [Not Secure] <spiritblossomss_> u need ore
-[00:41:42] [Server thread/WARN]: coastwised moved too quickly! -17.282119864856668,4.178910751125841,0.6614292020931316
-[00:41:45] [Server thread/INFO]: [Not Secure] <spiritblossomss_> for the trim
-[00:41:46] [Server thread/INFO]: [Not Secure] <spiritblossomss_> any
-[00:43:06] [Server thread/WARN]: VaIspire moved too quickly! -0.12871273581492915,9.534094022512747,3.421149882489317
-[00:43:33] [Server thread/INFO]: ssh0nen has made the advancement [Crafting a New Look]
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[00:43:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[00:44:07] [Server thread/WARN]: VaIspire moved too quickly! -7.236636936331024,15.299966723540223,-6.540241071955961
-[00:44:07] [Server thread/WARN]: coastwised moved too quickly! 3.8464447408341584,-2.0593763934979705,17.555060142906314
-[00:44:11] [Server thread/WARN]: VaIspire moved too quickly! -11.234079991266753,12.343528392542765,-7.515837910447544
-[00:44:15] [Server thread/INFO]: LightFusional has made the advancement [Crafting a New Look]
-[00:44:34] [Server thread/WARN]: coastwised moved too quickly! 14.999888614976499,4.652291884823171,-9.105426342518967
-[00:45:10] [Server thread/INFO]: ssh0nen was smashed by VaIspire with [Equilibrium]
-[00:45:55] [Worker-Main-1/WARN]: [net.minecraft.class_3499] Serialization errors:
-:
-  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=3746, y=111, z=-2855}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
-  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=3746, y=112, z=-2855}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
-[00:46:26] [Server thread/INFO]: [Not Secure] <spiritblossomss_> raph we forgott o move eff v to his bed
-[00:46:59] [Server thread/WARN]: spiritblossomss_ moved too quickly! 17.921633105020703,-1.3601356130534725,-4.381333705899351
-[00:46:59] [Server thread/WARN]: ssh0nen moved too quickly! 4.653521024874692,9.911823894217292,-14.660945871462218
-[00:47:12] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[00:47:12] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker succeeded with 271 radius, 1 samples
-[00:47:27] [Server thread/WARN]: ssh0nen moved too quickly! -18.193891400043356,3.10758196009526,3.915634052876385
-[00:47:27] [Server thread/WARN]: coastwised moved too quickly! 5.225034550976943,-1.8487676182004265,-16.632315951736928
-[00:47:51] [Server thread/INFO]: LightFusional was smashed by VaIspire with [Equilibrium]
-[00:47:51] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_08.03.2026-00.47.51.dat
-[00:49:09] [Server thread/WARN]: ssh0nen moved too quickly! 16.001370156776943,2.4899472724557796,-8.121898671520285
-[00:49:26] [Server thread/WARN]: ssh0nen moved too quickly! -16.018779628317304,0.9136505646381323,8.679069225161356
-[00:49:37] [Server thread/INFO]: Hyomae drowned
-[00:49:59] [Server thread/INFO]: [Not Secure] <coastwised> Katoria
-[00:50:07] [Server thread/INFO]: [Not Secure] <coastwised> xaero-waypoint:mother of all trials:T:5076:64:-4197:3:false:0:Internal-overworld
-[00:50:19] [Server thread/WARN]: ssh0nen moved too quickly! -9.704854814970986,-1.9232815848043003,14.9562403855723
-[00:50:19] [Server thread/WARN]: LightFusional moved too quickly! 15.154969828407332,6.162699245763747,-7.931939487429872
-[00:50:32] [Server thread/INFO]: [Not Secure] <coastwised> xaero-waypoint:trial:T:3482:0:-3589:11:false:0:Internal-overworld
-[00:50:39] [Server thread/WARN]: ssh0nen moved too quickly! -15.859948819581689,-1.6368668137699842,7.396879776686546
-[00:50:39] [Server thread/WARN]: LightFusional moved too quickly! 14.483112235786393,7.8004669536077955,-9.069394542960026
-[00:50:48] [Server thread/INFO]: ssh0nen lost connection: Disconnected
-[00:50:48] [Server thread/INFO]: ssh0nen left the game
-[00:51:00] [Server thread/WARN]: spiritblossomss_ moved too quickly! 11.865177502960478,7.132413091819799,-12.664869825713822
-[00:51:00] [Server thread/WARN]: LightFusional moved too quickly! 0.3187196448075724,-2.0712134866629697,17.30265354888843
-[00:51:01] [Server thread/INFO]: Hyomae has completed the challenge [Cover Me in Debris]
-[00:51:19] [Server thread/WARN]: spiritblossomss_ moved too quickly! 13.751498053311934,-1.7068971985846702,-11.832686463798836
-[00:51:19] [Server thread/WARN]: LightFusional moved too quickly! -16.4261147503521,-0.7138670089566119,6.013675161388164
-[00:51:38] [Server thread/WARN]: spiritblossomss_ moved too quickly! 13.720555307802442,5.53242056832849,-9.736715825319607
-[00:51:38] [Server thread/WARN]: LightFusional moved too quickly! -15.908709926066877,4.422444724934962,5.726361161396653
-[00:52:22] [Server thread/WARN]: spiritblossomss_ moved too quickly! 14.226558227874193,-2.3726275977747093,-11.582148374320695
-[00:52:22] [Server thread/WARN]: LightFusional moved too quickly! -16.494061447308923,-1.6991623735715677,7.272018910788574
-[00:52:41] [Server thread/WARN]: spiritblossomss_ moved wrongly!
-[00:55:04] [Server thread/WARN]: VaIspire moved too quickly! -16.63440682489363,-2.110882748474353,5.757374713048648
-[00:55:24] [Server thread/INFO]: Hyomae lost connection: Disconnected
-[00:55:24] [Server thread/INFO]: Hyomae left the game
-[00:55:44] [Server thread/WARN]: VaIspire moved too quickly! -16.52024095339675,-2.1464589059365977,5.766910749547151
-[00:55:44] [Server thread/WARN]: coastwised moved too quickly! -3.665035443783381,1.2000000476837158,9.480920711902854
-[01:01:19] [Server thread/INFO]: Hyomae[/127.209.113.107:61706] logged in with entity id 189567 at (339.9771781302105, 88.0, -1887.8207568133519)
-[01:01:19] [Server thread/INFO]: Loading config from file...
-[01:01:19] [Server thread/INFO]: Hyomae joined the game
-[01:01:25] [Server thread/INFO]: [ShulkerBoxTooltip] Hyomae: protocol version: 2.0
-[01:16:21] [Server thread/INFO]: LightFusional was shot by coastwised
-[01:16:21] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_08.03.2026-01.16.21.dat
-[01:17:21] [Server thread/INFO]: VaIspire lost connection: Disconnected
-[01:17:21] [Server thread/INFO]: VaIspire left the game
-[01:17:25] [Server thread/INFO]: VaIspire[/127.226.121.26:60528] logged in with entity id 202362 at (1579.2215312109238, 224.0, -2461.1467872010703)
-[01:17:25] [Server thread/INFO]: Loading config from file...
-[01:17:25] [Server thread/INFO]: VaIspire joined the game
-[01:17:26] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
-[01:17:42] [Server thread/INFO]: spiritblossomss_ was shot by coastwised
-[01:17:42] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_08.03.2026-01.17.42.dat
-[01:20:10] [Server thread/WARN]: coastwised moved too quickly! 8.701761487393469,1.4684978909875213,15.930205601996931
-[01:20:40] [Server thread/WARN]: VaIspire moved too quickly! 1.579142586007947,9.666088701898673,-3.378992943374442
-[01:21:26] [Server thread/WARN]: coastwised moved too quickly! 17.82628269445513,2.2714874579056925,-2.676047136665602
-[01:21:44] [Server thread/WARN]: coastwised moved too quickly! 16.963967573649825,-0.525496723983025,-7.212253820695878
-[01:21:57] [Server thread/WARN]: coastwised moved too quickly! 15.917327678891525,-1.8997655864364162,-8.098556034437024
-[01:22:06] [Server thread/INFO]: Hyomae has made the advancement [Crafting a New Look]
-[01:22:10] [Server thread/WARN]: spiritblossomss_ moved too quickly! 13.590426183658906,-1.5007478188906163,11.237676640675545
-[01:22:10] [Server thread/WARN]: coastwised moved too quickly! 14.596293768797295,-1.645064741969577,-9.866645154501384
-[01:22:36] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[01:22:36] [Server thread/INFO]: SearchWorkerManager 3304df4a: RandomSpreadSearchWorker succeeded with 190 radius, 1 samples
-[01:23:25] [Server thread/INFO]: [Not Secure] <spiritblossomss_> SEND LOC raph
-[01:23:26] [Server thread/INFO]: [Not Secure] <spiritblossomss_> oops
-[01:23:27] [Server thread/INFO]: [Not Secure] <spiritblossomss_> caps
-[01:24:33] [Server thread/WARN]: LightFusional moved too quickly! 12.809977905054211,2.08790604987243,12.74324353600582
-[01:24:40] [Server thread/INFO]: coastwised experienced kinetic energy
-[01:24:40] [Server thread/INFO]: Created new backpack backup file for coastwised with unique ID travelersbackpack.warden_08.03.2026-01.24.40.dat
-[01:25:35] [Server thread/INFO]: LightFusional was smashed by VaIspire with [Equilibrium]
-[01:25:35] [Server thread/INFO]: Created new backpack backup file for LightFusional with unique ID travelersbackpack.skeleton_08.03.2026-01.25.35.dat
-[01:26:30] [Server thread/INFO]: spiritblossomss_ has made the advancement [Intruder Alert]
-[01:27:39] [Server thread/INFO]: [Not Secure] <spiritblossomss_> do u guys have bellpepper
-[01:31:02] [Server thread/WARN]: spiritblossomss_ moved too quickly! -6.99126642804481,14.069780781686049,8.678967586064573
-[01:33:47] [Server thread/WARN]: spiritblossomss_ moved too quickly! 13.794120147889316,-2.4099993556699673,12.70621693082137
-[01:34:37] [Server thread/INFO]: Hyomae has made the advancement [The Parrots and the Bats]
-[01:35:07] [Server thread/INFO]: spiritblossomss_ was slain by Zombie
-[01:35:07] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_08.03.2026-01.35.07.dat
-[01:37:20] [Server thread/INFO]: coastwised lost connection: Disconnected
-[01:37:20] [Server thread/INFO]: coastwised left the game
-[01:42:10] [Server thread/INFO]: LightFusional lost connection: Disconnected
-[01:42:10] [Server thread/INFO]: LightFusional left the game
-[01:42:16] [Server thread/INFO]: VaIspire lost connection: Disconnected
-[01:42:16] [Server thread/INFO]: VaIspire left the game
-[01:45:51] [Server thread/INFO]: coastwised[/127.200.41.93:58155] logged in with entity id 241257 at (700.1211531579468, 67.0, -1934.2668713493445)
-[01:45:51] [Server thread/INFO]: Loading config from file...
-[01:45:51] [Server thread/INFO]: coastwised joined the game
-[01:45:53] [Server thread/INFO]: [ShulkerBoxTooltip] coastwised: protocol version: 2.0
-[01:55:10] [Server thread/INFO]: spiritblossomss_ was smashed by coastwised
-[01:55:10] [Server thread/INFO]: Created new backpack backup file for spiritblossomss_ with unique ID travelersbackpack.standard_08.03.2026-01.55.10.dat
-[01:55:15] [Server thread/INFO]: [Not Secure] <spiritblossomss_> dam
-[01:57:13] [Server thread/INFO]: LightFusional[/127.7.171.93:64997] logged in with entity id 249033 at (656.4295549254543, 66.0, -1948.300000011921)
-[01:57:13] [Server thread/INFO]: Loading config from file...
-[01:57:13] [Server thread/INFO]: LightFusional joined the game
-[01:57:13] [Server thread/INFO]: [ShulkerBoxTooltip] LightFusional: protocol version: 2.0
-[01:59:50] [Server thread/INFO]: coastwised lost connection: Disconnected
-[01:59:50] [Server thread/INFO]: coastwised left the game
-[02:00:10] [Server thread/INFO]: spiritblossomss_ lost connection: Disconnected
-[02:00:10] [Server thread/INFO]: spiritblossomss_ left the game
-[02:01:11] [Server thread/INFO]: LightFusional lost connection: Disconnected
-[02:01:11] [Server thread/INFO]: LightFusional left the game
-[03:10:54] [Server thread/INFO]: VaIspire[/127.226.121.26:54433] logged in with entity id 271624 at (1571.4968817340339, 229.0, -2450.7499027514914)
-[03:10:54] [Server thread/INFO]: Loading config from file...
-[03:10:54] [Server thread/INFO]: VaIspire joined the game
-[03:10:55] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
-[03:16:51] [Server thread/INFO]: Hyomae lost connection: Disconnected
-[03:16:51] [Server thread/INFO]: Hyomae left the game
-[03:34:19] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
-[03:35:51] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
-[03:36:49] [Server thread/WARN]: VaIspire moved too quickly! 10.410706801226524,0.051301886932236584,0.27511515686001076
-[03:48:37] [Server thread/INFO]: Hyomae[/127.209.113.107:59785] logged in with entity id 283217 at (331.32574452649715, 89.5, -1889.4455266371765)
-[03:48:37] [Server thread/INFO]: Loading config from file...
-[03:48:37] [Server thread/INFO]: Hyomae joined the game
-[03:48:39] [Server thread/INFO]: [ShulkerBoxTooltip] Hyomae: protocol version: 2.0
-[04:09:34] [Server thread/INFO]: VaIspire has completed the challenge [Return to Sender]
-[04:10:15] [Server thread/INFO]: Hyomae fell from a high place
-[04:11:29] [Server thread/INFO]: Hyomae was shot by Skeleton
-[04:36:41] [Server thread/INFO]: Hyomae has made the advancement [Iron Tier Upgrade]
-[04:39:33] [Server thread/INFO]: Hyomae was shot by Skeleton
-[05:07:41] [Server thread/INFO]: Hyomae has made the advancement [Lighten Up]
-[05:10:31] [Server thread/INFO]: Hyomae drowned
-[05:13:45] [Server thread/INFO]: VaIspire fell out of the world
-[05:22:31] [Server thread/INFO]: VaIspire fell out of the world
-[05:26:37] [Server thread/INFO]: VaIspire lost connection: Timed out
-[05:26:37] [Server thread/INFO]: VaIspire left the game
-[05:31:36] [Server thread/INFO]: VaIspire[/127.226.121.26:61954] logged in with entity id 359392 at (429.2130184507272, 56.0, -1897.0624762002171)
-[05:31:36] [Server thread/INFO]: Loading config from file...
-[05:31:36] [Server thread/INFO]: VaIspire joined the game
-[05:31:38] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
-[05:40:04] [Worker-Main-2/WARN]: Empty or non-existent pool: nova_structures:hamlet/jockey
-[05:44:17] [Server thread/INFO]: VaIspire has completed the challenge [Hot Tourist Destinations]
-[05:44:23] [Worker-Main-5/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=563, y=29, z=-1427}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:23] [Worker-Main-5/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=576, y=52, z=-1439}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:23] [Worker-Main-5/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=589, y=29, z=-1427}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:23] [Worker-Main-5/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=576, y=52, z=-1439}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:25] [Worker-Main-1/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=589, y=29, z=-1453}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:25] [Worker-Main-1/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=576, y=52, z=-1439}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:25] [Worker-Main-1/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=563, y=29, z=-1453}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:25] [Worker-Main-1/ERROR]: Failed to parse jigsaw replacement state 'minecraft:chisled_polished_blackstone' at class_2338{x=576, y=52, z=-1439}: Unknown block type 'minecraft:chisled_polished_blackstone' at position 0: <--[HERE]
-[05:44:35] [Server thread/WARN]: VaIspire moved too quickly! -1.374926991330426,18.19100543983059,-0.6751425383265541
-[05:48:30] [Server thread/INFO]: VaIspire has made the advancement [Hot Stuff]
-[05:48:54] [Server thread/INFO]: VaIspire was doomed to fall
-[05:52:28] [Server thread/WARN]: VaIspire moved wrongly!
-[05:54:04] [Server thread/INFO]: [Not Secure] <Hyomae> pale oak log
-[05:54:25] [Server thread/INFO]: Gave 128 [Pale Oak Log] to Hyomae
-[05:56:31] [Server thread/INFO]: Hyomae was smashed by VaIspire with [Equilibrium]
-[05:56:52] [Server thread/INFO]: [Not Secure] <Hyomae> binky
-[05:58:15] [Server thread/INFO]: Hyomae was smashed by VaIspire with [Equilibrium]
-[06:01:33] [Server thread/INFO]: Gave 5000 [Sand] to VaIspire
-[06:20:30] [Server thread/INFO]: Hyomae lost connection: Disconnected
-[06:20:30] [Server thread/INFO]: Hyomae left the game
-[06:26:34] [Server thread/WARN]: VaIspire moved too quickly! 6.296051874881499,5.228739249219807,6.716246783818406
-[06:35:52] [Server thread/WARN]: VaIspire moved too quickly! 5.894488210530284,4.968805114916762,16.21801325245474
-[06:37:52] [Server thread/WARN]: VaIspire moved too quickly! -9.65398912902964,3.9768970437070124,-14.693401970879904
-[06:40:29] [Server thread/INFO]: VaIspire tried to swim in lava
-[06:50:32] [Server thread/INFO]: VaIspire burned to death
-[06:50:58] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
-[06:52:40] [Server thread/INFO]: Set VaIspire's game mode to Survival Mode
-[06:52:50] [Server thread/INFO]: Gave 512 [Ghast Tear] to VaIspire
-[06:55:27] [Server thread/INFO]: Gave 512 [Blaze Rod] to VaIspire
-[07:03:27] [Server thread/INFO]: VaIspire lost connection: Disconnected
-[07:03:27] [Server thread/INFO]: VaIspire left the game
-[07:03:39] [Server thread/INFO]: Stopping server
-[07:03:39] [Server thread/INFO]: Saving players
-[07:03:39] [Server thread/INFO]: Saving worlds
-[07:03:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:03:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:03:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:03:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:03:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:03:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:03:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:03:41] [Server thread/INFO]: Unloading server configs...
-[07:03:41] [Server thread/INFO]: Finished unloading server configs
-[07:03:41] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[12:33:48] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
+[12:33:48] [main/INFO]: Loading 123 mods:
+	- animal_pen 1.6.2
+	- appleskin 3.0.8+mc1.21.11
+	- architectury 19.0.1
+	- balm 21.11.6
+	   \-- kuma_api 21.11.12
+	- cardinal-components 7.3.0
+	   |-- cardinal-components-base 7.3.0
+	   |-- cardinal-components-block 7.3.0
+	   |-- cardinal-components-chunk 7.3.0
+	   |-- cardinal-components-entity 7.3.0
+	   |-- cardinal-components-item 7.3.0
+	   |-- cardinal-components-level 7.3.0
+	   |-- cardinal-components-scoreboard 7.3.0
+	   \-- cardinal-components-world 7.3.0
+	- carryon 2.9.0
+	- cloth-config 21.11.153
+	   \-- cloth-basic-math 0.6.1
+	- clumps 29.0.0.1
+	- collective 8.13
+	- comforts 14.0.1+1.21.11
+	   |-- cardinal-components-base 7.3.0
+	   |-- cardinal-components-entity 7.3.0
+	   \-- spectrelib 0.20.1+1.21.11
+	        |-- com_electronwill_night-config_core 3.8.3
+	        \-- com_electronwill_night-config_toml 3.8.3
+	- cratedelight 25.9.22-1.21.7-fabric
+	- creativecore 2.14.11
+	   \-- net_neoforged_bus 7.2.0
+	- cristellib 3.0.4
+	   \-- blue_endless_jankson 1.2.3
+	- displaydelight 1.6.1-mc1.21.11
+	- entityculling 1.9.5
+	   \-- trender 1.0.10
+	- explorerscompass 1.21.11-2.3.0-fabric
+	- fabric-api 0.141.3+1.21.11
+	   |-- fabric-api-base 1.0.5+4ebb5c083e
+	   |-- fabric-api-lookup-api-v1 1.6.114+20dc27073e
+	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
+	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
+	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	   |-- fabric-data-attachment-api-v1 1.8.47+eed0806f3e
+	   |-- fabric-data-generation-api-v1 23.4.0+69974c4e3e
+	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	   |-- fabric-entity-events-v1 3.1.1+1d0ab4303e
+	   |-- fabric-events-interaction-v0 4.1.0+3b89ecf63e
+	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
+	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
+	   |-- fabric-model-loading-api-v1 6.0.15+4fc5413f3e
+	   |-- fabric-networking-api-v1 5.1.5+ae1e07683e
+	   |-- fabric-object-builder-api-v1 21.1.39+4fc5413f3e
+	   |-- fabric-particles-v1 4.2.11+4fc5413f3e
+	   |-- fabric-recipe-api-v1 8.2.3+4ebb5c083e
+	   |-- fabric-registry-sync-v0 6.2.5+1718722b3e
+	   |-- fabric-renderer-api-v1 8.0.3+f4ffd2e53e
+	   |-- fabric-renderer-indigo 5.0.3+f4ffd2e53e
+	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	   |-- fabric-rendering-v1 16.2.10+0290ad933e
+	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	   |-- fabric-screen-handler-api-v1 1.3.161+4fc5413f3e
+	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	   |-- fabric-transfer-api-v1 6.0.25+4fc5413f3e
+	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- fabricloader 0.18.4
+	   \-- mixinextras 0.5.0
+	- fabrictailor 2.8.1
+	   \-- config2brigadier 2.1.0
+	- farmersdelight 1.21.11-3.4.9+refabricated
+	   \-- mm 2.3
+	- farmersknives 1.21.11-4.0.5
+	- ferritecore 8.2.0
+	- forgeconfigapiport 21.11.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- framework 0.13.11
+	   |-- com_electronwill_night-config_core 3.8.3
+	   |-- com_electronwill_night-config_toml 3.8.3
+	   |-- org_javassist_javassist 3.30.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- geckolib 5.4.4
+	- jade 21.1.2+fabric
+	- jamlib 1.3.5+1.21.11
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 27.4.0.15
+	- justenoughbreeding 1.6.6
+	- leavesbegone 21.11.0
+	- lithium 0.21.3+mc1.21.11
+	- minecraft 1.21.11
+	- mr_dungeons_andtaverns 1-v5.1.0
+	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.4.0
+	- mr_true_ending 1-v1.1.4d
+	- naturescompass 1.21.11-2.3.0-fabric
+	- owo 0.13.0+1.21.11
+	   |-- com_github_kdl-org_kdl4j 1.0.1
+	   |-- io_wispforest_endec 0.1.12
+	   |-- io_wispforest_endec_gson 0.1.7
+	   |-- io_wispforest_endec_jankson 0.1.7
+	   \-- io_wispforest_endec_netty 0.1.6
+	- placeholder-api 2.8.2+1.21.10
+	- prickle 21.11.1
+	- puzzleslib 21.11.11
+	- rightclickharvest 4.6.1+1.21.11
+	- rusticdelight 1.5.4
+	- shulkerboxtooltip 5.2.15+1.21.11
+	- skinlayers3d 1.10.2
+	   |-- transition 1.0.13
+	   \-- trender 1.0.10
+	- spark 1.10.156
+	   \-- fabric-permissions-api-v0 0.6.1
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.20
+	- terralith 2.5.14
+	- trade_cycling 1.21.11-1.0.20
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f53
+	   \-- fabric-screen-api-v1 3.1.7+4ebb5c0853
+	- trashslot 21.11.4
+	- travelersbackpack 10.11.5
+	- underlay 1.0.0-hotfix.1
+	- waystones 21.11.8
+	- worldedit 7.4.0+7381-3decaf0
+	   \-- worldeditcui_protocol 4.0.2
+	- xaerominimap 25.3.10
+	   \-- xaerolib 1.1.0
+	- xaeroworldmap 1.40.11
+	   \-- xaerolib 1.1.0
+[12:33:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Astral/Desktop/minecraft-server-reminiscent-tree/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:33:49] [main/INFO]: Compatibility level set to JAVA_21
+[12:33:49] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
+[12:33:49] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:49] [main/WARN]: Error loading class: net/minecraft/class_757 (java.lang.ClassNotFoundException: net/minecraft/class_757)
+[12:33:49] [main/WARN]: @Mixin target net.minecraft.class_757 was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
+[12:33:49] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[12:33:49] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[12:33:49] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[12:33:49] [main/WARN]: Error loading class: net/minecraft/class_12225$class_12226 (java.lang.ClassNotFoundException: net/minecraft/class_12225$class_12226)
+[12:33:49] [main/WARN]: @Mixin target net.minecraft.class_12225$class_12226 was not found owo.mixins.json:braid.ClickableStyleFinderAccessor from mod owo
+[12:33:49] [main/WARN]: Error loading class: net/minecraft/class_1921 (java.lang.ClassNotFoundException: net/minecraft/class_1921)
+[12:33:49] [main/WARN]: @Mixin target net.minecraft.class_1921 was not found owo.mixins.json:braid.RenderTypeInvoker from mod owo
+[12:33:49] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
+[12:33:49] [main/WARN]: @Mixin target xyz.nucleoid.server.translations.impl.language.LanguageReader was not found owo.mixins.json:extension.json5.LanguageReaderMixin from mod owo
+[12:33:49] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[12:33:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:33:51] [main/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[12:33:57] [main/INFO]: Registering C2S receiver with id animal_pen:update_display_animal
+[12:33:57] [main/INFO]: Registering C2S receiver with id animal_pen:remove_display_animal
+[12:33:57] [main/INFO]: Registering C2S receiver with id animal_pen:update_configuration
+[12:33:57] [main/INFO]: Loading Collective version 8.13.
+[12:33:58] [main/INFO]: Registering Item Groups for cratedelight
+[12:33:58] [main/INFO]: Registering mod blocks for cratedelight
+[12:33:58] [main/INFO]: Initialized Farmers Delight compatibility
+[12:33:58] [main/INFO]: Initialized Oceans Delight compatibility
+[12:33:58] [main/INFO]: Initialized Pineapple Delight compatibility
+[12:33:58] [main/INFO]: Initialized Corn Delight compatibility
+[12:33:58] [main/INFO]: Initialized End's Delight compatibility
+[12:33:58] [main/INFO]: Initialized My Nether's Delight compatibility
+[12:33:58] [main/INFO]: Initialized Expanded Delight compatibility
+[12:33:58] [main/INFO]: Initialized Delightful compatibility
+[12:33:58] [main/INFO]: Initialized Alex Delight compatibility
+[12:33:58] [main/INFO]: Initialized Cultural Delight compatibility
+[12:33:58] [main/INFO]: Initialized Large Meals compatibility
+[12:33:58] [main/INFO]: Initialized Festive Delight compatibility
+[12:33:58] [main/INFO]: Initialized Ender Delight compatibility
+[12:33:58] [main/INFO]: Initialized Aquaculture Delight compatibility
+[12:33:58] [main/INFO]: Initialized Brewin n Chewin compatibility
+[12:33:58] [main/INFO]: Initialized Crabber's Delight compatibility
+[12:33:58] [main/INFO]: Initialized Display Delight Blocks
+[12:33:58] [main/INFO]: Initialized Display Delight
+[12:33:58] [main/INFO]: Loaded config farmersdelight-common.json
+[12:33:58] [main/INFO]: Reflections took 94 ms to scan 1 urls, producing 8 keys and 73 values
+[12:33:58] [main/INFO]: Initializing JamLib on Fabric
+[12:33:58] [main/INFO]: Constructing components for leavesbegone:common
+[12:33:58] [main/INFO]: Definitely not up to no good
+[12:33:58] [main/INFO]: I think that's not the only reason Spectrum isn't compatible with Quilt
+[12:33:58] [main/INFO]: Constructing components for puzzleslib:common
+[12:33:58] [main/INFO]: Updated config file at C:\Users\Astral\Desktop\minecraft-server-reminiscent-tree\config\rightclickharvest.json5
+[12:33:58] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[12:33:58] [main/INFO]: Registering items for rusticdelight
+[12:33:58] [main/INFO]: Registering blocks for rusticdelight
+[12:33:58] [main/INFO]: Registering potions for rusticdelight
+[12:33:58] [main/INFO]: Registering biome modifications for rusticdelight
+[12:33:58] [main/INFO]: Registering placement modifiers for rusticdelight
+[12:33:58] [main/INFO]: Registering item group for rusticdelight
+[12:33:59] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[12:33:59] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[12:33:59] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[12:33:59] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[12:34:00] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7ddca5d7]
+[12:34:00] [main/INFO]: WorldEdit for Fabric (version 7.4.0+7381-3decaf0) is loaded
+[12:34:00] [main/INFO]: Registering common data for channel xaerolib:main!
+[12:34:00] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[12:34:00] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[12:34:00] [main/INFO]: Loading XaeroLib common 1/2!
+[12:34:00] [main/INFO]: Loading XaeroLib server 1/2!
+[12:34:00] [main/INFO]: Registering common data for channel xaerominimap:main!
+[12:34:00] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[12:34:00] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[12:34:00] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[12:34:00] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[12:34:00] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[12:34:00] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[12:34:00] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[12:34:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:34:02] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:enderite_knife' from 'farmersknives:recipe/enderite_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:enderite_knife; Second: Not a string: {"id":"farmersknives:enderite_knife"}; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:featherzeal_knife' from 'farmersknives:recipe/featherzeal_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:featherzeal_knife; Second: Not a string: {"id":"farmersknives:featherzeal_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_upgrade_smithing_template']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_diamond_knife' from 'farmersknives:recipe/netherite_diamond_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_diamond_knife; Second: Not a string: {"id":"farmersknives:netherite_diamond_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_diamond_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_diamond_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_diamond_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_emerald_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_emerald_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_emerald_knife' from 'farmersknives:recipe/netherite_emerald_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife; Second: Not a string: {"id":"farmersknives:netherite_emerald_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_emerald_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_emerald_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_emerald_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_gold_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_gold_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_gold_knife' from 'farmersknives:recipe/netherite_gold_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife; Second: Not a string: {"id":"farmersknives:netherite_gold_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_gold_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_gold_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_gold_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_iron_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_iron_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:netherite_iron_knife' from 'farmersknives:recipe/netherite_iron_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife; Second: Not a string: {"id":"farmersknives:netherite_iron_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_iron_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_iron_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_iron_ingot']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:remnant_knife' from 'farmersknives:recipe/remnant_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:remnant_knife; Second: Not a string: {"id":"farmersknives:remnant_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_upgrade_smithing_template']
+[12:34:02] [Worker-Main-1/ERROR]: Couldn't parse data file 'farmersknives:rose_knife' from 'farmersknives:recipe/rose_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:rose_knife; Second: Not a string: {"id":"farmersknives:rose_knife"}; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_ingot; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_upgrade_smithing_template']
+[12:34:03] [main/INFO]: Loaded 2255 recipes
+[12:34:03] [main/INFO]: Loaded 2337 advancements
+[12:34:03] [main/INFO]: Loaded 38 animal food entries.
+[12:34:03] [main/INFO]: Applied 301 biome modifications to 140 of 160 new biomes in 18.48 ms
+[12:34:04] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[12:34:04] [Server thread/INFO]: Loading server configs...
+[12:34:04] [Server thread/INFO]: Starting background profiler...
+[12:34:04] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[12:34:04] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[12:34:04] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[12:34:04] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[12:34:04] [Server thread/INFO]: Loading properties
+[12:34:04] [Server thread/INFO]: Default game type: SURVIVAL
+[12:34:04] [Server thread/INFO]: Generating keypair
+[12:34:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:34:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:34:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:34:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:34:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:34:04] [Server thread/INFO]: Preparing level "world"
+[12:34:05] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
+[12:34:05] [Server thread/INFO]: Loaded 0 overlays
+[12:34:05] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
+[12:34:05] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
+[12:34:05] [Server thread/INFO]: No existing overlay save file found
+[12:34:05] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
+[12:34:05] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
+[12:34:05] [Server thread/INFO]: No existing overlay save file found
+[12:34:05] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
+[12:34:05] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:34:05] [Server thread/INFO]: Preparing spawn area: 100%
+[12:34:05] [Server thread/INFO]: Time elapsed: 13 ms
+[12:34:05] [Server thread/INFO]: Done (0.803s)! For help, type "help"
+[12:34:05] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[12:34:05] [Server thread/ERROR]: Failed to load plugin from Underlay: com.dooji.underlay.jade.UnderlayJadePlugin
+java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJadePlugin in environment type SERVER
+	at net.fabricmc.loader.impl.transformer.FabricTransformer.transform(FabricTransformer.java:61)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPreMixinClassByteArray(KnotClassDelegate.java:475)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:428)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:421)
+	at java.base/java.lang.Class.forName(Class.java:412)
+	at knot//snownee.jade.util.CommonProxy$Entrypoint.requiredMod(CommonProxy.java:609)
+	at knot//snownee.jade.Jade.loadPlugins(Jade.java:226)
+	at knot//snownee.jade.Jade.loadPlugins(Jade.java:191)
+	at knot//snownee.jade.util.CommonProxy.loadComplete(CommonProxy.java:398)
+	at knot//snownee.jade.util.CommonProxy.lambda$onInitialize$3(CommonProxy.java:589)
+	at knot//net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49)
+	at knot//net.minecraft.server.MinecraftServer.handler$zok000$fabric-lifecycle-events-v1$afterSetupServer(MinecraftServer.java:5339)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:743)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:34:05] [Server thread/INFO]: Trying to load plugins again without erroneous plugins
+[12:34:05] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[12:34:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[12:34:05] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[12:34:05] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[12:34:19] [Server thread/INFO]: AstralTime[/127.0.0.1:56079] logged in with entity id 12 at (1342.852888249107, 76.0, -117.63182395909266)
+[12:34:19] [Server thread/INFO]: Loading config from file...
+[12:34:19] [Server thread/INFO]: AstralTime joined the game
+[12:34:20] [Server thread/INFO]: [ShulkerBoxTooltip] AstralTime: protocol version: 2.0
+[12:34:20] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[12:34:20] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 51 providers for mod shulkerboxtooltip
+[12:34:30] [Server thread/INFO]: Set AstralTime's game mode to Creative Mode
+[12:34:36] [Server thread/INFO]: LightFusional[/127.7.171.93:56084] logged in with entity id 678 at (399.1258150507203, 86.0, -2015.699999988079)
+[12:34:36] [Server thread/INFO]: Loading config from file...
+[12:34:36] [Server thread/INFO]: LightFusional joined the game
+[12:34:37] [Server thread/INFO]: [ShulkerBoxTooltip] LightFusional: protocol version: 2.0
+[12:35:44] [Server thread/INFO]: [Not Secure] <LightFusional> then can you give me 32 shroomlight and 8 armorstand since i got those when i was building jn
+[12:37:28] [Server thread/INFO]: Set AstralTime's game mode to Survival Mode
+[12:37:50] [Server thread/INFO]: AstralTime has made the advancement [Ice Bucket Challenge]
+[12:38:01] [Server thread/INFO]: Set AstralTime's game mode to Creative Mode
+[12:39:02] [Server thread/INFO]: Teleported AstralTime to LightFusional
+[12:39:51] [Server thread/INFO]: Teleported AstralTime to 1584.500000, 255.000000, -2449.500000
+[12:39:57] [Server thread/INFO]: Set AstralTime's game mode to Survival Mode
+[12:40:52] [Server thread/WARN]: AstralTime moved too quickly! 1.8739766553931076,-3.7854666893136937,17.771703399176204
+[12:42:09] [Server thread/WARN]: AstralTime moved too quickly! 0.06580321877072492,-13.746956090073013,1.5927225615046154
+[12:42:15] [Server thread/INFO]: AstralTime lost connection: Disconnected
+[12:42:15] [Server thread/INFO]: AstralTime left the game
+[12:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[12:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8344ms or 166 ticks behind
+[13:03:11] [Server thread/INFO]: LightFusional lost connection: Disconnected
+[13:03:11] [Server thread/INFO]: LightFusional left the game
+[13:10:39] [Server thread/INFO]: VaIspire[/127.226.121.26:54976] logged in with entity id 12258 at (1576.5786132035262, 224.0, -2455.5544737771593)
+[13:10:39] [Server thread/INFO]: Loading config from file...
+[13:10:39] [Server thread/INFO]: VaIspire joined the game
+[13:10:40] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
+[13:50:25] [Server thread/WARN]: VaIspire moved wrongly!
+[13:50:41] [Server thread/WARN]: VaIspire moved wrongly!
+[14:08:43] [Server thread/INFO]: sysyleen[/127.232.215.78:56487] logged in with entity id 24232 at (-47.52686244172098, 65.0, -443.12948324601564)
+[14:08:43] [Server thread/INFO]: Loading config from file...
+[14:08:43] [Server thread/INFO]: sysyleen joined the game
+[14:08:46] [Server thread/INFO]: [ShulkerBoxTooltip] sysyleen: protocol version: 2.0
+[14:09:39] [Server thread/WARN]: VaIspire moved too quickly! 6.902134252017959,-2.4064364017341973,8.007868954212881
+[14:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[14:31:56] [Server thread/WARN]: VaIspire moved too quickly! -4.25803821966656,3.7314753359253388,9.689396215170746
+[14:33:06] [Server thread/INFO]: VaIspire was blown up by Creeper
+[14:44:02] [Server thread/INFO]: coastwised[/127.200.41.93:56718] logged in with entity id 44174 at (391.6448620446256, 82.0, -1847.366734807272)
+[14:44:02] [Server thread/INFO]: Loading config from file...
+[14:44:02] [Server thread/INFO]: coastwised joined the game
+[14:44:04] [Server thread/INFO]: [ShulkerBoxTooltip] coastwised: protocol version: 2.0
+[14:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[14:53:03] [Server thread/INFO]: AstralTime[/127.0.0.1:60757] logged in with entity id 51699 at (1307.5353519663586, 73.37452549647048, -1623.392995191237)
+[14:53:03] [Server thread/INFO]: Loading config from file...
+[14:53:03] [Server thread/INFO]: AstralTime joined the game
+[14:53:05] [Server thread/INFO]: [ShulkerBoxTooltip] AstralTime: protocol version: 2.0
+[14:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4270ms or 85 ticks behind
+[14:53:12] [Server thread/WARN]: AstralTime moved too quickly! 4.730126103695284,-4.438978869452825,7.842064066541752
+[14:53:17] [Server thread/WARN]: AstralTime moved too quickly! 2.260647263129158,2.8970322157257016,18.530526461034697
+[14:53:19] [Server thread/WARN]: AstralTime moved too quickly! 2.305737828946576,2.5790579819164634,17.84045433011238
+[14:53:20] [Server thread/WARN]: AstralTime moved too quickly! 2.2026343795762386,2.4234488780393804,17.044128393208666
+[14:53:24] [Server thread/WARN]: AstralTime moved too quickly! -3.225212533893682,3.5796439377213574,10.429091973683171
+[14:53:27] [Server thread/WARN]: AstralTime moved too quickly! 0.349686693481317,-1.469530328800431,-18.50091768273046
+[14:53:35] [Server thread/WARN]: AstralTime moved too quickly! -2.7359811967969563,8.14209120353857,-16.123966793992395
+[14:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11275ms or 225 ticks behind
+[14:53:39] [Server thread/WARN]: AstralTime moved too quickly! -4.325882993915229,7.775990913622309,-15.934442210182851
+[14:53:45] [Server thread/WARN]: AstralTime moved too quickly! -17.501939960908658,-0.3678941581766253,5.226924760090242
+[14:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[14:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
+[14:55:30] [Server thread/WARN]: AstralTime moved too quickly! 5.256080257372787,-1.8272246017862699,-9.03573779990711
+[14:55:36] [Server thread/INFO]: Set VaIspire's game mode to Creative Mode
+[14:59:17] [Server thread/WARN]: AstralTime moved too quickly! 4.33477130111396,-9.609506106515312,2.854497380626981
+[14:59:38] [Server thread/INFO]: Set coastwised's game mode to Creative Mode
+[15:01:41] [Server thread/WARN]: AstralTime moved too quickly! 0.34933619173648367,9.70839946131187,-15.622122726160796
+[15:01:57] [Server thread/WARN]: AstralTime moved too quickly! -17.059310196704473,-4.1018409745558415,-1.4104977325687287
+[15:01:59] [Server thread/WARN]: AstralTime moved too quickly! -6.9063165705731535,6.659614180739567,-15.440311190082411
+[15:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
+[15:04:36] [Server thread/WARN]: VaIspire moved too quickly! 9.371527140779563,0.0,5.544278545980887
+[15:04:47] [Server thread/WARN]: AstralTime moved too quickly! -9.157874367538007,-3.658570565650436,15.31551013651756
+[15:04:47] [Server thread/WARN]: VaIspire moved too quickly! 8.884566192429247,0.0,5.256271311814544
+[15:04:50] [Server thread/WARN]: AstralTime moved too quickly! -12.747312778605732,-5.448131376219166,13.078919526404889
+[15:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:04:55] [Server thread/WARN]: AstralTime moved too quickly! 1740.5536612184067,193.5,-913.4081339871527
+[15:04:57] [Server thread/WARN]: coastwised moved too quickly! 9.99380310040442,-1.2974177840401069,0.02683098453144339
+[15:04:57] [Server thread/WARN]: VaIspire moved too quickly! 6.46362070797295,-7.391160080540033,2.9909427442980814
+[15:04:59] [Server thread/WARN]: VaIspire moved too quickly! -0.03765091221544026,-11.314849834016997,1.1377671853438187
+[15:05:02] [Server thread/WARN]: AstralTime moved too quickly! 16.765915175893042,-3.023624374690712,3.4436758969459333
+[15:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
+[15:05:13] [Server thread/WARN]: AstralTime moved too quickly! 15.977095583871233,-1.8957775918138964,9.29326543772595
+[15:08:03] [Server thread/INFO]: Teleported AstralTime to coastwised
+[15:08:06] [Server thread/WARN]: coastwised moved too quickly! -2.931031345045369,1.8660158835621132,-9.941202892176307
+[15:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[15:08:26] [Server thread/WARN]: AstralTime moved too quickly! -8.585672144961961,-7.088170757845518,-14.059800772776498
+[15:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5196ms or 103 ticks behind
+[15:08:29] [Server thread/WARN]: AstralTime moved too quickly! -3.9295857227360784,-3.4801528223314335,-18.133796675201438
+[15:08:38] [Server thread/WARN]: AstralTime moved too quickly! 11.79535194690385,-3.389658930799712,13.181983943542036
+[15:09:03] [Server thread/WARN]: AstralTime moved too quickly! -15.142885596398798,4.736429093550839,8.818256981416653
+[15:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[15:09:04] [Server thread/WARN]: AstralTime moved too quickly! -16.716380559246943,-0.5588569978140043,7.636778759754861
+[15:09:33] [Server thread/INFO]: Set AstralTime's game mode to Creative Mode
+[15:09:42] [Server thread/INFO]: Set AstralTime's game mode to Survival Mode
+[15:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:10:37] [Server thread/WARN]: AstralTime moved too quickly! 0.09187677434101715,-4.583357833774755,9.045648766536488
+[15:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6494ms or 129 ticks behind
+[15:11:01] [Server thread/WARN]: coastwised moved too quickly! 9.961817016908299,-1.1735032956989357,-3.8037148119522044
+[15:14:04] [Server thread/INFO]: AstralTime lost connection: Disconnected
+[15:14:04] [Server thread/INFO]: AstralTime left the game
+[15:14:11] [Server thread/INFO]: VaIspire lost connection: Disconnected
+[15:14:11] [Server thread/INFO]: VaIspire left the game
+[15:15:00] [Server thread/INFO]: coastwised lost connection: Disconnected
+[15:15:00] [Server thread/INFO]: coastwised left the game
+[15:45:30] [Server thread/INFO]: sysyleen lost connection: Disconnected
+[15:45:30] [Server thread/INFO]: sysyleen left the game
+[15:57:03] [Server thread/INFO]: Stopping server
+[15:57:03] [Server thread/INFO]: Saving players
+[15:57:03] [Server thread/INFO]: Saving worlds
+[15:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:57:03] [Server thread/INFO]: Unloading server configs...
+[15:57:03] [Server thread/INFO]: Finished unloading server configs
+[15:57:03] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml

@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-03-02 23:59:17 +0800",
+      "minecraft:flower_forest": "2026-03-08 14:31:57 +0800",
       "minecraft:beach": "2026-03-02 23:59:15 +0800",
       "minecraft:old_growth_pine_taiga": "2026-03-08 00:08:10 +0800",
       "minecraft:dark_forest": "2026-03-08 00:07:25 +0800",
@@ -6152,12 +6153,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2026-03-08 05:48:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2026-03-08 05:47:48 +0800"
@@ -6209,6 +6204,12 @@
   "minecraft:recipes/combat/blue_harness": {
     "criteria": {
       "has_dried_ghast": "2026-03-08 05:47:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-03-08 05:48:30 +0800"
     },
     "done": true
   },
