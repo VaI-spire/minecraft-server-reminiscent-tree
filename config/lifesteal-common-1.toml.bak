@@ -15,7 +15,7 @@
 	#Determines if players should drop a heart crystal upon death.
 	"Players drop a Heart Crystal on death:" = true
 	#How long (seconds) until a player is automatically revived. Set to 0 to disable this feature.
-	#Range: > 0
+	#Range: > 1800
 	"How long player is dead for:" = 1800
 	#Because other mods add permanent hearts to the game like Origins, should we ban players at a static value of -20 hit points from this mod or ban them depending on the hearts added from other mods too? By default, this is false because this feature does not work 100% with other mods.
 	"Should players be banned dynamically:" = false
@@ -37,7 +37,7 @@
 		#Determines if Heart Cores are disabled.
 		"Disable Crystal Cores:" = false
 		#The percentage of health recovered when a Heart Core is used.
-		#Range: 0.01 ~ 1.0
+		#Range: 0.01 ~ 3.0
 		"Percentage of max health recovered from Crystal Cores" = 0.33
 		#Determines if Heart Cores can be used by players already at maximum health
 		"Prevent players at max hp from using Crystal Cores:" = true
