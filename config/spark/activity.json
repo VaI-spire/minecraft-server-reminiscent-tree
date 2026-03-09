@@ -1,0 +1,14 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1773036508558,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/F3DzQW45sv"
+    }
+  }
+]
