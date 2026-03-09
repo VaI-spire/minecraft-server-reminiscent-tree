@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-03-03 00:18:05 +0800",
+      "minecraft:flower_forest": "2026-03-09 21:38:39 +0800",
       "minecraft:beach": "2026-03-03 00:08:03 +0800",
       "minecraft:forest": "2026-03-02 20:47:19 +0800",
       "minecraft:taiga": "2026-03-07 19:33:59 +0800",
@@ -61,26 +62,29 @@
       "minecraft:pillager": "2026-03-05 22:27:24 +0800",
       "minecraft:blaze": "2026-03-06 23:35:51 +0800",
       "minecraft:skeleton": "2026-03-02 22:10:00 +0800",
+      "minecraft:bogged": "2026-03-05 23:17:23 +0800",
+      "minecraft:ghast": "2026-03-06 23:19:48 +0800",
+      "minecraft:hoglin": "2026-03-07 02:15:40 +0800",
+      "minecraft:breeze": "2026-03-05 23:19:46 +0800",
+      "minecraft:vindicator": "2026-03-08 22:19:16 +0800",
+      "minecraft:magma_cube": "2026-03-03 23:48:38 +0800",
+      "minecraft:spider": "2026-03-02 23:06:36 +0800",
+      "minecraft:creeper": "2026-03-02 22:58:14 +0800",
+      "minecraft:slime": "2026-03-07 21:13:11 +0800",
       "minecraft:zombified_piglin": "2026-03-04 22:56:59 +0800",
       "minecraft:witch": "2026-03-08 22:19:04 +0800",
       "minecraft:wither_skeleton": "2026-03-06 23:35:00 +0800",
       "minecraft:husk": "2026-03-05 23:07:48 +0800",
-      "minecraft:bogged": "2026-03-05 23:17:23 +0800",
-      "minecraft:ghast": "2026-03-06 23:19:48 +0800",
-      "minecraft:hoglin": "2026-03-07 02:15:40 +0800",
       "minecraft:cave_spider": "2026-03-02 22:27:56 +0800",
       "minecraft:piglin": "2026-03-04 23:14:29 +0800",
-      "minecraft:breeze": "2026-03-05 23:19:46 +0800",
-      "minecraft:vindicator": "2026-03-08 22:19:16 +0800",
       "minecraft:enderman": "2026-03-05 00:23:05 +0800",
       "minecraft:stray": "2026-03-07 21:54:53 +0800",
-      "minecraft:magma_cube": "2026-03-03 23:48:38 +0800",
-      "minecraft:spider": "2026-03-02 23:06:36 +0800",
+      "minecraft:silverfish": "2026-03-09 21:13:21 +0800",
+      "minecraft:endermite": "2026-03-09 21:43:40 +0800",
       "minecraft:vex": "2026-03-08 22:18:24 +0800",
       "minecraft:zombie": "2026-03-02 20:53:38 +0800",
-      "minecraft:creeper": "2026-03-02 22:58:14 +0800",
-      "minecraft:zombie_villager": "2026-03-02 20:52:42 +0800",
-      "minecraft:slime": "2026-03-07 21:13:11 +0800"
+      "minecraft:drowned": "2026-03-09 21:56:34 +0800",
+      "minecraft:zombie_villager": "2026-03-02 20:52:42 +0800"
     },
     "done": false
   },
@@ -2964,6 +2968,7 @@
       "sugar_cane": "2026-03-04 03:06:55 +0800",
       "potato": "2026-03-08 02:38:48 +0800",
       "nether_wart": "2026-03-09 16:24:34 +0800",
+      "melon": "2026-03-09 20:54:42 +0800",
       "carrot": "2026-03-08 02:38:31 +0800"
     },
     "done": false
@@ -4768,6 +4773,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-03-09 16:04:53 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pale_oak_cabinet": {
+    "criteria": {
+      "has_pale_oak_trapdoor": "2026-03-09 16:06:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2026-03-09 16:24:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-03-09 17:15:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2026-03-09 17:25:06 +0800"
@@ -4780,51 +4845,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2026-03-09 17:33:21 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2026-03-09 17:15:47 +0800"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2026-03-09 17:25:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2026-03-09 16:04:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2026-03-09 16:24:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2026-03-09 16:24:32 +0800"
     },
     "done": true
   },
@@ -4846,27 +4869,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "farmersdelight:main/place_skillet": {
     "criteria": {
-      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+      "skillet": "2026-03-09 17:33:21 +0800"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "lifesteal:get_heart_crystal": {
     "criteria": {
-      "nether_wart": "2026-03-09 16:24:34 +0800"
+      "has_heart_crystal": "2026-03-09 22:01:55 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/pale_oak_cabinet": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_pale_oak_trapdoor": "2026-03-09 16:06:37 +0800"
+      "has_bone_meal": "2026-03-09 20:58:06 +0800"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "minecraft:recipes/decorations/copper_chain": {
     "criteria": {
-      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-03-09 21:59:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/copper_knife": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-03-09 21:14:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-09 21:58:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-03-09 20:58:06 +0800"
     },
     "done": true
   },
