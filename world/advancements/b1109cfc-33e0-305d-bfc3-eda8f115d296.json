@@ -2963,6 +2963,7 @@
     "criteria": {
       "sugar_cane": "2026-03-04 03:06:55 +0800",
       "potato": "2026-03-08 02:38:48 +0800",
+      "nether_wart": "2026-03-09 16:24:34 +0800",
       "carrot": "2026-03-08 02:38:31 +0800"
     },
     "done": false
@@ -4719,6 +4720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2026-03-08 23:12:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2026-03-08 23:30:57 +0800"
@@ -4728,12 +4735,6 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2026-03-08 23:30:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2026-03-08 23:12:49 +0800"
     },
     "done": true
   },
@@ -4749,9 +4750,9 @@
     },
     "done": true
   },
-  "cratedelight:recipes/building_blocks/blue_egg_crate": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_blue_egg": "2026-03-08 23:42:47 +0800"
+      "has_minecart": "2026-03-08 23:30:57 +0800"
     },
     "done": true
   },
@@ -4761,9 +4762,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "cratedelight:recipes/building_blocks/blue_egg_crate": {
     "criteria": {
-      "has_minecart": "2026-03-08 23:30:57 +0800"
+      "has_blue_egg": "2026-03-08 23:42:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2026-03-09 17:33:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-03-09 17:15:47 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-03-09 16:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-03-09 17:25:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-03-09 16:14:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2026-03-09 16:24:34 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pale_oak_cabinet": {
+    "criteria": {
+      "has_pale_oak_trapdoor": "2026-03-09 16:06:37 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2026-03-09 16:24:32 +0800"
     },
     "done": true
   },
