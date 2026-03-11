@@ -1,5 +1,5 @@
-[22:59:14] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
-[22:59:14] [main/INFO]: Loading 158 mods:
+[23:08:54] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
+[23:08:55] [main/INFO]: Loading 160 mods:
 	- animal_pen 1.6.2
 	- appleskin 3.0.8+mc1.21.11
 	- architectury 19.0.1
@@ -108,6 +108,8 @@
 	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
 	- fabricloader 0.18.4
 	   \-- mixinextras 0.5.0
+	- fabrictailor 2.8.1
+	   \-- config2brigadier 2.1.0
 	- farmersdelight 1.21.11-3.4.9+refabricated
 	   \-- mm 2.3
 	- farmersknives 1.21.11-4.0.5
@@ -178,204 +180,203 @@
 	   \-- xaerolib 1.1.0
 	- xaeroworldmap 1.40.11
 	   \-- xaerolib 1.1.0
-[22:59:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Tim/Desktop/minecraft-server-reminiscent-tree/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:59:15] [main/INFO]: Compatibility level set to JAVA_21
-[22:59:15] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[22:59:15] [main/INFO]: Global Executor Parallelism: 2 configured, 2 evaluated, 2 default evaluated
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.natives_math.mixin
-[22:59:15] [main/INFO]: Attempting to call native library. If your game crashes right after this point, native acceleration may not be available for your system.
-[22:59:15] [main/INFO]: Detected maximum supported ISA target: AVX2
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[22:59:15] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@19.0.1 (*) (defined in c2me)
-[22:59:15] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[22:59:15] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[22:59:15] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'lifesteal.refmap.json' for lifesteal-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'lifesteal.refmap.json' for lifesteal-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
-[22:59:15] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:15] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
-[22:59:16] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:16] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[22:59:16] [main/WARN]: Error loading class: net/minecraft/class_757 (java.lang.ClassNotFoundException: net/minecraft/class_757)
-[22:59:16] [main/WARN]: @Mixin target net.minecraft.class_757 was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
-[22:59:16] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[22:59:16] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[22:59:17] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
-[22:59:17] [main/WARN]: Error loading class: com/ishland/c2me/opts/accel/opencl/mixin/deobf/MixinNoiseChunkGenerator (java.lang.ClassNotFoundException: com/ishland/c2me/opts/accel/opencl/mixin/deobf/MixinNoiseChunkGenerator)
-[22:59:17] [main/WARN]: Error loading class: net/minecraft/class_12225$class_12226 (java.lang.ClassNotFoundException: net/minecraft/class_12225$class_12226)
-[22:59:17] [main/WARN]: @Mixin target net.minecraft.class_12225$class_12226 was not found owo.mixins.json:braid.ClickableStyleFinderAccessor from mod owo
-[22:59:17] [main/WARN]: Error loading class: net/minecraft/class_1921 (java.lang.ClassNotFoundException: net/minecraft/class_1921)
-[22:59:17] [main/WARN]: @Mixin target net.minecraft.class_1921 was not found owo.mixins.json:braid.RenderTypeInvoker from mod owo
-[22:59:17] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
-[22:59:17] [main/WARN]: @Mixin target xyz.nucleoid.server.translations.impl.language.LanguageReader was not found owo.mixins.json:extension.json5.LanguageReaderMixin from mod owo
-[22:59:17] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[22:59:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[22:59:27] [main/INFO]: Registering C2S receiver with id animal_pen:update_display_animal
-[22:59:27] [main/INFO]: Registering C2S receiver with id animal_pen:remove_display_animal
-[22:59:27] [main/INFO]: Registering C2S receiver with id animal_pen:update_configuration
-[22:59:27] [main/INFO]: Loading Collective version 8.13.
-[22:59:27] [main/INFO]: Registering Item Groups for cratedelight
-[22:59:27] [main/INFO]: Registering mod blocks for cratedelight
-[22:59:27] [main/INFO]: Initialized Farmers Delight compatibility
-[22:59:27] [main/INFO]: Initialized Oceans Delight compatibility
-[22:59:27] [main/INFO]: Initialized Pineapple Delight compatibility
-[22:59:27] [main/INFO]: Initialized Corn Delight compatibility
-[22:59:27] [main/INFO]: Initialized End's Delight compatibility
-[22:59:27] [main/INFO]: Initialized My Nether's Delight compatibility
-[22:59:27] [main/INFO]: Initialized Expanded Delight compatibility
-[22:59:27] [main/INFO]: Initialized Delightful compatibility
-[22:59:27] [main/INFO]: Initialized Alex Delight compatibility
-[22:59:27] [main/INFO]: Initialized Cultural Delight compatibility
-[22:59:27] [main/INFO]: Initialized Large Meals compatibility
-[22:59:27] [main/INFO]: Initialized Festive Delight compatibility
-[22:59:27] [main/INFO]: Initialized Ender Delight compatibility
-[22:59:27] [main/INFO]: Initialized Aquaculture Delight compatibility
-[22:59:27] [main/INFO]: Initialized Brewin n Chewin compatibility
-[22:59:27] [main/INFO]: Initialized Crabber's Delight compatibility
-[22:59:27] [main/INFO]: Initialized Display Delight Blocks
-[22:59:27] [main/INFO]: Initialized Display Delight
-[22:59:27] [main/INFO]: Loaded config farmersdelight-common.json
-[22:59:28] [main/INFO]: Reflections took 80 ms to scan 1 urls, producing 8 keys and 73 values
-[22:59:28] [main/INFO]: Muahahah, we shall make every block out of bedrock material!
-[22:59:28] [main/INFO]: Initializing JamLib on Fabric
-[22:59:28] [main/INFO]: Compression will use Java, encryption will use Java
-[22:59:28] [main/INFO]: Constructing components for leavesbegone:common
-[22:59:28] [main/INFO]: Lifestealers are on the loose!
-[22:59:28] [main/INFO]: Definitely not up to no good
-[22:59:28] [main/INFO]: Loading Noisium.
-[22:59:28] [main/INFO]: Loaded Noisium config from resource
-[22:59:28] [main/INFO]: Noisium config: noiseChunkGenerator=true, generationShapeConfig=true, chunkSection=true, chainedBlockSource=true, useGuiGraphics=true
-[22:59:28] [main/INFO]: Loaded Fabric config from .\config\noisium.json
-[22:59:28] [main/INFO]: fuck i need to update tags again
-[22:59:28] [main/INFO]: Constructing components for puzzleslib:common
-[22:59:28] [main/INFO]: Updated config file at C:\Users\Tim\Desktop\minecraft-server-reminiscent-tree\config\rightclickharvest.json5
-[22:59:28] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[22:59:28] [main/INFO]: Registering items for rusticdelight
-[22:59:28] [main/INFO]: Registering blocks for rusticdelight
-[22:59:28] [main/INFO]: Registering potions for rusticdelight
-[22:59:28] [main/INFO]: Registering biome modifications for rusticdelight
-[22:59:28] [main/INFO]: Registering placement modifiers for rusticdelight
-[22:59:28] [main/INFO]: Registering item group for rusticdelight
-[22:59:28] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
-[22:59:29] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[22:59:29] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[22:59:29] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[22:59:29] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[22:59:30] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7b6d9f6]
-[22:59:30] [main/INFO]: WorldEdit for Fabric (version 7.4.0+7381-3decaf0) is loaded
-[22:59:30] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[22:59:30] [main/INFO]: Registering common data for channel xaerolib:main!
-[22:59:30] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[22:59:30] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[22:59:30] [main/INFO]: Loading XaeroLib common 1/2!
-[22:59:30] [main/INFO]: Loading XaeroLib server 1/2!
-[22:59:30] [main/INFO]: Registering common data for channel xaerominimap:main!
-[22:59:30] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[22:59:30] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[22:59:30] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:59:30] [main/INFO]: Registering common data for channel xaeroworldmap:main!
-[22:59:30] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
-[22:59:30] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
-[22:59:30] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[22:59:30] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[22:59:31] [main/WARN]: Missing data pack config2brigadier
-[22:59:31] [main/WARN]: Missing data pack fabrictailor
-[22:59:33] [Worker-Main-2/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:enderite_knife' from 'farmersknives:recipe/enderite_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:enderite_knife; Second: Not a string: {"id":"farmersknives:enderite_knife"}; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:featherzeal_knife' from 'farmersknives:recipe/featherzeal_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:featherzeal_knife; Second: Not a string: {"id":"farmersknives:featherzeal_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_upgrade_smithing_template']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:netherite_diamond_knife' from 'farmersknives:recipe/netherite_diamond_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_diamond_knife; Second: Not a string: {"id":"farmersknives:netherite_diamond_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_diamond_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_diamond_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_diamond_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_emerald_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_emerald_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:netherite_emerald_knife' from 'farmersknives:recipe/netherite_emerald_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife; Second: Not a string: {"id":"farmersknives:netherite_emerald_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_emerald_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_emerald_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_emerald_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_gold_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_gold_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:netherite_gold_knife' from 'farmersknives:recipe/netherite_gold_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife; Second: Not a string: {"id":"farmersknives:netherite_gold_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_gold_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_gold_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_gold_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_iron_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_iron_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:netherite_iron_knife' from 'farmersknives:recipe/netherite_iron_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife; Second: Not a string: {"id":"farmersknives:netherite_iron_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_iron_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_iron_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_iron_ingot']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:remnant_knife' from 'farmersknives:recipe/remnant_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:remnant_knife; Second: Not a string: {"id":"farmersknives:remnant_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_upgrade_smithing_template']
-[22:59:34] [Worker-Main-3/ERROR]: Couldn't parse data file 'farmersknives:rose_knife' from 'farmersknives:recipe/rose_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:rose_knife; Second: Not a string: {"id":"farmersknives:rose_knife"}; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_ingot; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_upgrade_smithing_template']
-[22:59:34] [main/INFO]: Loaded 2259 recipes
-[22:59:34] [main/INFO]: Loaded 2350 advancements
-[22:59:34] [main/INFO]: Loaded 38 animal food entries.
-[22:59:35] [main/INFO]: Applied 455 biome modifications to 159 of 160 new biomes in 24.55 ms
-[22:59:35] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[22:59:35] [Server thread/INFO]: Loading server configs...
-[22:59:36] [Server thread/INFO]: Starting background profiler...
-[22:59:36] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[22:59:36] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[22:59:36] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[22:59:36] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[22:59:36] [Server thread/INFO]: Loading properties
-[22:59:36] [Server thread/INFO]: Default game type: SURVIVAL
-[22:59:36] [Server thread/INFO]: Generating keypair
-[22:59:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:59:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:59:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:59:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:59:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:59:37] [Server thread/INFO]: Preparing level "world"
-[22:59:37] [Server thread/INFO]: Enforcing safe world random access
-[22:59:37] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 428.6 ms
-[22:59:38] [Server thread/INFO]: Changing watch distance to 8
-[22:59:38] [Server thread/INFO]: Using TheSpeedyObjectFactory without Unsafe
-[22:59:38] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
-[22:59:38] [Server thread/INFO]: Loaded 0 overlays
-[22:59:38] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
-[22:59:38] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 61.94 ms
-[22:59:38] [Server thread/INFO]: Changing watch distance to 8
-[22:59:38] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
-[22:59:38] [Server thread/INFO]: No existing overlay save file found
-[22:59:38] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
-[22:59:38] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 5.829 ms
-[22:59:38] [Server thread/INFO]: Changing watch distance to 8
-[22:59:38] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
-[22:59:38] [Server thread/INFO]: No existing overlay save file found
-[22:59:38] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
-[22:59:38] [Server thread/INFO]: Loading 0 persistent chunks...
-[22:59:38] [Server thread/INFO]: Preparing spawn area: 100%
-[22:59:38] [Server thread/INFO]: Time elapsed: 18 ms
-[22:59:38] [Server thread/INFO]: Done (1.898s)! For help, type "help"
-[22:59:38] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
-[22:59:38] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[22:59:38] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[22:59:38] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[22:59:39] [Server thread/ERROR]: Failed to load plugin from Underlay: com.dooji.underlay.jade.UnderlayJadePlugin
+[23:08:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Tim/Desktop/minecraft-server-reminiscent-tree/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:08:55] [main/INFO]: Compatibility level set to JAVA_21
+[23:08:55] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:55] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:55] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:55] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[23:08:56] [main/INFO]: Global Executor Parallelism: 2 configured, 2 evaluated, 2 default evaluated
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.natives_math.mixin
+[23:08:56] [main/INFO]: Attempting to call native library. If your game crashes right after this point, native acceleration may not be available for your system.
+[23:08:56] [main/INFO]: Detected maximum supported ISA target: AVX2
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:08:56] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@19.0.1 (*) (defined in c2me)
+[23:08:56] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[23:08:56] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[23:08:56] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'lifesteal.refmap.json' for lifesteal-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'lifesteal.refmap.json' for lifesteal-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
+[23:08:56] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
+[23:08:56] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:08:56] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[23:08:56] [main/WARN]: Error loading class: net/minecraft/class_757 (java.lang.ClassNotFoundException: net/minecraft/class_757)
+[23:08:56] [main/WARN]: @Mixin target net.minecraft.class_757 was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
+[23:08:57] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[23:08:57] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[23:08:57] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[23:08:57] [main/WARN]: Error loading class: com/ishland/c2me/opts/accel/opencl/mixin/deobf/MixinNoiseChunkGenerator (java.lang.ClassNotFoundException: com/ishland/c2me/opts/accel/opencl/mixin/deobf/MixinNoiseChunkGenerator)
+[23:08:57] [main/WARN]: Error loading class: net/minecraft/class_12225$class_12226 (java.lang.ClassNotFoundException: net/minecraft/class_12225$class_12226)
+[23:08:57] [main/WARN]: @Mixin target net.minecraft.class_12225$class_12226 was not found owo.mixins.json:braid.ClickableStyleFinderAccessor from mod owo
+[23:08:57] [main/WARN]: Error loading class: net/minecraft/class_1921 (java.lang.ClassNotFoundException: net/minecraft/class_1921)
+[23:08:57] [main/WARN]: @Mixin target net.minecraft.class_1921 was not found owo.mixins.json:braid.RenderTypeInvoker from mod owo
+[23:08:57] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
+[23:08:57] [main/WARN]: @Mixin target xyz.nucleoid.server.translations.impl.language.LanguageReader was not found owo.mixins.json:extension.json5.LanguageReaderMixin from mod owo
+[23:08:57] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[23:08:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[23:09:06] [main/INFO]: Registering C2S receiver with id animal_pen:update_display_animal
+[23:09:06] [main/INFO]: Registering C2S receiver with id animal_pen:remove_display_animal
+[23:09:06] [main/INFO]: Registering C2S receiver with id animal_pen:update_configuration
+[23:09:06] [main/INFO]: Loading Collective version 8.13.
+[23:09:06] [main/INFO]: Registering Item Groups for cratedelight
+[23:09:06] [main/INFO]: Registering mod blocks for cratedelight
+[23:09:06] [main/INFO]: Initialized Farmers Delight compatibility
+[23:09:06] [main/INFO]: Initialized Oceans Delight compatibility
+[23:09:06] [main/INFO]: Initialized Pineapple Delight compatibility
+[23:09:06] [main/INFO]: Initialized Corn Delight compatibility
+[23:09:06] [main/INFO]: Initialized End's Delight compatibility
+[23:09:06] [main/INFO]: Initialized My Nether's Delight compatibility
+[23:09:06] [main/INFO]: Initialized Expanded Delight compatibility
+[23:09:06] [main/INFO]: Initialized Delightful compatibility
+[23:09:06] [main/INFO]: Initialized Alex Delight compatibility
+[23:09:06] [main/INFO]: Initialized Cultural Delight compatibility
+[23:09:06] [main/INFO]: Initialized Large Meals compatibility
+[23:09:06] [main/INFO]: Initialized Festive Delight compatibility
+[23:09:06] [main/INFO]: Initialized Ender Delight compatibility
+[23:09:06] [main/INFO]: Initialized Aquaculture Delight compatibility
+[23:09:06] [main/INFO]: Initialized Brewin n Chewin compatibility
+[23:09:06] [main/INFO]: Initialized Crabber's Delight compatibility
+[23:09:06] [main/INFO]: Initialized Display Delight Blocks
+[23:09:07] [main/INFO]: Initialized Display Delight
+[23:09:07] [main/INFO]: Loaded config farmersdelight-common.json
+[23:09:07] [main/INFO]: Reflections took 93 ms to scan 1 urls, producing 8 keys and 73 values
+[23:09:07] [main/INFO]: Muahahah, we shall make every block out of bedrock material!
+[23:09:07] [main/INFO]: Initializing JamLib on Fabric
+[23:09:07] [main/INFO]: Compression will use Java, encryption will use Java
+[23:09:07] [main/INFO]: Constructing components for leavesbegone:common
+[23:09:07] [main/INFO]: Lifestealers are on the loose!
+[23:09:07] [main/INFO]: Definitely not up to no good
+[23:09:07] [main/INFO]: Loading Noisium.
+[23:09:07] [main/INFO]: Loaded Noisium config from resource
+[23:09:07] [main/INFO]: Noisium config: noiseChunkGenerator=true, generationShapeConfig=true, chunkSection=true, chainedBlockSource=true, useGuiGraphics=true
+[23:09:07] [main/INFO]: Loaded Fabric config from .\config\noisium.json
+[23:09:07] [main/INFO]: BasiqueEvangelist: what if... iphones
+[23:09:07] [main/INFO]: Constructing components for puzzleslib:common
+[23:09:07] [main/INFO]: Updated config file at C:\Users\Tim\Desktop\minecraft-server-reminiscent-tree\config\rightclickharvest.json5
+[23:09:07] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[23:09:07] [main/INFO]: Registering items for rusticdelight
+[23:09:07] [main/INFO]: Registering blocks for rusticdelight
+[23:09:07] [main/INFO]: Registering potions for rusticdelight
+[23:09:07] [main/INFO]: Registering biome modifications for rusticdelight
+[23:09:07] [main/INFO]: Registering placement modifiers for rusticdelight
+[23:09:07] [main/INFO]: Registering item group for rusticdelight
+[23:09:07] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
+[23:09:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:09:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:09:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:09:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:09:09] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@68a48fac]
+[23:09:09] [main/INFO]: WorldEdit for Fabric (version 7.4.0+7381-3decaf0) is loaded
+[23:09:09] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[23:09:09] [main/INFO]: Registering common data for channel xaerolib:main!
+[23:09:09] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[23:09:09] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[23:09:09] [main/INFO]: Loading XaeroLib common 1/2!
+[23:09:09] [main/INFO]: Loading XaeroLib server 1/2!
+[23:09:09] [main/INFO]: Registering common data for channel xaerominimap:main!
+[23:09:09] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[23:09:09] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[23:09:09] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23:09:09] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[23:09:09] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[23:09:09] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[23:09:09] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23:09:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:09:10] [main/INFO]: Found new data pack config2brigadier, loading it automatically
+[23:09:10] [main/INFO]: Found new data pack fabrictailor, loading it automatically
+[23:09:12] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:enderite_knife' from 'farmersknives:recipe/enderite_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:enderite_knife; Second: Not a string: {"id":"farmersknives:enderite_knife"}; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Not a JSON object: "enderitemod:enderite_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "enderitemod:enderite_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:featherzeal_knife' from 'farmersknives:recipe/featherzeal_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:featherzeal_knife; Second: Not a string: {"id":"farmersknives:featherzeal_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:featherzeal_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:featherzeal_upgrade_smithing_template']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:netherite_diamond_knife' from 'farmersknives:recipe/netherite_diamond_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_diamond_knife; Second: Not a string: {"id":"farmersknives:netherite_diamond_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_diamond_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_diamond_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_diamond_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_emerald_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_emerald_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:netherite_emerald_knife' from 'farmersknives:recipe/netherite_emerald_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_emerald_knife; Second: Not a string: {"id":"farmersknives:netherite_emerald_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_emerald_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_emerald_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_emerald_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_gold_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_gold_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:netherite_gold_knife' from 'farmersknives:recipe/netherite_gold_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_gold_knife; Second: Not a string: {"id":"farmersknives:netherite_gold_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_gold_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_gold_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_gold_ingot; Failed to parse either. First: Not a JSON object: "farmersknives:netherite_iron_knife"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "farmersknives:netherite_iron_knife"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:netherite_iron_knife' from 'farmersknives:recipe/netherite_iron_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:netherite_iron_knife; Second: Not a string: {"id":"farmersknives:netherite_iron_knife"}; Failed to parse either. First: Not a JSON object: "advancednetherite:netherite_iron_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "advancednetherite:netherite_iron_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: advancednetherite:netherite_iron_ingot']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:remnant_knife' from 'farmersknives:recipe/remnant_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:remnant_knife; Second: Not a string: {"id":"farmersknives:remnant_knife"}; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_ingot; Failed to parse either. First: Not a JSON object: "end_reborn:remnant_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "end_reborn:remnant_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: end_reborn:remnant_upgrade_smithing_template']
+[23:09:13] [Worker-Main-2/ERROR]: Couldn't parse data file 'farmersknives:rose_knife' from 'farmersknives:recipe/rose_knife.json': DataResult.Error['Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: farmersknives:rose_knife; Second: Not a string: {"id":"farmersknives:rose_knife"}; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_ingot"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_ingot"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_ingot; Failed to parse either. First: Not a JSON object: "progression_reborn:rose_upgrade_smithing_template"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "progression_reborn:rose_upgrade_smithing_template"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: progression_reborn:rose_upgrade_smithing_template']
+[23:09:14] [main/INFO]: Loaded 2259 recipes
+[23:09:14] [main/INFO]: Loaded 2350 advancements
+[23:09:14] [main/INFO]: Loaded 38 animal food entries.
+[23:09:15] [main/INFO]: Applied 455 biome modifications to 159 of 160 new biomes in 18.63 ms
+[23:09:15] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[23:09:15] [Server thread/INFO]: Loading server configs...
+[23:09:16] [Server thread/INFO]: Starting background profiler...
+[23:09:16] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[23:09:16] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[23:09:16] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[23:09:16] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[23:09:16] [Server thread/INFO]: Loading properties
+[23:09:16] [Server thread/INFO]: Default game type: SURVIVAL
+[23:09:16] [Server thread/INFO]: Generating keypair
+[23:09:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:09:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:09:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:09:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:09:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:09:16] [Server thread/INFO]: Preparing level "world"
+[23:09:17] [Server thread/INFO]: Enforcing safe world random access
+[23:09:17] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 509.9 ms
+[23:09:18] [Server thread/INFO]: Changing watch distance to 8
+[23:09:18] [Server thread/INFO]: Using TheSpeedyObjectFactory without Unsafe
+[23:09:18] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
+[23:09:18] [Server thread/INFO]: Loaded 0 overlays
+[23:09:18] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
+[23:09:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 31.86 ms
+[23:09:18] [Server thread/INFO]: Changing watch distance to 8
+[23:09:18] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
+[23:09:18] [Server thread/INFO]: No existing overlay save file found
+[23:09:18] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
+[23:09:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 26.50 ms
+[23:09:18] [Server thread/INFO]: Changing watch distance to 8
+[23:09:18] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
+[23:09:18] [Server thread/INFO]: No existing overlay save file found
+[23:09:18] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
+[23:09:19] [Server thread/INFO]: Loading 0 persistent chunks...
+[23:09:19] [Server thread/INFO]: Time elapsed: 15 ms
+[23:09:19] [Server thread/INFO]: Done (2.144s)! For help, type "help"
+[23:09:19] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[23:09:19] [Server thread/ERROR]: Failed to load plugin from Underlay: com.dooji.underlay.jade.UnderlayJadePlugin
 java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJadePlugin in environment type SERVER
 	at net.fabricmc.loader.impl.transformer.FabricTransformer.transform(FabricTransformer.java:61)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPreMixinClassByteArray(KnotClassDelegate.java:475)
@@ -397,75 +398,61 @@ java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade.UnderlayJa
 	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:743)
 	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:301)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[22:59:39] [Server thread/INFO]: Trying to load plugins again without erroneous plugins
-[22:59:39] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[22:59:39] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[22:59:39] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:59:39] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[23:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[23:02:37] [Server thread/INFO]: VaIspire[/127.0.0.1:52232] logged in with entity id 59 at (355.6229751674103, 118.0, -1901.0704296282486)
-[23:02:37] [Server thread/INFO]: Loading config from file...
-[23:02:37] [Server thread/INFO]: VaIspire joined the game
-[23:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9672ms or 193 ticks behind
-[23:02:50] [Server thread/INFO]: [ShulkerBoxTooltip] VaIspire: protocol version: 2.0
-[23:02:50] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
-[23:02:51] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 51 providers for mod shulkerboxtooltip
-[23:02:57] [Server thread/WARN]: VaIspire moved too quickly! 1228.8770248325898,138.5,-548.4295703717514
-[23:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15651ms or 313 ticks behind
-[23:03:19] [Server thread/INFO]: Made VaIspire a server operator
-[23:03:23] [Server thread/WARN]: VaIspire moved too quickly! -0.5777648234989101,-1.6427133673651895,10.204487016204894
-[23:03:24] [Server thread/WARN]: VaIspire moved too quickly! -3.250475197773767,5.4376589035053655,8.195429475721994
-[23:03:26] [Server thread/WARN]: VaIspire moved too quickly! -1.8272028953365407,0.0,10.047349453241623
-[23:03:29] [Server thread/WARN]: VaIspire moved too quickly! 9.962074017810892,0.0,1.9466116925532333
-[23:03:31] [Server thread/WARN]: VaIspire moved too quickly! 2.3688155867648675,-9.875870157800591,0.27857485608546995
-[23:03:34] [Server thread/WARN]: VaIspire moved too quickly! 1.677912137959538,-15.69442023458464,0.1973239854410167
-[23:03:36] [Server thread/WARN]: VaIspire moved too quickly! 10.459103717914331,0.02582925833741001,1.2300000596414975
-[23:03:39] [Server thread/WARN]: VaIspire moved too quickly! 10.674534220286205,0.0,1.2553348816227299
-[23:03:41] [Server thread/WARN]: VaIspire moved too quickly! 10.129792676371608,0.5028345457401429,1.1912727832268502
-[23:03:42] [Server thread/WARN]: VaIspire moved too quickly! 1.4030340360320679,-10.287592896255177,-0.508277675023237
-[23:03:44] [Server thread/WARN]: VaIspire moved too quickly! 1.762632691890758,-10.61202295686212,-0.4866450402682858
-[23:03:45] [Server thread/WARN]: VaIspire moved too quickly! 1.9841929155822982,-11.026982712340185,-0.043439394839424494
-[23:03:47] [Server thread/WARN]: VaIspire moved too quickly! 10.775047952751265,0.0,0.6989198151682103
-[23:03:49] [Server thread/WARN]: VaIspire moved too quickly! 9.592523143204062,-0.16709312953139488,3.020333774198207
-[23:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28818ms or 576 ticks behind
-[23:04:32] [Server thread/WARN]: VaIspire moved too quickly! 0.10547280806144954,4.513617350986607,9.961260614564708
-[23:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[23:04:39] [Server thread/WARN]: VaIspire moved too quickly! -5.5768365359008385,4.643759848624768,7.512866601244696
-[23:04:42] [Server thread/WARN]: VaIspire moved too quickly! 1.659695851933293,-16.587771592302715,0.07861561928575611
-[23:07:04] [Server thread/INFO]: VaIspire was killed
-[23:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
-[23:07:07] [Server thread/WARN]: VaIspire moved too quickly! -0.6803842957874622,4.502941488003302,9.452149158436896
-[23:07:12] [Server thread/WARN]: VaIspire moved too quickly! 10.240146750673148,2.4112560840184756,-0.3490959972896235
-[23:07:14] [Server thread/WARN]: VaIspire moved too quickly! 10.343407022131714,0.0,1.286828604564107
-[23:07:49] [Server thread/WARN]: VaIspire moved too quickly! -7.386552505351119,4.500000141459481,6.03094081147583
-[23:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
-[23:07:56] [Server thread/WARN]: VaIspire moved too quickly! 2.021614234706931,-10.43621396124179,2.39246310892986
-[23:08:13] [Server thread/INFO]: VaIspire lost connection: Disconnected
-[23:08:13] [Server thread/INFO]: VaIspire left the game
-[23:08:19] [Server thread/INFO]: Stopping server
-[23:08:19] [Server thread/INFO]: Saving players
-[23:08:19] [Server thread/INFO]: Saving worlds
-[23:08:19] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 729 chunks to unload
-[23:08:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:08:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:08:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:08:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:08:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:08:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:08:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:08:20] [C2ME Storage #3/INFO]: Storage thread Thread[#87,C2ME Storage #3,5,main] stopped
-[23:08:20] [C2ME Storage #2/INFO]: Storage thread Thread[#86,C2ME Storage #2,5,main] stopped
-[23:08:20] [C2ME Storage #1/INFO]: Storage thread Thread[#85,C2ME Storage #1,5,main] stopped
-[23:08:20] [C2ME Storage #6/INFO]: Storage thread Thread[#90,C2ME Storage #6,5,main] stopped
-[23:08:20] [C2ME Storage #5/INFO]: Storage thread Thread[#89,C2ME Storage #5,5,main] stopped
-[23:08:20] [C2ME Storage #4/INFO]: Storage thread Thread[#88,C2ME Storage #4,5,main] stopped
-[23:08:20] [C2ME Storage #8/INFO]: Storage thread Thread[#92,C2ME Storage #8,5,main] stopped
-[23:08:20] [C2ME Storage #9/INFO]: Storage thread Thread[#93,C2ME Storage #9,5,main] stopped
-[23:08:20] [C2ME Storage #7/INFO]: Storage thread Thread[#91,C2ME Storage #7,5,main] stopped
-[23:08:20] [Server thread/INFO]: Unloading server configs...
-[23:08:20] [Server thread/INFO]: Finished unloading server configs
-[23:08:20] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[23:09:19] [Server thread/INFO]: Trying to load plugins again without erroneous plugins
+[23:09:19] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.platform.compatibility.hudinfo.internal.FabricJadeModCompat
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[23:09:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[23:09:19] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23:09:19] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[23:11:53] [Server thread/INFO]: VaIspire[/127.0.0.1:58034] logged in with entity id 70 at (355.5, 118.0, -1897.5)
+[23:11:53] [Server thread/INFO]: Loading config from file...
+[23:11:53] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NoSuchMethodError: 'boolean net.minecraft.class_2168.method_9259(int)'
+	at knot//org.samo_lego.config2brigadier.common.IBrigadierConfigurator.lambda$recursiveEditCommand$8(IBrigadierConfigurator.java:316)
+	at knot//com.mojang.brigadier.tree.CommandNode.canUse(CommandNode.java:65)
+	at knot//net.minecraft.class_2170.method_9239(class_2170.java:449)
+	at knot//net.minecraft.class_2170.method_9239(class_2170.java:458)
+	at knot//net.minecraft.class_2170.method_9239(class_2170.java:458)
+	at knot//net.minecraft.class_2170.method_9239(class_2170.java:458)
+	at knot//net.minecraft.class_2170.method_9241(class_2170.java:443)
+	at knot//net.minecraft.class_3324.method_14596(class_3324.java:592)
+	at knot//net.minecraft.class_3324.method_14576(class_3324.java:489)
+	at knot//net.minecraft.class_3324.method_14570(class_3324.java:192)
+	at knot//net.minecraft.class_11549$class_11551.method_72305(class_11549.java:198)
+	at knot//net.minecraft.class_11549.method_72296(class_11549.java:91)
+	at knot//net.minecraft.class_8610.method_52408(class_8610.java:178)
+	at knot//net.minecraft.class_8736.method_53043(class_8736.java:22)
+	at knot//net.minecraft.class_8736.method_65081(class_8736.java:8)
+	at knot//net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55)
+	at knot//net.minecraft.class_11980.method_74449(class_11980.java:38)
+	at knot//net.minecraft.server.MinecraftServer.method_76677(MinecraftServer.java:1047)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:771)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[23:11:53] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Tim\Desktop\minecraft-server-reminiscent-tree\crash-reports\crash-2026-03-11_23.11.53-server.txt
+[23:11:53] [Server thread/INFO]: Stopping server
+[23:11:53] [Server thread/INFO]: Saving players
+[23:11:53] [Server thread/INFO]: Saving worlds
+[23:11:53] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 1570 chunks to unload
+[23:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:11:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:11:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:11:55] [C2ME Storage #3/INFO]: Storage thread Thread[#87,C2ME Storage #3,5,main] stopped
+[23:11:55] [C2ME Storage #2/INFO]: Storage thread Thread[#86,C2ME Storage #2,5,main] stopped
+[23:11:55] [C2ME Storage #1/INFO]: Storage thread Thread[#85,C2ME Storage #1,5,main] stopped
+[23:11:55] [C2ME Storage #6/INFO]: Storage thread Thread[#90,C2ME Storage #6,5,main] stopped
+[23:11:55] [C2ME Storage #5/INFO]: Storage thread Thread[#89,C2ME Storage #5,5,main] stopped
+[23:11:55] [C2ME Storage #4/INFO]: Storage thread Thread[#88,C2ME Storage #4,5,main] stopped
+[23:11:55] [C2ME Storage #9/INFO]: Storage thread Thread[#93,C2ME Storage #9,5,main] stopped
+[23:11:55] [C2ME Storage #8/INFO]: Storage thread Thread[#92,C2ME Storage #8,5,main] stopped
+[23:11:55] [C2ME Storage #7/INFO]: Storage thread Thread[#91,C2ME Storage #7,5,main] stopped
+[23:11:55] [Server thread/INFO]: Unloading server configs...
+[23:11:55] [Server thread/INFO]: Finished unloading server configs
+[23:11:55] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
