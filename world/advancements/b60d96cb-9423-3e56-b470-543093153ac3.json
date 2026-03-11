@@ -3988,7 +3988,25 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-03-10 20:41:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-03-10 20:42:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-03-10 20:42:33 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2026-03-10 20:42:33 +0800"
     },
@@ -4006,29 +4024,23 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2026-03-10 20:54:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2026-03-10 20:42:32 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2026-03-10 20:50:41 +0800"
     },
     "done": true
   },
-  "nova_structures:nether/find_skeleton_tower": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "nova_structures:nether_skeleton_tower_soul": "2026-03-10 20:57:46 +0800"
+      "has_basalt": "2026-03-10 20:50:41 +0800"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-03-10 20:50:41 +0800"
+    },
+    "done": true
   },
   "farmersdelight:main/get_ham": {
     "criteria": {
@@ -4036,21 +4048,15 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
     "criteria": {
-      "loot_bastion_other": "2026-03-10 20:41:55 +0800"
+      "has_smoked_ham": "2026-03-10 20:51:26 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_glowstone": "2026-03-10 20:59:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2026-03-10 20:50:41 +0800"
+      "blaze_rod": "2026-03-10 20:54:20 +0800"
     },
     "done": true
   },
@@ -4066,27 +4072,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
-    "criteria": {
-      "has_magma_cream": "2026-03-10 20:42:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2026-03-10 20:50:41 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2026-03-10 20:54:20 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+  "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
-      "has_smoked_ham": "2026-03-10 20:51:26 +0800"
+      "nova_structures:nether_skeleton_tower_soul": "2026-03-10 20:57:46 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-03-10 20:59:31 +0800"
     },
     "done": true
   },

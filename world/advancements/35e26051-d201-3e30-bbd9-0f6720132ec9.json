@@ -6474,27 +6474,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2026-03-10 19:07:56 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2026-03-10 19:08:04 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2026-03-10 17:39:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2026-03-10 19:07:56 +0800"
     },
     "done": true
   },
@@ -6504,21 +6486,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-03-10 19:07:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-03-10 19:07:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bordure_indented_banner_pattern": {
     "criteria": {
       "has_vines": "2026-03-10 19:07:56 +0800"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/bamboo_cabinet": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_bamboo_trapdoor": "2026-03-10 19:08:49 +0800"
+      "has_bone_meal": "2026-03-10 19:08:04 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2026-03-10 19:08:04 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/bamboo_cabinet": {
+    "criteria": {
+      "has_bamboo_trapdoor": "2026-03-10 19:08:49 +0800"
     },
     "done": true
   },
